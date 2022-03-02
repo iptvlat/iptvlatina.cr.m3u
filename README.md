@@ -1,11 +1,5 @@
+#EXTM3U
 # iptvlatina.cr.m3u
-https://raw-cineLivestream.m3u/iptvlatinacr.m3u
-@iptv2825
-iptv2825 Update iptvlatinacr.m3u
-Latest commit f2a742c 8 minutes ago
-History
-1 contributor
-2589 lines (2476 sloc) 272 KB
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
