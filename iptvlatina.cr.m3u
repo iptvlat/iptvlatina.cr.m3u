@@ -54,7 +54,6 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
 https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO58VgSnz2-s8L9blpG0lf6kk)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 SD
-http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/566
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 SD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
