@@ -54,6 +54,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
 https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO58VgSnz2-s8L9blpG0lf6kk)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 SD
+#EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/566
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 SD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
@@ -76,7 +77,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000249583049-ojy171-t500x500.jpg", CANAL 13 HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
 #EXTINF:-1 tvg-logo="https://costaricamedios.cr/wp-content/uploads/2018/11/logo-header-sinartcr.png" group-title="",Canal 13 Sinart
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc",CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1314328513349144577/7dTHR_gg.jpg",TV SUR CANAL 14 HD
@@ -90,7 +91,7 @@ http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-OY0ZgEsieLQLoblfUBBldQ5f1f3ZVhN-g&usqp=CAU",LIMOM TV HD
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykAYmEFUqSH_9jGWeBHriVFot09LkFObvQPqxWdRZ57ViNP0sqFnSuOAmDnzTkXdeGjY&usqp=CAU",TELE RED 
-https://srv.panelcast.net/telered/telered/chunklist_w1570290168.m3u8
+https://srv.panelcast.net/telered/telered/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-M99BP2_gmEo/YhagAhhNY8I/AAAAAAAAASM/882yxJlSJ1UyIXfvg1XquecmbQJJNJuWACLQBGAYYCw/s239-c/OCCIDENTE%2BEN%2BLINEA%2BHD%2BCOSTA%2BRICA.png",OCIDENTE EN LINEA
 https://inliveservehttps//video-weaver.jfk06.r.com:1936/15508/15508/chunklist_w1033872085.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-goxrWf8cFGLN4vk5HPs0UkYDUUWCB6Wq65RikWVxrCmR5tBPAmm3NuxWlEd8BzUrA&usqp=CAU",OCIDENTE EN LINEA
