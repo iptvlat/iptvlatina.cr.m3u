@@ -278,9 +278,10 @@ http://web24.live:8080/testline/testline/54456
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/979
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 HD
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+#EXTVLCOPT:http-user-agent=20100101
 http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/3743
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png",TCS+ 
+#EXTVLCOPT:http-user-agent=20100101
 http://web24.live:8080/testline/testline/54464
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sdjejuVGAm8/YgwdXi107FI/AAAAAAAAAJ0/lhEApJJLF2ko5Elt1uH9SPQKKBbCSFP2ACLQBGAYYCw/s239-c/TCS.png",TCS HD
 https://secure-video.tcsgo.com/tcshd/index.m3u8
@@ -332,6 +333,7 @@ http://www.lengua.com/anthems/Honduras.mp3
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSCX4W_lgCmG7AulCkc2DAaWDREd4ZIq7pL1PCQ=s900-c-k-c0x00ffffff-no-rj",TELEVISION COMAYAGUA CANAL 40
 http://st2.worldkast.com/8058/8058/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV HD
+#EXTVLCOPT:http-user-agent=20100101
 http://web24.live:8080/testline/testline/41455
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV HD
 https://hn-vtv-vtv-live.ned.media/live.m3u8
@@ -395,7 +397,7 @@ http://201.220.141.118:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-O8tIcZwzteM/XA_yqIWnLjI/AAAAAAAAAyA/PvbI53JhvoYc2jYoW8jfO1iGBVpP_F5zwCPcBGAYYCw/s200/Televisiete-guatemala.jpg",TELEVISIETE 7 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL 11 HD
-http-user-agent=20100101
+#EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/586
 #EXTINF:-1 tvg-logo="https://intercablelive.com/wp-content/uploads/2020/09/WhatsApp-Image-2021-04-29-at-22.41.00-1024x683.jpeg",CANAL 11 TV DIGITAL
 https://tv91.hostingnuclear.com:19360/interchiquimula/interchiquimula.m3u8
