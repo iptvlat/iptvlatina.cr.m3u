@@ -1,6 +1,5 @@
 #EXTM3U
 # iptvlatina.cr.m3u
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
@@ -29,7 +28,6 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/673.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4248dbc3-33c8-4ef8-889a-eda1422ba9b2-profile_image-70x70.png",COMO ANTES TV
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFqna3dPO16ezjELdsTQ0ovHPZR9PYN7nEw-RNO4rP0v7tMG-9m-zqT2Y4LOaBgbawSDBZPgr6fYIkpYJaehpkQEpzSrpIuuydIzv2JVBY6UUTG6u5DpeJM6zH_1bRSPUsA0-3fdsFKbq7-0iPypn7211UIFzTFPO6P5UCUSOecrzFb13Fzz-Ml31F34TTDzICEpF-Kc_SF5pb_LxSmtYnyWYlv2m-j9Yhj9GAALHQJ7VkNq9JacuC-MQ0ovW63j3FmG0kOtrVk2sTLNT7pfQYJXsWavM6hfQ3bFTyweQpmXNAw0G3TF6xPx1kmcNlE4cvqqwxxRjYO5TGdpBRdcm_kLnxrVmMvipB0sa8NXV11o4zE4OMzBapX1cfOruf6hcicZksrrJ5NTcYg4DsXGIGNsfbYmOZ0Nw8oLvP319TldEGiCK5TFqXJ_p4AfRmPQ96cO6n5Yy6xoHm_3r_vo8CBvKuDwo9F7LGTVsvoni9eB4vy5ThzpCmHxPsjKYnrI9JKtK4E62Eu3BKrnznXJJRCIb6-FpZkghkWsmhcxVD_iIkcVuiFTE5MJi__AQYRHK1i9KOj6wFWynefNNU8syvFduqkL4i_WeMkGhv-VbZx17s1guXASmfhMpz2mdOxTUtDxXw80dAFyHBN8PFxH7bKsmBfLjTo2CYGXFoIEFo1a2h00Sf4_WTPOMVksxu3VDz673sfw_4vh3f6kHfACDjPiM0iUoRfQV434M1aMkBrAGco4pW8wuUiW95UPwnQG5yMGf1v8mmuOW4c3kV2R6s3VBWilFG0frPbdv0klplsrUpFRQ3XdUk4X6EbnVW3SnZb20-nJNQ2BCkAZTx43dlBOBLMoLZ65ileAVxt70L0bLKzLBjNbM0CaGwSuXrUweTGgwAfaQsX9qc6Hvw_oUgASoJdXMtZWFzdC0xMMYB.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalterror.com.br/wp-content/uploads/2020/01/logo-nova1.png",CANAL TERROR 
-#EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/19538
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_oaMvPlTp5prlMhvu8BUzbmvQrqu8s2QQ7bG8qyt0Ijb-QrAyFskGLM1MLdPDSkvsGY&usqp=CAU",TERROR SUSPENSO
 
@@ -59,7 +57,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
 https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_Z7X2Smv2pSazkhmYncA2k)/dm/3/x29e3wg/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 SD
-#EXTVLCOPT:http-user-agent=20100101
+http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/566
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
