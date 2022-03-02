@@ -213,7 +213,7 @@ http://nicatv.rylco.com:8075/live/0001/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg",CANAL 2
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 HD
-https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj1fvY9Xfyv8BC2zQjggdXzk)/dm/3/x7rwv8c/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjzcYFDSA8RHY1aeliF4geEY)/dm/3/x7rwv8c/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 
 http://nicatv.rylco.com:8075/live/0002/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwThqeXi-q_NZQWHmBJf6OF2w6CfaMTudsfIsOGYw31uQtfteVSg2cxjUVZypoYA-aB0&usqp=CAU",CANAL 6 HD
@@ -333,7 +333,7 @@ http://www.lengua.com/anthems/Honduras.mp3
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSCX4W_lgCmG7AulCkc2DAaWDREd4ZIq7pL1PCQ=s900-c-k-c0x00ffffff-no-rj",TELEVISION COMAYAGUA CANAL 40
 http://st2.worldkast.com/8058/8058/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV HD
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ2Mjk0MzI5LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTguMzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTguMzQiXX0sInNpZ25hdHVyZSI6IjNjNzE0OWFkMzExYzJiMDMxZjQ2MWVhYjNjMjQ2MmQwYjYzZTFkZTQifQ%3D%3D
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ2MzA1MDI5LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTguMzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTguMzQiXX0sInNpZ25hdHVyZSI6ImUyNTMyMjcyNjJhYTcyMjU3ZDAxOTk2MTA3ZTkwNTAxMWZhODRhN2YifQ%3D%3D
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV 
 http://web24.live:8080/testline/testline/41455
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV HD
