@@ -42,7 +42,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b9pQsApzqhM/YhR9S1FFuDI/AAAAAAAAARE/PhCpvkorOY4pwkt8JkDxEmvbehdLsbNJwCLQBGAYYCw/s239-c/IMG_20220221_235126_edit_8765889247906.png",TV SUR RADIO CANAL 5 HD
 https://vsd89.mycdn.me/hls/560141306398.m3u8/sig/sYfzoaZPsKk/expires/1646217941822/srcIp/201.191.199.50/clientType/1/srcAg/CHROME/mid/1906333261342/560141306398_medium/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER CABLE.TV HD
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFYSkNqB03wB7QsuOlsPiRKp71Kt6WpyE7YRH97IPHI8RtFZ-4NGbDYoLmt9QQJOrndMJN4LhSLexreaT3GHvCctlvD4sdpK2S9qcLXAXb7j9ikp3dKy6JUTFGGyL6zVRUCa-DLrsIFPHUp0j61-yrZKdLcOLtR48owp8jPloO-q_Az-eGg8mWuYlOP2OViMN3UzETsob0U7vnwl2DtfoD_6ymyEgclWBdO5qSEFZYz5x_0P-iU_nCrtAm7-12HNl53aYhMzWLx8rWfm0WzX4OIwdNTIb9tpKuy4IflzLm1OfBHGGqly8c0O5CMK1e4-w0UFUKGLzeIZuTQ6l1dLWd9sBSMQ_w3SzMPBQRLi0NJQWiDSE90fddfVP3I3dsU62KxZWNSAw98-4o8LVW4GVAwsl5y9239qMmikPRoPGoDcI9_lc7I3Ego3MIuF5ivbC6W5mVGpNkOoilwOP_m13Tg4RuanQ-4rfOkjKhpW9GaiIi_cql9IK4PLoybfDElvMNaq5YbPubi_VB-YxobGLWBYuzswOJTOCJnRjmoKSlsObmyEWmBjTcqhfIbHJRld_M1DNwCvAYxBhzG9c_BnZtN4DoVcHavMgf_Md9qTrlZ2RD_SprncwZkoDal-qjndFbYSHZWMcRZAQVuGyOg_EcAGUaCviCBgrJ897801mE7B9Ceagsl4aNlVdDhsZrgM8H2AhhECtqUrIPNstf_U-P7lZxBn8rxsYX23vxhcH-0raeGzFyuN2EVxFEQjvqEkFeqYKS30Z874jDGYmsX6NdAPWFl2qTq0_Z2LZg2O-u532lxhEKLjwrYrQh97PTqnsV_fyLFqKH6COi_pimPwOA_tVgqp13zlEhObQUveD_0RnYA4__KGCmYkk2Wc9VlrAvGgw7NVrOKWV7tE1dykIgASoJZXUtd2VzdC0yMJID.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/2021/02/04/super-cinco-logo-con-resalte-2.png",CANAL SUPER 5 HD
 http://k3.uhttps://vsd123.mycdn.me/hls/560141306398.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x1Oa5TjlGWSaeA-aeXHvA47lOomIWdGuq1YKb_ZBCUooe4W92h-QTTvmv3spnVZ_ZNmaER9uFPA=s900-c-k-c0x00ffffff-no-rj",STV CANAL 5 SAN VITO TELEVISION HD
@@ -276,10 +276,10 @@ http://127.0.0.100.checkedby:iptvcat.com
 http://web24.live:8080/testline/testline/54456
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 HD
 #EXTVLCOPT:http-user-agent=20100101
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/979
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 HD
+http://latinosiptv.online:8090/notocar/xmauc84bx1/22846
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 
 #EXTVLCOPT:http-user-agent=20100101
-http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/3743
+http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/979
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png",TCS+ 
 #EXTVLCOPT:http-user-agent=20100101
 http://web24.live:8080/testline/testline/54464
@@ -436,9 +436,9 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/22611
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA
-http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-user-agent=20100101
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA
+#EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA HD
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
 #EXTINF:-1 tvg-logo="https://www.cmbcolombia.tv/vistas/paginas/images/logo.png",CMB TELEVISION HD
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Co8FAFp7ukflKyrS1p_WYiD8buNxKmgv1aToy3V_pJ0HJvInS1DckwlcPQu-fOTCF5ysN2-AJ9EMhRc0emAqNESKYSU9QO0TUW6A5pRKQPMXrvR326AeKLXV8oQJw6z6awbgJCmG410diXgi9CE0eRuzel7wGQBNS5l2QoMGhyUSShWU34uUmvrmtJFfqutkVcdKBSz6oRrmhYxe-SGSen0B2Cg0bT3D-8332EJcmZjcMMDjozuNhStY4kvt0szRJevdSEHP73NfnO9PIVyKCRjRbz-TZTKKfRk8_zCNPowz4RlECrs1q0aRsy20cZjL1pYykJUX6VliOPWJhQDvi-H69Pu8VEr0El-TRLWGmpOPgWYcFFuccjpKzxIA49VAaryxTC9fE_b2RD4QqRzKAmX07wZrkAnNKvx31NwvGSm-A25xxP3h99s_kBVPd-DfiGKWv-to6Op6LlmG5bGrlXZa5UAIi0lrJAna-a1K7OCH09PaWI5WlJYvx8XUf1Go_UGayzoMdiGPPWTyqLmW257EZHdP3EPaaaaesHqTmelZ5yCzdwybWqw_U_wCB4NopF7J7tdpYt5qcFtbsBliurov3jRRMJFw0jUC6ZPnyjI2r-2tgnE9WJl1Jy33gzas9UoTPRbkltSvTGzYc96BXRZdsFO9RkxyLFn8bcNVYTo77gF1pJ0D5j87UM0IobSSSeEW23Xbmnw-6wTtNWn93tRVn99gzZ3JVnrWgrEVYw6gqAd5eWMhqBVw1ra47nQwFXCLNqiToqogW9kteLTCEHk6Ls391DwU6MVBjT03sd90BdxTmOe8tqY9UJFCO3yYaN7qX0crSmy9z3_DfQkwKVHe5BMkPU5bSiVLpE_1Q0m-YRoM-x4ewpcIqVXA6ddfIAEqCWV1LXdlc3QtMjCSAw.m3u8
