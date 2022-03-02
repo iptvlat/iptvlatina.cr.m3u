@@ -398,7 +398,7 @@ http://201.220.141.118:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-O8tIcZwzteM/XA_yqIWnLjI/AAAAAAAAAyA/PvbI53JhvoYc2jYoW8jfO1iGBVpP_F5zwCPcBGAYYCw/s200/Televisiete-guatemala.jpg",TELEVISIETE 7 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL 11 HD
-#EXTVLCOPT:http-user-agent=20100101
+http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/586
 #EXTINF:-1 tvg-logo="https://intercablelive.com/wp-content/uploads/2020/09/WhatsApp-Image-2021-04-29-at-22.41.00-1024x683.jpeg",CANAL 11 TV DIGITAL
 https://tv91.hostingnuclear.com:19360/interchiquimula/interchiquimula.m3u8
@@ -436,7 +436,7 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/22611
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
@@ -512,10 +512,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1560.png",GALAVISION TV HD
 http://user.tvcluboficial.com/stream/free_ANGEL_Ugalde/Duu/56.m3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3BNTfOkp4W4/Ye5TEhFkz1I/AAAAAAAAAGw/3Xf8COKGL6Y9uTCC48zjKF3W8DuRNXUWgCLQBGAYYCw/s239-c/PASION.png",PASION FULL.HD
-http://user.tvcluboficial.com/stream/free_ANGEL_Ugalde/Duu/755.m3
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3BNTfOkp4W4/Ye5TEhFkz1I/AAAAAAAAAGw/3Xf8COKGL6Y9uTCC48zjKF3W8DuRNXUWgCLQBGAYYCw/s239-c/PASION.png",PASION HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/755.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS HD
-http://user.tvcluboficial.com/stream/free_ANGEL_Ugalde/Duu/94.m3
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/94.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg",TV MAR
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w2040795390_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU",POP TV
@@ -548,19 +548,17 @@ https://stream.kystream.com/h9ydbwnjcoe/p7UAKSv6AZ_med/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO",Canal 4
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png",CINEMA DINAMITA HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/295.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XBrJcNOw8hZ0B6rMx3FfbMVxMfuA-8TqTjMdc9bVo2hjArR_1ZSGEnkfYVEJmjti7Gc",CLARO.TV
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=2800000.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6hTdga-4bL1c1-QGM-n_iMPgOpZuQXd7oA&usqp=CAU",AZTECA CINEMA HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/186.m3u8
 #EXTINF:- 1 tvg-logo="https://1.bp.blogspot.com/-g0xAjRPOGVY/YKvGS1KCpiI/AAAAAAAAcek/_SsNebnNltQblChsW_Bfh0Ia5zGQAcm5wCPcBGAsYHg/s71/de-pelicula.PNG",DE PELICULA HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/481.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Az-Corazon-logo.png",Az Corazon HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/166.m3u8
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png",AZ MUNDO ES MIO HD
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/476
@@ -568,10 +566,12 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/476
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/476
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/98.m3u8
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE 
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1114
 #EXTINF:-1 tvg-logo="https://img.favpng.com/16/11/3/noticias-telemundo-nbcuniversal-wwsi-wnju-png-favpng-68bdTTpLJHjgRLyw3ZPBywfq6.jpg",TELEMUNDO HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/92.m3u8
 #EXTINF:-1 tvg-logo="https://image.slidesharecdn.com/canalesdetvenmexico-131025225602-phpapp02/95/canales-de-tv-en-mxico-1-638.jpg?cb=1382742177",CANALES CINE.TV
 http://125.139.128.132
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BHEfegilACM/YBNnpQwR85I/AAAAAAAAawc/_su27Lj5Qwsv1tvEdUQuBTfZkLUeK6XVQCPcBGAsYHg/s71/azteca-7.PNG",Azteca 7 FUL.HD
@@ -831,35 +831,35 @@ https://59c8647978660.streamlock.net/directo_7/directo_7/chunklist_w1695288924.m
 #EXTINF:-1 tvg-logo="https://static.fecam.net.br/uploads/878/imagens/1582236.jpg",CULTURA
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/ZM-aivdfXIJBHdJclgwbhWg9owEHmRpD6EEcZr9BBPXV-P6uAUxjpcOg5nJRC7ZcpZMNOMode6a7fzVandY=w70-h71",ANIMAL PLANET HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/3.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hGvO5U5OM0k/YBNDa5PbEZI/AAAAAAAAav4/8KQMqW9j1HggbfkhYEoc3HUa_QbpGa1hwCPcBGAsYHg/s71/investigation-discovery.PNG",Discovery ID HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/68.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-funX_hDYevM/VHknEnpAtnI/AAAAAAAAbdw/pgF0BmGMM8k/s71/discovery-home-health.PNG",DISCOVERY H&H HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/742.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A29zzn_W6oc/YKvGS_33r-I/AAAAAAAAcek/cUaLq_vpji0Ee1beVDfyy2B6-ov9lGh7gCPcBGAsYHg/s71/tlc.PNG",Discovery TLC HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/87.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-940flDgtvBY/YBNnpUAbFKI/AAAAAAAAawc/A0uEANK6eDEK-75DpndZdEUKR3iH3ONXACPcBGAsYHg/s71/discovery-science.PNG",DISCOVERY SCIENCE
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/26.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rDQKfi5O6e8/YKvGS0Z_2SI/AAAAAAAAcek/_1pRL6RJJJsurq0BXLiuKZPW4OHOa3HtACPcBGAsYHg/s71/discovery-turbo.png",DISCOVERY TURBO HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/28.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/qM2XfdD4fTdN4PMVHoPxr-XpfOG_rz_Vd8mrDGRuVWxrSAk-DOX8QeoYxDg37HTdtDHzguhEfbBSJDS5DRU=w70-h71",DISCOVERY THEATER HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/27.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YL9WbnvknPY/YBNnpf8X9oI/AAAAAAAAawc/cnGiAf5eb1o61o6vIMNmD9XSqcvrKuyFACPcBGAsYHg/s71/discovery-world.PNG",Discovery World HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/187.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/AsOPz-JsJ1a_TVKJHXCfhEiSNZZJArw_SiQ1ey_0NZbBQ2beYgg1w2zo9Hfr2pccZ5qDRD88oxPet9CZ_PY=w70-h71",Discovery Channel HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/741.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/sPmePCBjGwejJ91-gmgVeKghbjl8mA2BzeHbH4w8HlmwuVKh9jfgjHd9NIY7VjdcwFUuynB6O3BNAU1KvQg=w70-h71",NatGEO HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/76.m3u8
 #EXTINF:-1 tvg-logo="https://www.disneyadsales.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png",NatEGO MUNDO
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/814
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/w3DyiUcXpe1yK5RZtB_8r2OoFCcOP5cZiR4GQi-_mWdiLeRRMicGcMRkCcqDOSYYo0hz32-Vhnk0oLL67zA=w70-h71",NatGeo Wild HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/497.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/9ZxrwzSbn2xTYTAiiGUYVn1I4_1M_f0fVHCFWYgRt5a8SnED1sOYfvgIBwkUeZwhBhO4XAHgdpiit5nebZw=w70-h71",HISTORY HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/67.m3u8
 #EXTINF:-1 tvg-logo="https://ia800801.us.archive.org/19/items/stevechatfield27_gmail_H2Hd/h2%20hd.png",HISTORY 2 HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/61.m3u8
 #EXTINF:-1 tvg-logo="https://images.tigocloud.net/j1bxozgharz5/sv2TGlIXiCagUhVVFwBtDrh3/3f87250f2524b966ae7f019b03880dd6/ic-canal-hgtv.png?q=70",HGTV HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/23.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA tv HD
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA Space Station 2
@@ -884,7 +884,7 @@ https://aenetworks-crime360-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTZRn3Y5A1I4YZzl2WA3swlhEHFqoe7qtbA&usqp=CAU",CANALES INFANTILES
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy87sHmAIXlm08Q4cWtMLgLPh_oPRCo6_nGqfxlfj6T52LkuhF",BABY 
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy87sHmAIXlm08Q4cWtMLgLPh_oPRCo6_nGqfxlfj6T52LkuhF",BABY 
 http://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png",TOONCAST HD
@@ -899,12 +899,12 @@ https://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 http://video7.stream.mx:1935/raxatv/raxatv/.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzJHUKA1iwU/VFxBuVAuLpI/AAAAAAAAbYM/WpHxLIaCIq0/s71/nickelodeon.PNG",NICK FULL.HD
-http://user.tvcluboficial.com/stream/free_ANGEL_Ugalde/Duu/645.m
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzJHUKA1iwU/VFxBuVAuLpI/AAAAAAAAbYM/WpHxLIaCIq0/s71/nickelodeon.PNG",NICK HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/78.m3u8
 #EXTINF:-1 tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/teen_nick.jpg",TEEN Nick HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/646.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ttFQM4FXCwc/YhRbnhzhOoI/AAAAAAAAAP0/5oWvk9FWv44bBL-b4lP1gWao1xXZQFApQCLQBGAYYCw/s239-c/Screenshot_20220221_202809.jpg",NICK JR HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/79.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rgXJ2cE6Qq4/YhRbmmrOHZI/AAAAAAAAAPg/i1MTt_i2QKMny1h8ECYE-7iUCv0Sx1vmACLQBGAYYCw/s239-c/NATGEO.jpg",NATGEO KIDS HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/412.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/695939233245175808/KkiwD54y_400x400.jpg",Kids 90
@@ -913,20 +913,20 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1655863.jpg",SPAIN:BOING HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito.png",CARTONITO FULL.HD
-
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito.png",CARTONITO HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/824.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RvVSAGJ0OXo/VFxBspPgZmI/AAAAAAAAbXk/Y9jZNiAu9WA/s71/boomerang.PNG",BOOMERANG
 http://un-pluggedtv.net:8080/Mrsd/D1234567/34637
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sKYBauafgIs/UK0yl_gD3vI/AAAAAAAAUdk/YaWCslvdsCI/s71/cartoon-network.PNG",CARTOON NETWORK HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/737.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jvcOxsqXwOY/Ue7S8YsBk0I/AAAAAAAAZOA/x8gK_O6Jq9I/s71/Disney-Junior.PNG",DISNEY JUNIOR FULL.HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/743.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jquEC3iPBjk/YBNnpWAlZmI/AAAAAAAAawc/6-TCtGo6OZQIc2A7tdfRdoHuPZDTlWjmACPcBGAsYHg/s71/disney-xd.PNG",DISNEY XD
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vw4YGg-uFEQ/Woth7JPFbMI/AAAAAAAAAZk/2TxNoFjitLgVdDGBlKl2zv0pbko9TuoQwCLcBGAs/s1600/disney-channel.png",Disney Channel FULL.HD
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/744.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vw4YGg-uFEQ/Woth7JPFbMI/AAAAAAAAAZk/2TxNoFjitLgVdDGBlKl2zv0pbko9TuoQwCLcBGAs/s1600/disney-channel.png",Disney Channel HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/29.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y8pRT2JJAMw/YBNnpVd1sFI/AAAAAAAAawc/R1qte1t77jg4yvOaCOuSrRo3Drd8ZfVQACPcBGAsYHg/s71/discovery-kids.PNG",DISCOVERY KIDS
-
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/641.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#",BITME HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/142.m3u8
 
