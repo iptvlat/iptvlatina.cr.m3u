@@ -1554,6 +1554,10 @@ https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 http://dimapro.cz:8080/00:1A:79:17:00:9E/ziajdjjfdifjd64646/2429
 #EXTINF:-1 tvg-logo="https://www.speemedia.com/imgnews/178201820265201720253201714152201719nrt2.png",KR NRT 2 HD
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
+#EXTINF:-1 tvg-logo="https://www.speemedia.com/imgnews/178201820265201720253201714152201719nrt2.png",KR NRT 2 HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png",TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w454365337.m3u8
 #EXTINF:-1 tvg-logo="http://blog.lenodal.com/uploads/rtl9-logo2011.png",RTL.9
 http://ott-iptv.info:2016/Daniel/Daniel/53
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28YHeDXGpyeQBMomjgdUhsh5Qu7ShdMJ5woVh-Tp7DEDpOXiXy8woBrJvZVGIslnG5kE&usqp=CAU",Canal 9 (Comodoro Rivadavia) 
