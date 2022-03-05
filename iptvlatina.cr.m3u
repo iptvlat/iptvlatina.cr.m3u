@@ -445,9 +445,7 @@ https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA HD
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Other",TeleBielingue (720p)
-https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
-#EXTINF:-1 tvg-id="TeleBoario.it" tvg-country="IT" tvg-language="Italian" tvg-logo="" group-title="Other",TeleBoario (720p) [Not 24/7]
-http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cmbcolombia.tv/vistas/paginas/images/logo.png",CMB TELEVISION HD
 https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CpEF_OEAP9I67HUnMDIkTNidJIdyWzbTvFZuDxdEOsNeUdB7mjYUyJ5GIAtPEIOEL0BV22yhU0fhx7kYJkRNTQU3AJNOXDRDGASWHaZO7tNs6u7YtWCFYlOTIfJbAGbv6z5yrMPiLKqWth9UFtMrYWXsNaOshIfCHeA7zqkxPph3dhsRS6zJVmprBTj8-4C2MD7JC6hr24_cGTK5K6SPZq8FuOIP7VGFzW9Ii53U0H9ET4s7TMcs_SosmhX64xTL-lW0IqmDBfMlwfkJ3lW3drFfp657GvsbvPHnhBauvIKOvs5jwGkf4I4OrCDiaqGGYH_7fpmzIjCMINZ3kLjlTs-mEsWoA-Z5HZEO0OsE87jHV3-Sp9Tn_c4rl9lja-esA2X0Ex8WnfqOFh_aqpOyGWXgyG6wVRysLICvrPUqpbFuNWA8gLGFbkA7CUTXkOHGZITFJ-7l3Pl8tNFDSs5g4HwPHR8gy5UVuvOrQDTADsnhuH1TLi1r4b99BgjBFq5uHMCc82vuVmYQyk_kUbDCABU0md-SU4Gv5UHdO25HqGEgoMg_2jdm8P4nLqFgtIcb85pXGjiMk1xciUNI18n_nVIq6v403oXNNaCoShxEth4XtYyu9uwDh4t7RhekdnXzuc43YTvJ-vj1id2HF870ECMUhDTH3SaA5EpmnppU4wWLuWAIWJirDvCA4S_glqVCpgVUtcT--lY3SHXeezVTXkld6aA9iVP-rdgL84IWhosmjwPjD6gSB18fcG3N4uvHwqe_r0MbZYXT4N9H64xPBeETG3w92Zz1Cmvc0sOTcqe9ammxKVyQNuhNGvO4y4-bGydDf3uiXkwkRDKRRPGE3r5lq4Xy5sskRs4A3dn0Hyac7YDHGgxh6HcePQrVJcDpW6IgASoJZXUtd2VzdC0yMJQD.m3u8
 #EXTINF:-1 tvg-logo="https://www.cmbcolombia.tv/vistas/paginas/images/logo.png",CMB TELEVISION 
