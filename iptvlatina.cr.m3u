@@ -2551,7 +2551,7 @@ http://31.128.159.41:8080/sts/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC STS
 http://94.230.240.12:8080/sts/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png", SAT 1
-https://ecanlitv1.etvserver.com/live_sd/desat1/chunks.m3u8?
+https://ecanlitv1.etvserver.com/live_sd/desat1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/341/889/gratis-png-bandera-de-turquia-bandera-nacional-banderas-del-imperio-otomano-bandera.png",República Turca 
 https://iprvlatinacr.clib/145.174.184
@@ -2585,10 +2585,9 @@ http://100.145.2010.125.130
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4rZHb5FM7D2mmQxaagvIEoFOn2zazaE91qD98WKpEjSo2BJL_-r81mrgMTTWiQgAOVc&usqp=CAU",TV DIRECT 13
 https://edge1.tvdirect13.com/live/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F5e1876f67ebeed3253d59b210ade4af52e9d7313d88a61aa63fd06fdcbb238e5.jpg", CANALES CHINA TV
+#EXTINF:-1 tvglogo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F5e1876f67ebeed3253d59b210ade4af52e9d7313d88a61aa63fd06fdcbb238e5.jpg", CANALES CHINA TV
 http://100.145.2010.125.130
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Cgtn_cn_espanol.png/revision/latest?cb=20170127161944",CGTN ESPAÑOL HD
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwtL5CTQHUyZBWwRhXFYY5pU58kF6ONGP2uTa2bjQ=s900-c-k-c0xffffffff-no-rj-mo", CGTN HD
 http://livees.cgtn.com/1000e/prog_index.m3u8
- 
