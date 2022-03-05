@@ -1940,7 +1940,6 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000007641838-272w7q-t500x500.jpg",CatholicTV Network Official 
 https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_3_av-b.m3u8?sd=10&rebase=on
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyTlLZ9tL9SYoyXuScIQrPMaONlAG9sdXLKQ&usqp=CAU",RADIO EN VIVO
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000239459738-ach7kv-t240x240.jpg",RADIO BESTMUSIC
