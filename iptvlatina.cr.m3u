@@ -921,6 +921,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito.png",CARTONITO HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/824.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RvVSAGJ0OXo/VFxBspPgZmI/AAAAAAAAbXk/Y9jZNiAu9WA/s71/boomerang.PNG",BOOMERANG
+#EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/273
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sKYBauafgIs/UK0yl_gD3vI/AAAAAAAAUdk/YaWCslvdsCI/s71/cartoon-network.PNG",CARTOON NETWORK HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/737.m3u8
