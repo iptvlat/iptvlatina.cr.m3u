@@ -2,7 +2,7 @@
 #iptvlatina.cr.m3u
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 05.03.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 06.03.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -17,8 +17,7 @@ http://1:41, 24/6/2018] EVY ANGEL CR: [0:51, 25/6/2018] EVY ANGEL CR: STREAM MPE
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ad1FeCenL._AC_SL1001_.jpg",TV DONDE VAS
 https://www.youtube.com/watch?v=YTYn6iLVPx4
 #EXTINF:-1 tvg-logo="https://bonosdeapuesta-media.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/05/25143857/roja-directa-com.png",SEÑAL EN.VIVO 
-https://www.facebook.com/watch/live?ref=watch_permalink&v=3103754246553332
-#https://iptvextremecr.com/2021.Live/angel-Cr2022/"sugalde/raw/"250584.htrgd/25-0584.m3u8
+https://iptvextremecr.com/2021.Live/angel-Cr2022/"sugalde/raw/"250584.htrgd/25-0584.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1262814238579384320/JaOAgtYU_400x400.jpg",NEFLIX TUBE HD
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1776239726.m3u8
@@ -147,10 +146,11 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozXOprX.png" group-title="TV COSTA RICA" group-title="MUSICA",COLOSAL TV HD 
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-01/tvretro-palmares-costa-rica.png",RETRO TV PALMARES HD
+#EXTVLCOPT:http-user-agent=20100101
 https://tna5.bozztv.com/tvretro1971/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLnRpY2F0dnBsdXNfc2NyZWVuXzBfMTU4MjIyNzQ4NV8wMzA/screen-0.jpg?fakeurl=1&type=.jpg",TICA TV PLUS
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w2056537178.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ecb6af6b77a9b37f378b780cc32a1b1e15c2d8efecca0ef3417bb331efb36fcd.png",TELEMAS HD
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ecb6af6b77a9b37f378b780cc32a1b1e15c2d8efecca0ef3417bb331efb36fcd.png",TELE MAS HD
 https://www.webmedialive.org:1936/8024/8024/chunklist_w554265919.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3DV8gcM", NETWARE SPORTS MUSIC TV
 https://cp.sradiotv.com:1936/8064/8064/chunklist_w1819525497.m3u8
@@ -397,8 +397,6 @@ https://live.canalantigua.tv/CanalAntigua/myStream/playlist.m3u8
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b200000.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
-http://201.220.141.118:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-O8tIcZwzteM/XA_yqIWnLjI/AAAAAAAAAyA/PvbI53JhvoYc2jYoW8jfO1iGBVpP_F5zwCPcBGAYYCw/s200/Televisiete-guatemala.jpg",TELEVISIETE 7 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL 11 HD
@@ -515,7 +513,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj",QUIERO TV
 https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1560.png",GALAVISION TV HD
-http://user.tvcluboficial.com/stream/free_ANGEL_Ugalde/Duu/56.m3
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/56.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3BNTfOkp4W4/Ye5TEhFkz1I/AAAAAAAAAGw/3Xf8COKGL6Y9uTCC48zjKF3W8DuRNXUWgCLQBGAYYCw/s239-c/PASION.png",PASION HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/755.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS HD
@@ -636,9 +634,9 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4kfVS5vE0_4/maxresdefault.jpg",MC HD
 http://etvhome.com:25461/Arturo/Arturo1/133136
-#EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png" group-title="Peliculas",DHE HD
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/844.m3u8
-#EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png" group-title="Peliculas",DHE HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE HD
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/844.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE SD
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/20899
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
