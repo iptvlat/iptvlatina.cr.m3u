@@ -1050,7 +1050,7 @@ https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/chunklist_
 #EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png",TELENOVISA 43
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/c6bYKSu5o7M18rQtuP7B9XvRHFyE3PAvcQfWbCSSZW58QOJJ8f6I7pPXl9gLK5hy-g=s180",PERU
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yWLBZ7hnPpV7qTO3PmbVC0V-Mr6g-0Gl1I2Bin_FHNy-cORp1Z7IWH6idcmbOPz6GE0",CCANALES PERU IPTV
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.soltelevision.com/wp-content/uploads/2018/08/soltvUSA.jpg?fit=200%2C200&ssl=1",SOL TELEVISION
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w342619057_b2723840.m3u8
@@ -1063,7 +1063,7 @@ https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg",MEGA.TV AREQUIPA
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1E7_zio9_B58F_et7Re38CVm_PqhHlxb7eKaDMjT1fBBcFThMd9Ktl0NN3P0w_c6vsbU&usqp=CAU",TV COOSMOS
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w169290402.m3u8
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1278620925.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPAVUsz4MOS9zX22zTwvpfKZpNHaFQGDkI6qeZtWo6UeOST1b6hRRL40_3uqxteOz2tE&usqp=CAU",TV COOSMOS
 https://edge1o.live.opencaster.com/caster/tpHaqFjazqvD.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-antares-en-vivo.jpg",ANTARES TELEVISION HD 
@@ -1072,6 +1072,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w2
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png",AUTénNTIICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png",AUTénNTIICA TV HD
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXNl1XgKnX258cGQH30026fK6GBxbI6tdXAcoXzqdMl9gdIC6GqMpKabmr9EmPxX4nqo&usqp=CAU",ATM apurimac HD
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RuFErQMUuD8/YhACeXRBRYI/AAAAAAAAAKw/IAtKGqkb5WQc1_kSonJGO8SCu6ANYYzkACLQBGAYYCw/s239-c/SISTEMA%2B1%2BTV.jpg",SISTEMA 1 TV
@@ -1096,7 +1098,7 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 https://playback.akamaized.net/streams/1359588_9942377_lsia7im7tk1hzt6s0fr_1/media/1359588_9942377_lsia7im7tk1hzt6s0fr_1@2756000p.m3u8?dw=14400&ts=1642320000&hdnts=exp=1642494810~acl=/streams/1359588_9942377_lsia7im7tk1hzt6s0fr_1/media*~hmac=c63db47e7a1a89ffd391257162b7239c8011b37cc42db3b4eb1943ccfb1f2275
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png",BEST CABLE CANAL 3 PARA TODOS
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png", TVPE
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png",TVPE
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png",VAMISA & RADIO TV
 https://vps1.lnx.pe/vamisa/envivo/index.m3u8
@@ -1183,7 +1185,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/21986
 http://201.220.141.118:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antena7.png", ANTENA 7 
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u8 
-#EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
+#EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png",TELE SUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Rnn2017.png/revision/latest?cb=20170707023227",RNN CANAL 27.TV
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1159890244.m3u8
