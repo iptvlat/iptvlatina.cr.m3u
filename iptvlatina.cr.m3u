@@ -41,7 +41,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b9pQsApzqhM/YhR9S1FFuDI/AAAAAAAAARE/PhCpvkorOY4pwkt8JkDxEmvbehdLsbNJwCLQBGAYYCw/s239-c/IMG_20220221_235126_edit_8765889247906.png",TV SUR RADIO CANAL 5 HD
-https://vsd123.mycdn.me/hls/560141306398.m3u8/sig/fPjoM8QC5qA/expires/1646532445272/srcIp/201.191.198.92/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
+https://vsd123.mycdn.me/hls/560141306398.m3u8/sig/xNcmX2Jl3QU/expires/1646621288938/srcIp/201.191.198.63/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER CABLE.TV HD
 https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CqAFBRI6zdUA4CI9ldpxD2vAdldjtj3Z4zkYkGTXjxBj7Q67rs-EbVGjF8aGGY8AZ1CA5ZiwqdBSIKHfFMNbBeBegI3Lqkz7sPG62i5a7GXH_yS5eVOKMh1w89MO5I9Bf1mASa3C_RMw4ytWQ5dr22c7xNoy8zmlRM9abG5M9lk8lq5xhlgN3SVw6KJgqws1FnkxLYmCFIOymneG4kY6XsPtbQfrbAqtYRdlSI2hrsm6eH59VlOQgh3ruS0XgF6kDjQtvvOPuxI5KWAzg5H7fM_hQVWzUC8EKhxkvgtprRnTyWb9uKgF-pufWVHwiSXuDXbVTromR8g_kt52Wy3_Pjzx3nXDQ0rImXr9EkV31HRg1fqAF8iqJZp_ZIA6Jnmr28Q-3eC4j9KWdmC7TVuvsac_gVVEHBfnP4J_iAI9WcuM_pW9IcD5Zk4V8Q66705xrWs2OPs-7bcX5S9twHgGLeA0LIfUJDT7nen0lWT2Buq-w3PMw0YKLPGPm-LP_DJGDZ5UZqVoW35SIWPanZtEdIAlLHN6Ncrl4LeSc47V9eLQLi9pxCOKk8EVbITovljrptOBZfUCylSIXPoG5SDSPGolEaBJJJnfj6OUdwcfVpLpFo_tkUQwqRjhevwL_04OGAqM9u82KWI2qfXkLWrM4tXloqw7-8MHnQ5XsxZh8fdKS-iU_ortIKZzcQwQ0tKPIsyHAerJDm0hsQ145CqgnxaFz3JbuaFiVY9_fZDsuxoODcQCHVMmzZlp8VZmihEMBel4-9sTW2w9hymyDyOddGzrXByz8vb8OkcDq4O9gx9DcIzd4ADk_qo_Sb9-RZzdIm4rTNhOPGi3_kAimnTNaKCZ_ZkCNkLMPk34uglg5MPGu-5UKBoKmgHEx1zewDRbym6UGgzYhr4gU-7qrIWd_xkgASoJZXUtd2VzdC0yMJYD.m3u8
 #EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/2021/02/04/super-cinco-logo-con-resalte-2.png",CANAL SUPER 5 HD
@@ -336,7 +336,7 @@ http://www.lengua.com/anthems/Honduras.mp3
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSCX4W_lgCmG7AulCkc2DAaWDREd4ZIq7pL1PCQ=s900-c-k-c0x00ffffff-no-rj",TELEVISION COMAYAGUA CANAL 40
 http://st2.worldkast.com/8058/8058/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV HD
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ2NDc2ODM4LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTguODQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTguODQiXX0sInNpZ25hdHVyZSI6ImFiNzkxMmRhOTMwMDQ2NWEyM2Y2ZDBjMjVhZjc0Y2ZkZDY5MmZhNmUifQ%3D%3D
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b350000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ2NjIyNDU4LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTguNjMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTguNjMiXX0sInNpZ25hdHVyZSI6IjYxMzgxYTEzMjc0YTcyMDQwZTQxMDc0ZGFjYmE2NmE3ZTZjZjFmN2UifQ%3D%3D
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV 
 http://web24.live:8080/testline/testline/41455
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV HD
