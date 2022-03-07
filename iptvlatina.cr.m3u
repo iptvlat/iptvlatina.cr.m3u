@@ -618,7 +618,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/538
 http://web24.live:8080/testline/testline/38042
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
 #EXTVLCOPT:http-user-agent=20100101
-http://23.148.145.49:9001/televall2022/541_.m3u8?token=xOhy5QqUUJb2Pj3kjyyQvA&expires=1646647530
+http://23.148.145.49:9001/televall2022/541_.m3u8?token=gCiNyRoRbcJwW6VVre0Teg&expires=1646682474
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/145.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL HD
@@ -956,19 +956,19 @@ http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/22178
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png",CANAL 4 HD
 http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/52810.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv5aXvIMJOwOvaqWK7138eDBb8A4w009aRRKYsO19vjSOGvTsXWt4NctHXW5MVABRAMnk&usqp=CAU",CANAL 4 CHUY 
-https://vxlive.cdn.antel.net.uy/auth_V_Canal4Chuy,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw0Q2h1eSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjQ2NjQyNzc5JnJhbmRvbT1RRHdvU2lZM0lQJmMtaXA9MjAxLjE5MS4xOTguMTA0JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2bjEsNWFmZjNiNmJlNDMwODc2ZTE0ZjMwZjBiMTg3YzcwN2MzNTczYTNlZDQzOWY5OTgzM2ZlYzdmNDY1NGQ5Yjk3MA==/vxfmt=hls/h_7bd2f7cac427caa1ae555d80befcb8ed/var500000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/ZDA3DzXa1ohdBUEAQPT9wPvM3VhjMPg5eDNi8GGR.jpeg",R TELE
-https://vxlive.cdn.antel.net.uy/auth_V_TeleR,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfVGVsZVIlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY0NjY0MjEyNCZyYW5kb209M1oxQ3AxVzZobCZjLWlwPTIwMS4xOTEuMTk4LjEwNCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnI3LDRkMjIxZWI5ZDJkZDhiZWQ3YmFkNWRjYzhhMzE0NTRhZGMwOTAxMGRlMmY2YzM2MWJmODdiMmJkMmM3Mzk3ZmE=/vxfmt=hls/h_081b66b495b754e30037ac7335ee729b/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/xvyz3XDeAzu5btaJG6PPUBfY7I0jZZdclSiTBNNq.jpeg",RU.TV
-https://vxlive.cdn.antel.net.uy/auth_V_Rio_Uruguay_TV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfUmlvX1VydWd1YXlfVFYlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY0NjY0MjY0MCZyYW5kb209OGFjZnBCcDEzNiZjLWlwPTIwMS4xOTEuMTk4LjEwNCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnJsLDUzM2I1OTk2NjExNTQ5ZjZjM2NhODYzZjRmZWIxMGM0OTU2NDIwZmM4ZTU1ZmI5ZDdjNDQxMzljMTU5MjczNzc=/vxfmt=hls/h_b32d97ad260cabb596cb9b17f410382b/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/MagRGS7bO4A8WnHW7hiWhbYXAIWfoTmrrZu5eHMm.jpeg",CANAL 7 DEL ESTE
-https://vxlive.cdn.antel.net.uy/auth_V_Canal_7_Punta,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfN19QdW50YSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjQ2NjQyMjEwJnJhbmRvbT1FVWViYzNJdlN5JmMtaXA9MjAxLjE5MS4xOTguMTA0JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnNoODMsMmU5ZTM3NjEwOGU1NDZiYTQyMzg3YTg3YTIzNTU4ZjI1NDczMDFkZjliN2I1ZjQyMGI3Zjc1NzQwM2FjY2Y4MQ==/vxfmt=hls/h_71f364cd338bf99df9ac96d3f47d5d4a/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora 
-https://vxlive.cdn.antel.net.uy/auth_V_Canal_8_Salto,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfOF9TYWx0byUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNjQ2NjQyMDgyJnJhbmRvbT01VTl3RlhtQlZSJmMtaXA9MjAxLjE5MS4xOTguMTA0JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2bnIsYjYwYjlhZDM4NzI4YmU5ZmFjNDgzZGMyNTU4OWRkZGRkM2ViZGYyOWQ2NGUzZjNjNjFmZjgxNzA3MDE2ODkxYg==/vxfmt=hls/h_bf7385e721695bbf11193dbcae86bc4e/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/FhGQ4GSgaXwV1emZgNIf63lvtXFtrUpxrRLVJrTi.jpeg",Canal 8 Rivera 
-https://vxlive.cdn.antel.net.uy/auth_V_Canal8Rivera,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw4Uml2ZXJhJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NDY2NDI4NTMmcmFuZG9tPXNwU0FlaE41YUEmYy1pcD0yMDEuMTkxLjE5OC4xMDQmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4NCxkNmNjNzcyOGMyODg5ZmQwNmE2NTY1MzJjOTBlN2E5OTFmYWJlYjUwMzhkYjZiZjQ3MTFjYmY4NGU1MTg2YTVk/vxfmt=hls/h_91573b60c7b6b3f3c63407de3d88b751/var500000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-cropped-LOGO-9-HD-carta.png",Canal 9 Telerocha HD 
-https://vxlive.cdn.antel.net.uy/auth_V_Rio_Uruguay_TV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfUmlvX1VydWd1YXlfVFYlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTY0NjY0MjU2NiZyYW5kb209UVdrcWVlWnBrQyZjLWlwPTIwMS4xOTEuMTk4LjEwNCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnJsLDJkMzliMTExYzFkMTNjMjcyYjBiNTJjODA5Y2I3ZjkzNTU1OWE0N2VjNGNiM2Q3YWI0NjhmYjJhNDM0NDM0MmY=/vxfmt=hls/h_b32d97ad260cabb596cb9b17f410382b/var3000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://canal11.uy/wp-content/uploads/2020/04/logo-rojo-.png",Canal 11 HD 
 
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/lqkJi9ejdzpcrmD2I2Xtm0zxwc7jGuPhgZvk2bA2.jpeg",Canal 12 Melo
