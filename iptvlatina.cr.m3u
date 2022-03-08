@@ -91,6 +91,8 @@ http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykAYmEFUqSH_9jGWeBHriVFot09LkFObvQPqxWdRZ57ViNP0sqFnSuOAmDnzTkXdeGjY&usqp=CAU",TELE RED 
 https://srv.panelcast.net/telered/telered/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykAYmEFUqSH_9jGWeBHriVFot09LkFObvQPqxWdRZ57ViNP0sqFnSuOAmDnzTkXdeGjY&usqp=CAU",TELE RED HD
+https://59ef525c24caa.streamlock.net/Telered/Telered/chunklist_w1843316871.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-M99BP2_gmEo/YhagAhhNY8I/AAAAAAAAASM/882yxJlSJ1UyIXfvg1XquecmbQJJNJuWACLQBGAYYCw/s239-c/OCCIDENTE%2BEN%2BLINEA%2BHD%2BCOSTA%2BRICA.png",OCIDENTE EN LINEA
 https://inliveservehttps//video-weaver.jfk06.r.com:1936/15508/15508/chunklist_w1033872085.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-goxrWf8cFGLN4vk5HPs0UkYDUUWCB6Wq65RikWVxrCmR5tBPAmm3NuxWlEd8BzUrA&usqp=CAU",OCIDENTE EN LINEA
@@ -428,7 +430,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINEMA-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",CINEMA+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/06/megatvloh.gif",MEGA.TV Jaen
+#EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2021/05/footer.png",MEGA.TV Jaen
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/05/miptv-218x150.png",MIPTV
 https://server.miptv.live:3964/hybrid/play.m3u8
