@@ -2,7 +2,7 @@
 #iptvlatina.cr.m3u
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 07.03.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 08.03.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -439,7 +439,7 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA HD
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/22611
-#EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png" group-title="Cataluña" tvg-name="teleantioquia",TELEANTIOQUIA HD
+#EXTINF:-1 tvg-logo="https://www.teleantioquia.co/wp-content/uploads/2021/03/TELEANTIOQUIA-EMOCIONA.gif" group-title="Cataluña" tvg-name="teleantioquia",TELEANTIOQUIA HD
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA HD
@@ -464,6 +464,8 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
+https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1646801874~acl=*~data=hdntl~hmac=19c9839c187ce9648231847317efce2999cf4e9dd482dc59c5ae6da4f1bc913d
 #EXTINF:-1 tvg-logo="https://telecable.es/bundles/app/images/channels/caracol_200x200.png", Canal Caracol HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/caracol-hd2-en-vivo-1.png",CARACOL 2
@@ -1490,7 +1492,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/EUROPA-audio_128039_spa=128000-v
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="DEPORTES",EURO CHANNEL HD
 http://161.132.222.196:http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/149.m3u820000/play/a0l3/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hvYVcTYRluI/YhH9uJE7KdI/AAAAAAAAALA/Wngik9HFLiQjg_1iwTANojOreXZvy0sFQCLQBGAYYCw/s239-c/Captura%2Bde%2Bpantalla%2B%252887%2529.png",CANAL 42.1 TDA CORDOBATV HD
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpgFCbcRR7khvHxmKmPpmULxiREhVJtgmLkzDU5qEY6UPXJVUBPE6sor2H1WvslZ9GebsqL2f48NC0-XgdfEt1E2A7b07mX38dzd7rv9heiT9_GtelVcPPQgsf3mN1306INRqKFnweEy7lmuO_mnK32DYkU-Vl2oC6GkVf78tWdfgn4BPu4UoyVUwsP8yJh8jgdVadtGvDExVVZB0oMVJzEvwQzZ4LKUJ1lVNRLbOf5aybEp_fmJ4ktOEnVOcIU9hYJBuoJoAWIMbIpdqCp5fB7qGP8pVA7YRUEW1sNy58SSem55huAgeLHfYl5wfpaMJ2_N3o8bqIsmI7NtrGKVeyGKYtAp0iqovDLbMd3u6UJl2X32NxUYapIb5vlzDHdl8JkeUgxr1A1DIk5Ml3pFKdnZPtKSGa5-AS-tEZKsS22lZYfLS_zgA6hw4Z1DBFSgwWjCZYM9o7r3HsZ7mOCx86E6W0uj8S8wECuXgqcZd5cSktq7UQJCaDBQvcB9jZokSVahCrdEBDEojarewWLPkSS7a6syyhUyouqvk1N95CWRAbNkDjhRo1SgI9atv4AKL8K7y_lhk7nQkiaRy-CJu_ceiAzcqLU7rMf8d65rrjBev6CO7bLleerAVDO1M_gFBlAUvp7SdY13Ob1c_QUGSpFrPRKkIGTlogcRLbR26yxeMzV0GiiFP5BpMjZ207Azw2ZqZnyeYtRUx6SU8qFIJzn50fp1UHniUZfyn1usIqKCVoP_DW4YhaVnGKiJTfZu_JSKXKxpQqzpZiydZETWJMg1O_njoSxc5gLSTL9Jv2dEQowN65LKdYbsA5xygeoq_wXIyeKFGni5rinJiO043D3Sbhi8S8S-TJw1Ba26ZNMXoqlc9G-XPz23HxoMIGGm5_2jqTPjADH7IAEqCXVzLWVhc3QtMjCUAw.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpcFIyetO5bUDX5c_y2FI6EWn-PhNyJBgEMtQi9rSi_zDmTIFL7Essqo7ZZ6FPcXvsTgllXSH4OmQQHUiCl0aKi_F_Wf_RE_MLMmjIAePDJ_AIBEYE7dUwa8hnmAGDLsQCe0sQanAEehnL7YMdakC_e4m96KfgUABggh3uY4MA5raxkdirl9xy2aYqO0qhau5d7D7WRxtubGPPr6vJKLBZShsK0QntiDABORILzfto7X5C9DLD2akm0mIJ-HIjtGc8ban9-xjuTzqhR_zQ5GbA1xAFw3GDyepm7Dt7xOCWNAr4RlWGnodWbP74WzYGxWZvzFA4Y2qUsv06JRxWLVI_7z3OlXvEJe9CZYFiuNgHOaMbZEhP9dzVybHqGdHMtM_RTi8_um6aVOGefNHT4KBhR2RBQeprcUZWzrpjZoxujVSa6GruwFnt6BiQF2Qh5BhQZmX90LpCxJUemZppSRi7Vi_8r51HiKnEkSe1dW9W1em7_wfUOECC7TPIsUyTJmho3HhA7H8rVUii_srvydmBZVQwCIGoNW7OXad2hMoUYabvBaAlxVNdkKUdbIrk3fb2n0YD8szhq-Q3DjAyuogvuMLLEUV5-Nhb-wHRAl29q7IXRGMyg7Ino1lucfkw31SxSV8GBXJlx4n0cYjHLKd1M4cWRp60oUGNJ8z1mBKWU1fxGGyDqfpilRkiU42Gx3_IaC9ChnrWPYg0hXM1xvZ0B_WdNSIrsrIw62JO_Hvsoj9kl-wAPpVszMciVWGSY1ygywbbq33SAe2JWHl-BeUbE8VRHSmzB4gI7ERg7xXsfW9ztpLL1vw2LhNXQrX16vijVD2kXSaqfDNYiJt2pGRYGIiwLvtzi6Qqz-0ZA1zM89SDVDrQbvCharGgy1Y_-68fRmtRMTjF0gASoJdXMtZWFzdC0yMJYD.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Canal-CNR-Jujuy-en-vivo-Online.png",CNR.TV
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9558a64b-9562-45e8-9275-9e2f4a6acc20-profile_image-70x70.png", C2N.TV CANAL2 NOTICIAS 
