@@ -1017,6 +1017,8 @@ http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w1030260942.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png",BOLIVIA
 http://1235.19.="128.132
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg", BOLIVISION HD
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ2OTEwNjMzLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTguNzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTguNzQiXX0sInNpZ25hdHVyZSI6IjU5M2M1N2FlM2JiMWQxZDdkOWExNGVmMTAxZjEwMTJlYWYxOTVmNGQifQ%3D%3D_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg", BOLIVISION HD
 http://live.cdn.comteco.com.bo/comgo/0202/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg", BOLIVISION HD
 http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
