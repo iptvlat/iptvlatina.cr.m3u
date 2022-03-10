@@ -1469,7 +1469,7 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZIaROLZAOYiAVmAjuRGk2eLxwIyzgaLGmJMbnCi2nJeSwQ_Uv1RRVNwek0-7SdE6a3E", SAN LUIS CANAL 13 HD
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w1546317876_b799152.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAgCTcLsaub2khNDikjEkZh7hB6SR56jL0PTEPIX4JxwrChv9JP-YQIPd29Nzm_5Dl_M&usqp=CAU",RTN HD
-http://media.neuquen.gov.ar/rtn/television/chunklist_w670459661.m3u8
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrn6wl24wj1ybc36mgbnbviv3xjp18ciya3se0wj4.png",CANAL MILENIUM.TV 
 https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5EVmzxaKp2Q/Xzgfxf-tooI/AAAAAAAA4XE/sLgYdUn1vqYoqe6g2kwUXJJGzuSeyEerACK8BGAsYHg/s0/2020-08-15.jpg",Canal 22 Buenos Aires 
@@ -1482,7 +1482,7 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist_w1312752511.m3
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w694242379.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png", Canal 10 Salta Sereno TV
 https://panel.dattalive.com/8068/8068/chunklist_w1854499384.m3u8
-#EXTINF:-1 tvg-logo="https://elamplificador.net/wp-content/uploads/2020/01/EE-Press-Releases-1030x366.jpg",EUROPA EUROPA FUL.HD
+#EXTINF:-1 tvg-logo="https://elamplificador.net/wp-content/uploads/2020/01/EE-Press-Releases-1030x366.jpg",EUROPA EUROPA HD
 
 #EXTINF:-1 tvg-logo="https://elamplificador.net/wp-content/uploads/2020/01/EE-Press-Releases-1030x366.jpg",EUROPA EUROPA HD
 https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/EUROPA-audio_128039_spa=128000-video=800000.m3u8
