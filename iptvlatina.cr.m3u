@@ -1176,7 +1176,7 @@ https://vdo2.streamgato.us:3337/live/zuutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/tv-norte.png", TV NORTE HD
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
-https://player-api.new.livestream.com/accounts/18988261/events/7725211/videos/173896381.secure.m3u8?token=622866c1_928cea92a1ea1d1ddfea6197101790024c6257fe
+https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/229789586.secure.m3u8?dw=80&hdnea=st=1646881454~exp=1646883254~acl=/i/18988261_7725211_lsiqsjqmy8augqaw7ce_1@305450/*~hmac=eb015d9bbce597bc51e650f43385d3a487518a49e1686b53e041b0d3c1b5b694&token=62296bda_a7cfd3e7528e9530df21ac0f97610bedc5c719c1_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
 https://livestream.com/accounts/18988261/events/7725211/player?width=640&height=360&autoPlay=true&mute=false_hls/mayo25%C2%BF425?2245_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antena7.png", ANTENA 7 HD
@@ -1221,6 +1221,8 @@ http://ss8.domint.net:2128/stv_str/tv55/chunklist_w810346608.m3u8
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w704544947.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
 https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a51efee79bec8910a2233c851036fbd4a1c1bd66e4dd1055c53aaec0d3d9f63e.png",COLOR VISION HD
+https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYzdFGUCKaHTCBfc6oPco5AI)/dm/3/x7gy059/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a51efee79bec8910a2233c851036fbd4a1c1bd66e4dd1055c53aaec0d3d9f63e.png",COLOR VISION HD
 https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=akqmKB-jNrmMNz-LdK1PmUtoHEouEpV6Ts7doN7YRkQ6PD5zJRNY5go18ms2imJzIBUBxazBDVHYxV9bv9Dy8A&dmTs=549080&dmV1st=1404F14AC597744493C5543CD13F7932&progressive=1
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", TELEFUTURO CANAL 23
