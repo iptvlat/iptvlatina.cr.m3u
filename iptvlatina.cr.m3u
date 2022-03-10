@@ -2,7 +2,7 @@
 #iptvlatina.cr.m3u
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 09.03.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 10.03.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -2395,6 +2395,8 @@ https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://meteoalcorcon.es/5_TelecincoHD_220x132.png",TELECINCO HD
 http://91.126.141.13:1935/live/61/1800-def.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png",LA SEXTA CANAL 6 
+https://chupachichi2.site/live/ST7087545ea2a32a0.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png",LA SEXTA CANAL 6 HD
 https://cdnlive.codev8.net/rtpalive/smil:directo.smil/fmt_token/Y-fdNsuZ-Q9V87Pz3qvTjEGibetYIZFSSqCefNlYzVY/eyJleHBpcmUiOjE2NDM4OTY4MDEsInJlZkFsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXX0/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png",LA SEXTA CANAL 6 HD
