@@ -463,7 +463,7 @@ https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/ind
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1646801874~acl=*~data=hdntl~hmac=19c9839c187ce9648231847317efce2999cf4e9dd482dc59c5ae6da4f1bc913d
+https://tna5.bozztv.com/LiveCH006/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecable.es/bundles/app/images/channels/caracol_200x200.png", Canal Caracol HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/caracol-hd2-en-vivo-1.png",CARACOL 2
@@ -543,8 +543,8 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/248px-Milenio_Television.png", Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_milenio-tv_m.png",Milenio televisión
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/248px-Milenio_Television.png", Milenio TELEVISION
+https://rr3---sn-hp57ynlr.googlevideo.com/videoplayback?expire=1647000944&ei=EOkqYpiqLbOa0_wPmsuU0AQ&ip=201.191.198.79&id=qxh5MZXxKb4.1&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303&source=yt_live_broadcast&requiressl=yes&mh=Wl&mm=44%2C29&mn=sn-hp57ynlr%2Csn-hp57knds&ms=lva%2Crdu&mv=m&mvi=3&pl=24&initcwndbps=341250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=K1gOdLKMi0j2BXJyhBu3H8gG&gir=yes&mt=1646979157&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=f0NUPDKCrfRa2g&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAJ5OXVpve85jsAU5irAUvGdTQfXpxei70JgkW_F6iW-lAiATCZUsDz-THWU0VzAx_2bEbg0BnnIFdne9tSBv6oJkbA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMium1gD_yNmkGKhOMfkDI8Hc2AVgBpXhs8p0xcCKRMzAiATPaJZUpHYsxllEPP6s2CO9JoD5I1_Pu3uO58PRnrqwQ%3D%3D&alr=yes&cpn=kbPiWK5z92KKSG-Y&cver=1.20220309.01.01&headm=3&rn=1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_200x200.jpg" group-title="Entretenimiento",FORO TV
 http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/180px-Logo_a%2B_%28canal%29.svg.png",A+
