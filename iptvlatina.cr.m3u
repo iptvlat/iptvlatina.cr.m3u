@@ -41,7 +41,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b9pQsApzqhM/YhR9S1FFuDI/AAAAAAAAARE/PhCpvkorOY4pwkt8JkDxEmvbehdLsbNJwCLQBGAYYCw/s239-c/IMG_20220221_235126_edit_8765889247906.png",TV SUR RADIO CANAL 5 HD
-https://vsd123.mycdn.me/hls/560141306398.m3u8/sig/E4g8uCX0wAE/expires/1646964468619/srcIp/201.191.198.3/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
+https://vsd89.mycdn.me/hls/560141306398.m3u8/sig/g6_igMnyGpE/expires/1647063094484/srcIp/201.191.198.79/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER CABLE.TV HD
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cp4FlLoSkbQxeB3FYgHgTDPFQvV5mTL-an9kLRxpGuN485mMm15OczytTs-fnRhdTyWhJHDNUqSj01vKZiyHp2MHPCGTvTkE9OVh53PZ6-t-nM_ornA09-fSbbccM2OAq-jHjq_VVyItBzKAkDAfvQBAi-TtXZ0a0yIhPcwoKRaUIC7epFW5auB3OvrA9vxCIi9RtfXrzdUPrgpqMOLi8g81ZspKPtNwEVqltYczPQjVzn1HTVEWSN5ILyGGR-J1LcIDTFfu3IOPkcHIU8PmDmRIMegPVFZV_K9nQX9-qH80Y_BO9UZ5k5mReY0DtwmDUKWoLlAjcGSYBNL3XR9w2Suoq4zam9xEQMl4PDSVvI-lrSkTSxb7WYggfdN6RD0qYI4KMnxMucanwlJ5g2HFJpevCo2z_1NuN4bhXHZZsAhDiSSkCZ6h2wpTXEUu2FHyUpEn9NH-w3R54M8Nzn8f7OYC3ryCvUj3zM7GE8kMn4Ysn2o7Y_WyCdSxwKk_gsECeAR_npZE8ZOcDeLSWdOXA1CWTRWllcwJxzlB-1J4owpbqsrYlqsYgBWz8z8VmfyEzqok-RAt8Uu5ceXvdtkycVLjQ4U1sWtSFQxrCd86cz5rFONLZuw2bflMeow0Dwxc0A0eJQUNTfqUNkGw9nBCYjohyd0lby3PF7zrQyVdDe7LXgXgKKJNKV4AWPiNCmObm39mpDhjj48_KZ7D2o5ezYRG0hbHvOYNhONFiyhbX7iIHDMo_hz3yWYmubXBekCv1N7uM4pYHY4TyOfCSN3UNykDQXW7tGx-rv1CDxlT2gBJ--p_OxMHihtyma3rRJrwoyeifNuW55zA33vbEbEu4RcHi5XH9Ci7CEQnyv5nzbCz_leTKUbcd7opLWFsDzRK9RoMV3sj5L-i3iaOamENIAEqCWV1LXdlc3QtMjCaAw.m3u8
 #EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/2021/02/04/super-cinco-logo-con-resalte-2.png",CANAL SUPER 5 HD
@@ -437,7 +437,7 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/22611
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png" group-title="Cataluña" tvg-name="teleantioquia",TELEANTIOQUIA HD
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA HD
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
@@ -461,7 +461,8 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1646801874~acl=*~data=hdntl~hmac=19c9839c187ce9648231847317efce2999cf4e9dd482dc59c5ae6da4f1bc913d
 #EXTINF:-1 tvg-logo="https://telecable.es/bundles/app/images/channels/caracol_200x200.png", Canal Caracol HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
@@ -619,7 +620,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/538
 http://web24.live:8080/testline/testline/38042
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
 #EXTVLCOPT:http-user-agent=20100101
-
+http://23.148.145.49:9001/televall2022/541_.m3u8?token=xW-oEu90OD3afxC3yNc9BA&expires=1646986687
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/145.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL HD
