@@ -929,7 +929,7 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/29.m3u8
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/641.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#",BITME HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/142.m3u8
-https://i.ytimg.com/vi/sUxeAicPOrE/maxresdefault.jpg",TV CLASSICOS ESPAÑOL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sUxeAicPOrE/maxresdefault.jpg",TV CLASSICOS ESPAÑOL
 https://edge1o.live.opencaster.com/caster/eqzbBnbzyakd.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestandroidtvbox.com/wp-content/uploads/2018/05/Iptv-canada-1024x841.jpg",CANADA IPTV
