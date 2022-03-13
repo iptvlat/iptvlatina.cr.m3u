@@ -1161,6 +1161,8 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 https://cdn2.streamgato.us/redtvrd/redtvrd/chunklist_w93686331.m3u8
 #EXTINF:-1 tvg-logo="https://latinosnctv.com/wp-content/uploads/2020/05/logo-web2k19-min.png",LATINNOS CN.TV
 https://ss9.domint.net:3056/nct_str/latinos/chunklist_w856772974.m3u8
+#EXTINF:-1 tvg-logo="https://www.revistalatinanc.com/wp-content/uploads/2019/02/3287_LatinosncTV.jpg",LATINOS NCTV HD 24/7
+https://live.latinosnc.tv:1443/MRR/live/chunklist_w1148701352.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NKDlMMuG1nQ/YhRbnCSKNqI/AAAAAAAAAPo/84mNGuL5xVUSHgilp1dlDfGFQyvE0YlNQCLQBGAYYCw/s239-c/Screenshot_20220221_031827_edit_18780563203964.jpg",LINIEROS HD
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpkFCoY3ABYIIPLePC9qOWBzyFUtkM_qmGmXzaWDhI3RdtdlzcHoTyq1WqOWUxA1smsJhJq4w_8DPq9Ri6NoncOxvjrlL4gDW1_cDajjgleMjoJUmH5OIP2S1ZCmBYvImnF7p7VwJevENhU_yphH82z73Xhgb3bR32LTs95LqPw01pybfKs5WQotW7JC0i6tMA80f2a4LRecUWZBNbJ_nkMsRdVNeXI6cxRO1L2HJaytzH6LABThRsvvgZiqjfKcqLAhEuqytNNdWnLIRiIyCgNXnWhPlaGpXGGD2z-u44mFpb2eiOJSgcG6CV2WD6aKRECB5gIY8I7uy_NlQQdSDJ7cyu9GyA8akEpcsc2xLpn3lQMgReFnMr8cX1jwTj14bRiiRD7EoMdTv5fAMcOLsBSkPDG87x7x1NcIPxCfXWC2aGpb9JlMLnneR7_kx6EqtGMQzCiFvFruAgGe-O-2ni_a21gCzUvRqvGkPF6lZ9WowlgIdc2dJhCX95TQvJUFjxvids1uYoe6Wr9qU_fR8q8sf646KqMifdwWcDdplGtPmH8k82Xr5Tbga8kVQjh6lpNhFGDIlpFaycDQc1mpfOI--UXDhe6tXVhcQm4du4KS8bxIzjlAoP8aHT_-WFKJoo-dSii54YMwgc_P0_54Paw7rvQEVPgoV5B-jMBf68I3xWs-VSSw3Fs872hmTFx4KnSxKekd_zBP7sEfxPblJZVm8E5WPZMk_T-nI7SXL8ZANBVihTIzPiOStjFGGs4ExpBkB5m2pEVHOn5q4I7xyXqcxZXYpmK8mi-Lgupw-5f3lFVJUyrMPqEbV675_gpFmkQDBPv1H4GVCm1vSctcEA5cdGDoNmOE8IZKixHMRBTLlW6pBpYwECMEYeUaDEGuwlcxPH7i6QU62yABKglldS13ZXN0LTIwnQM.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NKDlMMuG1nQ/YhRbnCSKNqI/AAAAAAAAAPo/84mNGuL5xVUSHgilp1dlDfGFQyvE0YlNQCLQBGAYYCw/s239-c/Screenshot_20220221_031827_edit_18780563203964.jpg",LINIEROS HD
@@ -1398,7 +1400,6 @@ https://5b50404ec5e4c.streamlock.net/8020/8020/chunklist_w317405893.m3u8
 http://iptvlatinacr.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBXsU9Dnd0BgMVMGtQoqbbQzxUi3VJD1UhjJWoawTMru99dBZ1&usqp=CAU",TV CINEC CANAL 
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist_w1330845973.m3u8
-https://vod-as-02-17.video.globo.com/r90_720/v4/eb/28/8a/6277238_8a0148b7d0d305ba712dc6503822ddfe7f3fd4f4/6277238--G-d1mA-manifest.ism/6277238--G-d1mA-manifest-audio_por=128039-video_por=1210000.m3u8?hls_client_manifest_version=4
 #EXTINF:-1 tvg-logo="https://www.a12.com/source/files/originals/tv_aparecida.jpg",APARECIDA TV
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/pasiones_logo_big_grandefinal.jpg" group-title="LATINO", Pasiones HD
@@ -1471,7 +1472,7 @@ https://mediacp.hostradios.com.ar:19360/canal6/canal6.m3u8?PlaylistM3UCL
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZIaROLZAOYiAVmAjuRGk2eLxwIyzgaLGmJMbnCi2nJeSwQ_Uv1RRVNwek0-7SdE6a3E", SAN LUIS CANAL 13 HD
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w1546317876_b799152.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAgCTcLsaub2khNDikjEkZh7hB6SR56jL0PTEPIX4JxwrChv9JP-YQIPd29Nzm_5Dl_M&usqp=CAU",RTN HD
+#EXTINF:-1 tvg-logo="https://www.rtn-team.cc/images/logo.png",RTN HD
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrn6wl24wj1ybc36mgbnbviv3xjp18ciya3se0wj4.png",CANAL MILENIUM.TV 
 https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
@@ -1539,6 +1540,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png",ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-uRO7cQF9i4g/XCKOsAGqYZI/AAAAAAAAB1U/icLyv19C1g0ksCUbC2GqnSqrbHzsdTbJACLcBGAs/w1200-h630-p-k-no-nu/cl3-argentina.jpg",CL3 Cablevisión
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png",CANAL 32 SPTV SAN PEDRO
@@ -1568,8 +1571,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w454365337.m3u8
 http://ott-iptv.info:2016/Daniel/Daniel/53
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28YHeDXGpyeQBMomjgdUhsh5Qu7ShdMJ5woVh-Tp7DEDpOXiXy8woBrJvZVGIslnG5kE&usqp=CAU",Canal 9 (Comodoro Rivadavia) 
 https://live.canalnueve.tv/canal.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png",TV Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w454365337.m3u8
 #EXTINF:-1 tvg-logo="https://latelegratis.com/logos/movistaraccion.png",ACCION
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/699.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQuvZBfMMO2RRjwq9zeVFoKHLPoDWUPbx-eVSFolvTJHX1qEB1ZH37nohR78SWmOv7zk&usqp=CAU",CINESTAR ACTION TV 
@@ -1643,8 +1644,6 @@ http://stream.backustv.ru/content/39864/index.m3u8
 https://crackle-xumo.amagi.tv/playlistX1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYXcPoOfO5HpY63WHbiL7rRjKxPziLxGl9RZGnUX4FSLHa4Sft_js_qFjXHJb05upEtY&usqp=CAU",Crackle  Movies & TV
 https://crackle-xumo.amagi.tv/playlistX1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png",DBM Tv-Digital Black Music
-https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7M-k5Ib9hBU/TW-PR5Now5I/AAAAAAAAAG0/CusFYX0jVQQ/s1600/cplusdecale-1.jpg",CANAL DECALE+ HD
 http://supersonictv.live:25461/tv/tv/74673
 #EXTINF:-1 tvg-logo="https://tv-only.org/uploads/posts/2016-09/1474193708_ntn.png",THT HD
@@ -1697,8 +1696,6 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png", Canal Survision Alerce
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w565457012.m3u8
-#EXTINF:-1 tvg-logo="https://www.revistalatinanc.com/wp-content/uploads/2019/02/3287_LatinosncTV.jpg", LATINOS NCTV HD 24/7
-https://live.latinosnc.tv:1443/MRR/live/chunklist_w1148701352.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJziMDQR06dzhXvTtxLF8mqKs7rO8GmzLuFbZA=s100-c-k-c0xffffffff-no-rj-mo",CANAL 54 LATINO EN DIRECTO
 http://190.3.169.119:8080/latina/latina/chunklist_w1341457423.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvcolombiadigital.com.co/images/h1-1.jpg",PANICO HD
