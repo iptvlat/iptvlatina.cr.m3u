@@ -214,7 +214,7 @@ http://nicatv.rylco.com:8075/live/0001/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg",CANAL 2
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 HD
-https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj0gbIyDSt6wlzihA2ldjgsA)/dm/3/x7rwv8c/s/live-0.m3u8
+https://stream-01.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj2h7geNF9ZaCF_96tnTO0Tc)/dm/3/x7rwv8c/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 
 http://nicatv.rylco.com:8075/live/0002/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwThqeXi-q_NZQWHmBJf6OF2w6CfaMTudsfIsOGYw31uQtfteVSg2cxjUVZypoYA-aB0&usqp=CAU",CANAL 6 HD
@@ -611,7 +611,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/538
 http://web24.live:8080/testline/testline/38042
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
 #EXTVLCOPT:http-user-agent=20100101
-http://23.148.145.49:9001/televall2022/541_.m3u8?token=sWgPps66GdTMeQsv1TyyRQ&expires=1647195060
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/145.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL HD
@@ -1308,7 +1308,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YFxjfwm.png" group-title="CHILE",CHIGUAYANTE TV HD CHILE
 http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpokXNnKwNhroVXgdUAadTFXN27CEkCaJ_FdZ1ARX_Z7KzdTRVbNaZLYDM1dhFiNvdl0&usqp=CAU",FMTV FRECUENCIA MUSICAL
-https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1259694217.m3u8
+https://stream-us-east-1.getpublica.com/cl/3c9edb80-90db-4926-80e4-ba34f49ae678/1280x720_1454539_0_false.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMjDUNypk7L48zz7e0KS2dtdKOR_DdYcqoawEumackypXYlfutlRZtGV5DYxrAenE8bY&usqp=CAU",FMTV MOVIES #2
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/plhttps://mediastreamm.com:3449/live/mlecaroslive.m3u8aylist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWae2gXI2bmF76XThJPYzOcjWaFPRg-O47_tTKRXbGb1hPFgPXPN-1PnowbpOqJOBVjfo&usqp=CAU",FMTV SUPER CINE #3
