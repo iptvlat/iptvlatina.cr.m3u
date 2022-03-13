@@ -43,7 +43,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b9pQsApzqhM/YhR9S1FFuDI/AAAAAAAAARE/PhCpvkorOY4pwkt8JkDxEmvbehdLsbNJwCLQBGAYYCw/s239-c/IMG_20220221_235126_edit_8765889247906.png",TV SUR RADIO CANAL 5 HD
 https://vsd136.mycdn.me/hls/560141306398.m3u8/sig/IeUXKdrEYOI/expires/1647150479764/srcIp/201.191.198.114/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER CABLE.TV HD
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFC4VoUFWowgUWsL96l0b5PxHzQA1DNTFIF1n2tUNGquwxnrMNdinKWxNKo87WxuuuE_tsKR4LfrPMGF-6Injf_tJEAOw9hzJ7bsZz-SRI1LrS63FvQKyBYjm3ZR1vmpY12TwJdOtNfa0lsRZMK9fvBsCbo5b7-by27l4Pzh_DaRBvq73qduIkELQL6MkrU_0B77ZulSL24_DXutdYCnJE3uB53PuT3oxyHcf5v_SsmkXSv0dpIUyjVIwtIKwZfenIhXtmBW3-2cxBqhHdXSzKG1II8dilwgAZ8DbkeLWN7l5a8J_LRbtkpCvjBBc9ZFXO7H3W_Kg1AlFC5Q7LdftkG6ZY2i2HltfWkkNcjf9KLl9d6C1zc58Xw33YMwthy_KJaJbRittGMN0yd8ww-NFCJ4auaekn9rdyx-RaiDeFfJlZnIYWG8_eO1kn3xPe7sVamXD2zAnQOvE-GVz3xJmCO87tkY5TUrO7aUIB3YDOr4umpYm_jJkSJ-iWJ6CvzI-HVmGeHj2O1QzMse8ynNX79AVd7_yeJ69AIyH-y8dJgJNvHSoGns4Ig213qv1AXh5CT_mGjdiOmzF2EquuWJsjJEpGntUezFTynZZSiJ3q3pExXzZ6jloisSb1ssslAu5kqwgqTOCnl7eyG4szQ5-HF6ShAiaIhPaOjpaQkYvuWew0v53aiBelqC73D4aW26DyzHq8k6cSCvGot4XynCvy8lwwM3SqkyccbnKLKzwNaGfEC__QQdl6qcP2rDvI93dtjYnu1DTJ59p63R01kKVEQFUEYW0q8ZvPOBR4Hu0SuRWuvYl4bI3hUxcV9tzFYY3wg-brC_Ge07th7Y3Aae3upawqxIkIwNfPxubQcejJtN7Gs3gbbZVUIc9jOcaVlpM9GgzuHSOMIRv2piw7MnogASoJZXUtd2VzdC0yMJwD.m3u8
+https://vsd123.mycdn.me/hls/560141306398.m3u8/sig/VyiQXTXB-R4/expires/1647218911695/srcIp/190.211.108.248/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x1Oa5TjlGWSaeA-aeXHvA47lOomIWdGuq1YKb_ZBCUooe4W92h-QTTvmv3spnVZ_ZNmaER9uFPA=s900-c-k-c0x00ffffff-no-rj",STV CANAL 5 SAN VITO TELEVISION HD
 http://stmv1.srvif.com/sanvito/sanvito/chunklist_w902196568.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/afiI8Zm7HZZSRJnbMrcDXnREskszX8ZxKkreOugKPJYTaQQhWVJfqEaLcFpBqyPXYO9Xc0dtzvKfaXH_2g=s239-c",CANAL 6 HD
@@ -264,7 +264,7 @@ https://mdstrm.com/live-stream-playlist/5d976689ab55a60f94ec98e8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC HD
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/487
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png", TVN HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png",TVN HD
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20181117/fqj/kisspng-panama-city-nextv-logo-tvn-tvmax-nex-panama-app-app-5bf00400925d56.2825822415424563205995.jpg", NEX CANAL 21 HD
 https://stmv2.panelzcast.com/nextvpanama/nextvpanama/chunklist_w1308413611.m3u8
@@ -336,7 +336,7 @@ http://www.lengua.com/anthems/Honduras.mp3
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSCX4W_lgCmG7AulCkc2DAaWDREd4ZIq7pL1PCQ=s900-c-k-c0x00ffffff-no-rj",TELEVISION COMAYAGUA CANAL 40
 http://st2.worldkast.com/8058/8058/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV HD
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3MTI0NDkxLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTguNzkiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTguNzkiXX0sInNpZ25hdHVyZSI6IjVjZWZmM2NhZGRkYzA0ZmVmMDlmMDMxMjkyZTQwYjMyYTk2YjA2MzEifQ%3D%3D
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3MjE5MTAwLCJzZXNzaW9uIjoiMTkwLjIxMS4xMDguMjQ4Iiwid2hpdGVsaXN0IjpbIjE5MC4yMTEuMTA4LjI0OCIsIjE3OS41MC4yNDEuMTQiXX0sInNpZ25hdHVyZSI6ImZiZDg3MjllYTQyOWMwZjIzOTU2YTQxOTVjZTU3ZGEzNmVhNTY3ZmEifQ%3D%3D
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV SD
 #EXTVLCOPT:http-user-agent=20100101
 http://web24.live:8080/testline/testline/41455
