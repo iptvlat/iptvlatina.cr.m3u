@@ -2,7 +2,7 @@
 #iptvlatina.cr.m3u
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 12.03.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 13.03.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -34,8 +34,8 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/704.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080",TELE UNO HD 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSalPTzbA5vd1NjQo6O28oTYy2b7qSZS0R7-Q55=s900-c-k-c0x00ffffff-no-rj",CANAL 2 HD
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_2.png",CANAL 2 HD
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
@@ -132,7 +132,7 @@ https://cp.sradiotv.com:1936/8016/8016/chunklist_w30826167.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/player_image/public/2022-01/RBM%2520TV%2520%25231-Costa-Rica.png.webp?itok=wEGHjiLR",RBM TV #1
 https://tv.portalexpress.es:3468/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgNmObMctaO_8kIPMRvkmvTaY5T8MtW_aDON5bG8cxole6fe_deQxZawvVtuh8eawq2RFkq_3doj9nQvTCcQC7_Vz06LO12Af_CVfRk_m4bXBtoAWwKH7lecB_DONpqlGsfG_uWjQXxu_OrK2SUeS1W07Q-wy4DkIoovjLRonzXiCE6zKUHb4mk1z6N3w=s320",Radio BestMusic Tv #2
-https://cdnhd.iblups.com/hls/vAtv9C5Wib.m3u8
+https://stream-01.nyc.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeJGArQtsdlucx1Z53OZzHg8)/dm/3/x850sd4/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-01/RADIO%2520BESTMUSIC%2520TV%25203-Costa-Rica.png.webp?itok=2EjAvXBV",RBM TV #3
 https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOp6Znn7RSwr-tnOccNjT4VE)/dm/3/x84za79/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4Xx1iBMn-Axx-ijNUe1DLOkl4bJyo74q5YhsFox4dJ-2alY4PYQDTSXAV9M_7kaOIJo&usqp=CAU",VM Latino EL CANAL DE LA MUSICA
@@ -587,9 +587,6 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/14.m3u8
 #EXTVLCOPT:http-user-agent=20100101
 #EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/152.m3u8
-#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME HD
-#EXTVLCOPT:http-user-agent=20100101
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I-xHH7bNjS0/YBNnpeyb8qI/AAAAAAAAawc/9P4F4hfMfB4oBJHQTVl0VMiXDlQtciH2gCPcBGAsYHg/s71/golden.PNG",GOLDEN HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/57.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I-xHH7bNjS0/YBNnpeyb8qI/AAAAAAAAawc/9P4F4hfMfB4oBJHQTVl0VMiXDlQtciH2gCPcBGAsYHg/s71/golden.PNG",GOLDEN HD
@@ -616,7 +613,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/538
 http://web24.live:8080/testline/testline/38042
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
 #EXTVLCOPT:http-user-agent=20100101
-
+http://23.148.145.49:9001/televall2022/541_.m3u8?token=-C-N5W-Uf71P2Sw9JAU7nw&expires=1647161085
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/145.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL HD
