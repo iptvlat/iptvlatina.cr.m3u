@@ -43,7 +43,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b9pQsApzqhM/YhR9S1FFuDI/AAAAAAAAARE/PhCpvkorOY4pwkt8JkDxEmvbehdLsbNJwCLQBGAYYCw/s239-c/IMG_20220221_235126_edit_8765889247906.png",TV SUR RADIO CANAL 5 HD
 https://vsd136.mycdn.me/hls/560141306398.m3u8/sig/IeUXKdrEYOI/expires/1647150479764/srcIp/201.191.198.114/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER CABLE.TV HD
-https://vsd123.mycdn.me/hls/560141306398.m3u8/sig/VyiQXTXB-R4/expires/1647218911695/srcIp/190.211.108.248/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqEF5BWwatdg7k9H7ygNIj0QS-4fOLrYhjOM9PCI1hl77yW1AtuMmV1OtDUx-EhX9Cwl4HaGf66dt_KoD0JGUbQiot4a5-lFKr28H8QyBY3FdikCsbsIEp81-sVqyoa61VyhsVD8z1pmLhrO3n5H1PTqu267aBd4DvkbDQ9lfhzCptsJWMyuVAnc37CpTrOm83O4HemR1j0r0_IkKBIELyrb3S9Uu7cJAQzjFk68nw9dzWYI3Ma_dtSvkx2aLqtnwHeuz5rJQceh1rv6Ft-FppwZpplhGVcQinwpKYcTbTlDHtb9H4Ug0_-GA_53v1e4nwH1VmBRYcsR8daMiXrRwVk-NfrXUxsFKBWwFmG5mPaBL70t_Rjrts9oN76PA7IjwEmoMZYFaLeXbLqKQEFnffGDuMeRDt97JGMKa4ilvxqMzwGYP7QZhQemHnC80cDJs63O330cibmmmL5CdMRcthiqkwowkOwPdqg3cPTPw4uAmA3rj6Yu1logBirHu9RungXypZzJMI3rSOuNNyE-DIE-vGvRiivemfse1MEvW4KnyibIphL1nrOpqzWKRWk51oNIESKQVwr5q7VZ6DdaFFTyXub4O_1Kb6kAZBuIKNoq9fEIUDvu2ERzfcEgEXNYtSG_ra0UevV6Y8bz63bRp-tqcPY3HTZG8PqjJnF8SayHzeELe6QaMeuuTLxaMfzD7o4NEG2-rtc0Z-O5Da-0dgeLCwdO4J3rayYF-a7Ks5Au9lkVURadrBQJnDTZdxCeLUJ7fd4aZHPwHt6KujaaS3Nx8x5fuMWpMIB41kLBG5zRGo97tAffZgJ--p4uMYFxA3Uq87hP6PZv13uuTOMFUpl9XD58_ZHSBdLLwSrajqeAxa0lykcARNO8ejbgj_TGztrOMhoMHv-FqOdVr4RZXy7nIAEqCWV1LXdlc3QtMjCdAw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x1Oa5TjlGWSaeA-aeXHvA47lOomIWdGuq1YKb_ZBCUooe4W92h-QTTvmv3spnVZ_ZNmaER9uFPA=s900-c-k-c0x00ffffff-no-rj",STV CANAL 5 SAN VITO TELEVISION HD
 http://stmv1.srvif.com/sanvito/sanvito/chunklist_w902196568.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/afiI8Zm7HZZSRJnbMrcDXnREskszX8ZxKkreOugKPJYTaQQhWVJfqEaLcFpBqyPXYO9Xc0dtzvKfaXH_2g=s239-c",CANAL 6 HD
@@ -1121,6 +1121,8 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w943399796.m3u8
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.utv.cl/uvt_log.jpg",UTV SAN CLEMENTE HD
 https://v2.tustreaming.cl/utv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/K2ZBQj6sRuXuggMRJoYKGguLgZv3kHiJUuQ3UGvPPcR--a5aBHZwPpAhQmUu1Ic2pCcEzXf_cpD0QsK2kQ=s239-c",R&E TELEVISION 
+https://cdn2.streamgato.us/ryetelevision/ryetelevision/chunklist_w273536026.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTY3qwLouJrHW0Vt6s7ltzQnwYMfQo03LBX_A&usqp=CAU", BHTV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/villa-altagracia-tv.jpeg",Villa Altagracia TV
