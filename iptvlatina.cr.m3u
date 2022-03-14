@@ -1547,6 +1547,7 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/673.m3u8
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/688.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTKNIizYJh9otGJ3ib0LUVncnWsu8-xXQDw&usqp=CAU",CINE ZOMBIE
 #EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19538
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",tv CINE 
 https://strapi.api-tvcine.com/uploads/bf8cc3317f89413189dfac3003fef4e1.mp4
@@ -1587,7 +1588,7 @@ https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuVnissRZAdKw56u1v9sgjx5i4o0KpgTzcBuEuXS0HF-BYPla7",TELEUNION CANAL 16
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1484239605/of_400x400.jpg",CANALES TV ONE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1484239605/of_400x400.jpg",CANALES TV CINE
 https://www.digitalsky.com.kh/uploads/videos/OneTV-Sabay_19_05_2018_2.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/BSB_Galaxy_small_logo.jpg",GALAXY TV
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
@@ -1671,7 +1672,6 @@ http://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
 http://planettvweb.com:8091/isaias2020/isaias2020/20353
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999142/800x800.png?type=smartCast_channelTile",CINE ROMANTICO HD
 http://planettvweb.com:8091/isaias2020/isaias2020/20354
-http://latinosiptv.online:8090/notocar/xmauc84bx1/19538
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a2-tv-697.png",A2 TAKSI 
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
 #EXTINF:-1 tvg-logo="https://www.film.ru/special/kill-bill/images/pic14.jpg",TV1000_Action
