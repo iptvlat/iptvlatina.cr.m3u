@@ -603,7 +603,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/538
 http://web24.live:8080/testline/testline/38042
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
 #EXTVLCOPT:http-user-agent=20100101
-http://23.148.145.49:9001/televall2022/541_.m3u8?token=6vuyHOcSGB7gTPRjFhLOSg&expires=1647236995
+http://23.148.145.49:9001/televall2022/541_.m3u8?token=Ajqv97sujt5cWYqByNZ6Mw&expires=1647254879
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/145.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL HD
@@ -1080,8 +1080,6 @@ http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_pFTD3I8CXKM/TAvP2dnp8xI/AAAAAAAAC-Q/kP0lcBYTzts/s1600/teleamazonas_logo.JPG",TA TELEAMAZONAS HD
 https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_pFTD3I8CXKM/TAvP2dnp8xI/AAAAAAAAC-Q/kP0lcBYTzts/s1600/teleamazonas_logo.JPG",TA TELEAMAZONAS 
-https://playback.akamaized.net/streams/1359588_9942377_lsia7im7tk1hzt6s0fr_1/media/1359588_9942377_lsia7im7tk1hzt6s0fr_1@2756000p.m3u8?dw=14400&ts=1642320000&hdnts=exp=1642494810~acl=/streams/1359588_9942377_lsia7im7tk1hzt6s0fr_1/media*~hmac=c63db47e7a1a89ffd391257162b7239c8011b37cc42db3b4eb1943ccfb1f2275
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png",BEST CABLE CANAL 3 PARA TODOS
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png",TVPE
@@ -1317,7 +1315,7 @@ https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w11494
 https://enchttp://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV POP HD 
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/upload/2019/01/logo_pop_001.png",TV POP 
+#EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV POP 
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLixwwv011b2TPtZd5Za_WkgYXkl-ynNBrJ7GEhxwgCmg2MK44SZTgKQac90lUdDwXKW8&usqp=CAU",TVR
 https://unlimited1-cl.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?_=1
@@ -1330,7 +1328,7 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Oq7huantoRI/YKvGS5rJYMI/AAAAAAAAcek/8lku1DBmqmgafDV5LxHAbYugfurIppJRQCPcBGAsYHg/s71/la-red-chile.PNG",LA RED HD
 https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg",canal 3 lavictoria
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpUFM94UT3uSaCgWoDjHgk1bOmO8Q0G7vN1pm6N-nLmUxg9d8i-Mhxjjs4dlr-Jua8dPIsQFb5DOLNvGqIWcf0A3kHHWPGOSRV2lE4ej02Ybymc09mt1-8Zq7_pg1xi0HdJ7wQUSayohI3U-etO8WMODT7h8Gp2PMTMbwIG8zEfnHxOS46-2zyx-QtjCzntPdwlmC_POFtO4TVB3xIzOSey8LLGi0nobXe2jPV0h7C2tKTTDmmhifohj4_1p6QZZmNsR7_Vn3SCnKTOFHvDAGr3Mdh-ywJyfaf0IX68WOt9rqR_GuBv4tfpJZlYfMKGzOZ3seMRn2jcLEmR1HrsGXQpxK6kLHY6g9fuEUv1zAQTlW5pnriqoHhBjVMwnwe47Kq0UR-6oTXImlnKer-Fr7GKRDBrKAoZhYYNH-18nh8Hapi-ayk0xRFcXUr5WtyBzapW-RN83Ih-ZIZGYYcnc87xFt6QsMD-TMXIedf937YKNH1-kLme5tzL_GAjVB3ZOdDEzNoA5PnDr0kHcEDQNdMvZ6QJfVC0JSpl16hCBaXD6t92hdd0gaPWFuqKB1D7yMn_OJASQW98vPszyYKOlF6BFb5BFfl2z_MPxK0J5QDqnFTGBGPWYw37FOXB-HNkArKTeD4ZH_jUMSIWbhpOWTQNwDA7Ibqhn7UnyPw9ePDk4JtnxuthKTWQeg_1Eiaunho5GxQNyc1Qt--d8p3rGxxqApgcmrUhc1ts3H_PxluJQkJPDYJcHB3DDrMXdEvCUqHgRe67uvnRv3We_S_DrqoG9jPweVFLi9gpMlVsNDR9An8aKfhXkU9vD0T1hzCYtm4zVf_yx_x7vw0VxuE0Tu83qhMn4Z0j2LX6BJnYvGdPNPKO-__UmuxoMHDWx946_5SpwFCYvIAEqCXVzLWVhc3QtMjCbAw.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg",canal 3 lavictoria
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY3JbaqpowGwj3szk8lfQ6-E)/dm/3/x7gy059/d/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960967140869312513/rBPFnisl_400x400.jpg",TV+ OSORNO
@@ -1376,7 +1374,7 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/70219.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3lVmxUl0Y_Y/X6cg8YQnArI/AAAAAAAAA7o/GDx9iU5UyYE3MKOV4ac5a1J9JOY2HVYSQCNcBGAsYHQ/w640-h360/TVLaint_Gamavision.jpg",GAMAVISION.TV
 http://tvplayer.ga:8080/live/peruapps/tvonline/229.ts
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TV Mazatenango
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpUFPb9aCPhlF3l8eB_ttNNmjE_l_n6a7o82dSTGvKu4aKSbGE_1_lnJhRjSarH-5eiAKkgktalXKjYHLlG4ut97jcm2wGAXah7hlV8YG6sn6teFzBqqOE26rICAf32IjWAEosG27gab8XnIKsQdibr4Lwlf5dmkUIq8GvtXRkBc_DHGhmirxldXujIRNv9Npe1phPBJtQyWaR4crmMk67JIqSoWfdpqKuk36rXYJGpkjoLpMdrn0jVaJ1s3tkwZAkzzhD0yUa06eXPswvNiLYhFWZyR-8zglQ1qCb5RSdPi_WoNIyLwaLBv6PBQh2z4GW_LBNLPEt-9clZTapfAN6CSqmL7CZQjtDmOhrbZppq8I8A1TvHE-ENticqwIEhpNTOYFFk1unEroLZoHdQwGMl2J3vhj3rZ10ThNSQyPDPYs1bWaJeYxFKSc9kvQbLi85WcRrZnbPn2xKekxDTDdyShiO1S8MTyawmz7UZNtr16SynHv3w7oRBsSTWogZF9Pk1ZckyX06jcG1n0mSOcBrtp_iv3c4wIY8cvK_aUQDYiO0rNpVNu1DRRtB6sYh_snjediobbaxhlUotbv4qqMsow5YUDRP4PbhC7L6YIeX7oGNMBkO9OOui4uTLABFLFrHTgDEL6OwRDxf560MBuxSW5f6h__xk1-BXDyMZ-3fMtaLivmxwpOuIYpjOH_QuCTWZWcJGuCxXI7ApmQHL_Sdu3WJWR5XSu8JejPW3EIRzSc_vPHi0_WWANCDaWOf7nDtbafiHF-zAicuASQcI2vZqr-A4TzwGt8QMhg1RABfaOdSW4o5mgao-k4ogBGMvrFCN8Il-gSZpQE6Z0yl43BIokUOGG1Ps5R9RQKfW9wew0W9AsaFglbBoMHOc5zti0tDZP1CJtIAEqCWV1LXdlc3QtMjCdAw.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TV
 https://stream.oursnetworktv.com/latin/canal23Tv/chunklist_w637481463.m3u8
 #EXTINF:-1 tvg-logo="https://www.rectv.ec/images/logo.png", REC.TV ONLINE 
@@ -1483,7 +1481,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/EUROPA-audio_128039_spa=128000-v
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="DEPORTES",EURO CHANNEL HD
 http://161.132.222.196:http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/149.m3u820000/play/a0l3/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hvYVcTYRluI/YhH9uJE7KdI/AAAAAAAAALA/Wngik9HFLiQjg_1iwTANojOreXZvy0sFQCLQBGAYYCw/s239-c/Captura%2Bde%2Bpantalla%2B%252887%2529.png",CANAL 42.1 TDA CORDOBATV HD
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpYF7mEez51CdfPYWEtHFziuqEwnC4nJ9fMdiX_XLJZzN8m56PYs-2PP0flYjJtwiak12xE0e-0VDu1MW10MeLk6v_hwhg6emPMwFwYTjyYUDzfMYoAeKP6oqNRXKchKavQDTaKYhhtjGx5yL5ZbBpAb5CpOO_RjPWFxX726QDK3HhKXP4bZVVs-iDgaNjJkDGBAVGE_Kh6t8bG0VC3hxKEqeprcePeNi8aJ-ixuGPNGRLGs9PpBOSI1xUtk_bIptnmFONakSeIExvegn0y-_thDNepSiSLlN98IVePIXs2S4EvVPnGW0WiZRamS6rCHurSFVywFmXmx2FOWaqZVIriNO7wIEJCY_48sNyDz8vErpmb8zwyfPngZilN2B3tTts1vo2w1gggFe15GQh_HQWMhqdGHp5Ixl5nhQFOV-YRJ7cebvF8EE0nfw0Y-tP9PuQnuTKE0ixCnaQHGIqDXGMSsrWf_9NDcszVGh5LtTQ3vHX0FLRyqwXaJfsvhTZGYIxzZyf4l21A_hcguqWBlfkDfyUgy7AgAffTqrYSW9wmTrMQXuxXhKV1yuK7me_a0WJELJk4EB8c2qqlxtI1qP2Cldij5cJZficqWbYg_43JP44N-DUeG0M3wBzfjP0qF6vVY79WXfkSuvJZeZVpy7l0ns_D6-yeHjoGNSVxowdyUFERm10y-0ticJpprWIqo4_Ner6-YSeedTp1qVn0ouRhdwo7V0OLjMU0pBQKL88wvXMdguRdusk2BGFv1Ll-vAQy7fREt37uQlEKWKRCRDBZ2BYb9iFn42lJ3-v576ymXrWzcthZKB_i_-mIo1251IsLM7631DDimEL8j6jYw3WgtdawmoDvzT5q5e1Br84ManA-Q-WSoDjUaDMwM21W_Hz6P_IsPaiABKgl1cy1lYXN0LTIwmwM.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpcFZpfXjwrblpsifIPx1flMHDQB1nP1pRM1xe26WTx7jA1zvyIZByMzv-fRK6qi8q2U9nY1jM7Tqdm_b0ohQkL3moXon3trPVy0frJAMBlQPEYczs5mBHv1QY4NgZ33IIw7OLVkmJKdTF_U41BPA_LnnykCM96oy7dITsS_Yt2ZlEZZbw8l5bcqKwn2aRQU4SlQIgg_PNjOeLWrFpvs9KA-7LZCxQben_llkEcPhGSEtnIOg0jS9zWSVlcwkJZnB04N1eBiOGD6xxhFfeP8cDqNjUZounKCfhk7AeTybWLVvzMW2USlzJHWelAtqw746R26hBw2NcrVPVFXezcQl-_32cYcyDYyEXH1Unl7rFKw0zTpOLG_sN48TyC5ZsisdWCfdFMpucI_wY5fuhG0oBAeffWmNm7J58lLwumNUHj9p5JDX66PyFg2Sg3YxxD0tIdsZTTsX_UZyZ2mqhkqS9Iv8FEcwgdrKxd5rQz-e23okU51qDaztKBy3tNKkxK3tZGm-DWerAYd3hbKsdIqJ3DMZpTaQQcjO2-wczJGKnl9BiZgmYmd_AVQR8SxBepcA_WK8gv8Eh4CPlWCmBTl64h8Y5BSB1FTOBCrlOYGf7vcqJuTsOuWK15y09puWj47QqQOx2ZcLPqDVaXcFuYGVNQ1GSLDt2scFKa2n7DYAOG_XMWTa5Cd_gW3a6hi8qjs_kCY4CufkLClwHFllJfUK9XiqGE2-75i11_MBsTXxMl0qSEW-PstZXdzPcPduieHmpr4NUJ9XbZWoWs6U-0zzPbZwu2jSOReVxhKY03LH0uuJ4GjGj2KEm-m8Pk01kzsTlowwcViVvFpyQP_UxGCX7R6DnD0l0qF8Q_L5A4gQ4jjtthiVZ6YDNpsGgziunjZNShi4ZxNtNwgASoJdXMtZWFzdC0yMJwD.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Canal-CNR-Jujuy-en-vivo-Online.png",CNR.TV
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9558a64b-9562-45e8-9275-9e2f4a6acc20-profile_image-70x70.png", C2N.TV CANAL2 NOTICIAS 
