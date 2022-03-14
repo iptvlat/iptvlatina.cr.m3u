@@ -1540,8 +1540,11 @@ http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/213247/13024249/554be0756efbb_thumb900.jpg",MY SERIES TV
+http://127.0.0.1:55495
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_947262-MLM40198235807_122019-O.jpg",Smallville
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/673.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTKNIizYJh9otGJ3ib0LUVncnWsu8-xXQDw&usqp=CAU",CINE ZOMBIE HD
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/688.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTKNIizYJh9otGJ3ib0LUVncnWsu8-xXQDw&usqp=CAU",CINE ZOMBIE
 #EXTVLCOPT:http-user-agent=20100101
 
@@ -1837,6 +1840,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tBps7h1SAh4/hqdefault.jpg",CANALES DE TERROR
+http://127.0.0.1:55495
 #EXTINF:-1 tvg-logo="http://www.tvcolombiadigital.com.co/images/h1-1.jpg",PANICO HD
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalterror.com.br/wp-content/uploads/2020/01/logo-nova1.png",CANAL TERROR 
