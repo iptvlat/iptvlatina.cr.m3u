@@ -917,6 +917,10 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/641.m3u8
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/142.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sUxeAicPOrE/maxresdefault.jpg",TV CLASSICOS ESPAÑOL
 https://edge1o.live.opencaster.com/caster/eqzbBnbzyakd.m3u8
+#EXTINF:-1 tvg-logo="https://www.hibrido.fr/wp-content/uploads/2016/07/logo-gulli-100.jpg",Gulli GIRL HD
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 tvg-logo="https://gulli.ru/wp-content/uploads/zaglushka.jpg",Gulli GIRL HD
+http://194.190.78.91:8080/Gulli_OT/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestandroidtvbox.com/wp-content/uploads/2018/05/Iptv-canada-1024x841.jpg",CANADA IPTV
 http://iptvlatinacr.clup.184.182.375.100
@@ -1628,7 +1632,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2013-04/1365140085_www.satsis.info_10136_1.jpg", SONY SCI-FI
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ae-dubai-one-6158-300x225.jpg", DUBALONE
+#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ae-dubai-one-6158-300x225.jpg",DUBALONE
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/starcinemaofficial/PUOFzuVbTIsl.jpg",Star Cinema HD
 http://95.67.12.94:9001
@@ -1860,34 +1864,13 @@ https://128.130.01.125ZONAFILMS
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-70x70.png",zonafilms.TV HD
 
-
-#EXTINF:-1 tvg-logo="http://fomny.com/Video-2/USA/05/Freefrom/logo.gif",FF FREEFORM.tv 
-https://cdn1-4p.teleuptv.net/c916462a-7a7c-4090-a873-d5732b8a3c00/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png",TV CLASSICS
-https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
-#EXTINF:-1 tvg-logo="https://www.hibrido.fr/wp-content/uploads/2016/07/logo-gulli-100.jpg",Gulli GIRL HD
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-logo="https://gulli.ru/wp-content/uploads/zaglushka.jpg",Gulli GIRL HD
-http://194.190.78.91:8080/Gulli_OT/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png",CINE TV PELICULA
-http://120.130.128.134.200
-#EXTINF:-1 tvg-logo="https://fiftiesweb.com/wordpress/wp-content/uploads/2015/06/TV-Westerns.jpg",TV WESTERNS 1947
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-49aoj6Si_lI71HtOvBgQYrgi9ejDkVvVbkG4ESjG-efqMYfx",BLACK CINEMA TV
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",ACTION MOVIES
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://elchapuzasinformatico.com/wp-content/uploads/2017/09/Showtime-criptomoneda.jpg",usa showtime
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU",MOVIEZ TV
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU",CANALES MOVIEZ TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",STAR MOVIEMI HD
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.vectorstock.com/i/1000x1000/75/73/play-button-cinema-movie-logo-vector-22997573.jpg",MOVIE CLASICOS
 https://dai1.xumo.com/8d9puiojemjm1t9c/9999400/master.m3u8
-#EXTINF:-1 tvg-logo="https://video-weaver.ymq03.hls.ttvnw.net/v1/playlist/CqQF2C-kBnjMTMR7joVBe7749u-IhPbYljbiSO2Ys2klZL8ZddiYO9uufuFAq9WiDo1xpxXxLOlELyqXwGntSRDpv9B-Xg34xtFzxMTnQw-zJe2BHtIXk3_XqQDN_TqUQk4cGmII2ufcKSz4bPutdXzPhMLR-uGEwflentOL6hv-67LvTrSesTVgAUFgxo_bMzXHWPi7fOLcVklNDghS6T4RVuNRq681a9odkPFkaWmi3Rk5Vm9ZnjylijQ2xQtZSMD8TnZucfVZ4fzhUyfqfCvbsZrUnjItn4mHhYuhRXXr_w-vGHhqPZQ8fTYixhbog4UTiPVMootZRIGKR-AhSsKy3EBoz2i4ex3qIkn65hJCwIcj6qi0kevIfPVuKApuH4WM58XAZhLmfYzq0rx-rS6igRODIbdUN5WL-um4fFETJO56fr5sAEc5TcLbJ7wl-50FF0RNqPbVE0nXzAfkgdGtV5Uvo-YZn3os3vdg76w9pRkWXo9iNqwKzSec2C8tpVD5qWqeMYy8P0TbDr2fzh5eggiUJlVyKfnG6mxx_SBjCCrRmPWPNg0xMbre6AvBLvgcjcR91AO9JRR9FGkH-0IDFK7kJ73nbRl7WsoxQmMdG4LKFkcvhObiC_6KetGvjjgzezRkQj2mp28mFO9uoUjcb7mmnnIWBQk8PlGuMnoF-j5rkDATluSQOkJJjfm9tg8HJxqZ2JqyC-MDmhdQNcCtElq7ivMLuOJ3LZZcmwtLErMMShuQytpD1vTHknEKLzqfc2zlO-R2m705_B8zr_TNEkuPU9G7rA5_co3cOy-QRzmD8YZ_3ErLuq-xLA1dK09U8NhGNDdbFn1OejfjQh1v4k91XX1vh-Kp8YFvztS1WIn54Gwws_yLv5mNRZHl-GXQc6XwZxoMZWT7Cnh3xyBF071aIAEqCWV1LXdlc3QtMjD8Ag.m3u8g-logo="https://s.tmimgcdn.com/scr/36300/graphics-logo-template_36329-vl.jpg",MOVIE
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Name-Logos/Movies-design-beauty-name.png",MOVIE
 https://dai1.xumo.com/8d9puiojemjm1t9c/9999404/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png",GRAVITAS MOVIES
 https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
@@ -1895,7 +1878,26 @@ https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/809343882689277952/wx8-cTwO_400x400.jpg",MOVIE CHANNEL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
+sion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+sion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="http://fomny.com/Video-2/USA/05/Freefrom/logo.gif",FF FREEFORM.tv 
+https://cdn1-4p.teleuptv.net/c916462a-7a7c-4090-a873-d5732b8a3c00/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png",TV CLASSICS
+https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png",CINE TV PELICULA
+http://120.130.128.134.200
+#EXTINF:-1 tvg-logo="https://fiftiesweb.com/wordpress/wp-content/uploads/2015/06/TV-Westerns.jpg",TV WESTERNS 1947
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-49aoj6Si_lI71HtOvBgQYrgi9ejDkVvVbkG4ESjG-efqMYfx",BLACK CINEMA TV
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVer
+#EXTINF:-1 tvg-logo="https://elchapuzasinformatico.com/wp-content/uploads/2017/09/Showtime-criptomoneda.jpg",usa showtime
+http://80.80.160.168/live/7/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/RELIGION.png?fit=500%2C300&ssl=1",RELIGION
 http://127.0.0.1
