@@ -1,5 +1,4 @@
 #EXTM3U
-#iptvlatina.cr.m3u
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
 #EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 16.03.2022
@@ -2171,9 +2170,9 @@ http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/259.m3u8
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 #EXTINF:-1 tvg-logo="https://new.tvpublica.com.ar/wp-content/uploads/2021/05/DeporTVOK.jpg",DEPORTV
 https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-#EXTINF:-1 tv-logo="https://i.goalzz.com/?i=ana%2Fsport_tv2_pt.jpg",SPORTV.2
+#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIaUAPVCeC3NKVb_EdtKYfwJ5DoilSOpDB8njFaFMZ8BH8LPKqTjM5WUXsoCOW1UR2sic&usqp=CAU",SPORTV.2
 https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/sportv2_22ab0e43_3eb77fb84ace401e94d60313ce441996956ff505/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMjAxLjE5MS4xOTguMTE2IjtpOjE7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzQ3MTA2MDt9
-#EXTINF:-1 tv-logo="https://i.goalzz.com/?i=ana%2Fsport_tv2_pt.jpg",SPORTV.2
+#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIaUAPVCeC3NKVb_EdtKYfwJ5DoilSOpDB8njFaFMZ8BH8LPKqTjM5WUXsoCOW1UR2sic&usqp=CAU",SPORTV.2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg",TYC SPORTS PLAY
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
