@@ -339,6 +339,9 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNG7GvMT0M8FHKVpjtqXwlstz2o-rUBqHqsxYcaX9_y5CMg8mfJZ04W6gIe-MrM8f7nc&usqp=CAU",CANAL 11 HD
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNG7GvMT0M8FHKVpjtqXwlstz2o-rUBqHqsxYcaX9_y5CMg8mfJZ04W6gIe-MrM8f7nc&usqp=CAU",CANAL 11 HD
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_2500.m3u8?aid=60356e540f843032743f6852&uid=MurA6Ca0S1WLPsQdo5rxJrpElb1dzKlk&sid=gw7F9itViWfPE0asGara321jjs1ymWcJ&pid=0MWhqmbN7BrkPEjB4vUMypU5hQ7pezbj&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1647486877755&ot=8iNsvoH_jSTFls2rpZoKhQ&proto=https&pz=us
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNG7GvMT0M8FHKVpjtqXwlstz2o-rUBqHqsxYcaX9_y5CMg8mfJZ04W6gIe-MrM8f7nc&usqp=CAU",CANAL 11 
+#EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/581
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-56no8FUlFMk/XQpFUPLw53I/AAAAAAAAH1M/-BjGc032L8kfpu9ctsYAmZEqDHdZnHArACLcBGAs/s1600/Canal%2BSitv%2Bhonduras%2Ben%2Bvivo.png", Canal SiTV 
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w917441862.m3u8
