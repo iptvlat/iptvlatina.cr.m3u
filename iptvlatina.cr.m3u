@@ -2386,8 +2386,6 @@ http://discusfish.xyz:25461/ManuviDISC1504ex/15042021/197810
 http://discusfish.xyz:25461/ManuviDISC1504ex/15042021/197810
 #EXTINF:-1 tvg-logo="https://contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_Generic.jpg", XTRM HD
 http://discusfish.xyz:25461/ManuviDISC1504ex/15042021/771
-#EXTINF:-1 tvg-logo="https://contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_Generic.jpg", XTRM HD
-http://discusfish.xyz:25461/ManuviDISC1504ex/15042021/85175
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e3ebc8108129653.Y3JvcCwxMjA2LDk0MywwLDg.jpg", Canal Hollywood FUL-HD
 http://discusfish.xyz:25461/ManuviDISC1504ex/15042021/197797
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e3ebc8108129653.Y3JvcCwxMjA2LDk0MywwLDg.jpg", Canal Hollywood HD
@@ -2406,7 +2404,7 @@ https://593fa17dec176.streamlock.net:455/mirametv/mirametv/chunklist_w2142848239
 http://iptvcanales.gq/canales/mitele/divinity/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/f/d/f/fdf.jpg", Factoria de Ficcion HD
 https://live.mitele.es/hls/live/2005335/divinity/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/energylogo.jpg", ENERGY HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/energylogo.jpg",ENERGY HD
 http://iptvcanales.gq/canales/mitele/energy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
@@ -2416,7 +2414,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/chunklist_b450000.m3u8 
 #EXTINF:-1 tvg-logo="https://www.gorkanajobs.co.uk/getasset/c9e7fc99-177d-4665-b55b-c9c5a0993678/",RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", TV Noticias 7.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png",TV Noticias 7.3
 https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png",Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
@@ -2480,29 +2478,24 @@ https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWD5__K7NVNFalypIMdLkAFACJlVKW9HkzSQ&usqp=CAU",AZEBALYAN.IPTV
 https://iprvlatinacr.clib/145.174.184
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aKJQHL2PzpU/YBBGt4ElVyI/AAAAAAABBY4/4qK7MKPryjYxYkHsH5hlp5inml0upXWQwCLcBGAsYHQ/s0/TVR%2B1%2BLIVE.jpg",TVR.1
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple19/v4/b8/16/3b/b8163bae-0f0a-0b6a-5747-2c0ba38541ee/source/512x512bb.jpg",TVR.1
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FKLnhzkSZQk/YBBG5kcVk1I/AAAAAAABBY8/7jaErlOFmCs13t2DwZEbqJgP3PtU6vyQACLcBGAsYHQ/s0/TVR%2B2%2BLIVE.jpg",TVR.2                                                        
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/sv2zvj6uz8sw.png",TVR.2                                                        
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9eiV5S-Z5xg/YBBHCP3Cq0I/AAAAAAABBZE/uh6YMQka5n0Gc6Xi4g5AsjhRdLFme-v_gCLcBGAsYHQ/s0/TVR%2B3%2BLIVE.jpg",TVR 3 
+#EXTINF:-1 tvg-logo="https://doxologia.ro/sites/default/files/styles/articol/public/articol/2012/02/tvr3.jpg?itok=2vHTV9qG",TVR 3 
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_udtXrNzg70/YBBHV1dXeaI/AAAAAAABBZU/Kr20YGKfMhsTH_kXHQijEA4wqxpK9fLTACLcBGAsYHQ/s0/Realitatea%2BTv%2BPlus%2BLIVE.jpg",REALITATEA PLUS
-https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yy7EP-LloTk/YBBH2MUg03I/AAAAAAABBZo/ja5RzEFr-iIwAiGlXFTxsJ3FhPyJqyOUwCLcBGAsYHQ/s0/Antena%2B3%2BLIVE.jpg",ANTENA 3 Orange
-https://live3vox.antenaplay.ro/a3free/250.m3u8?starttime=1623005434&endtime=1623012664&source=web&token=xzAyj2UNYLDKLF3u7ID7eY6OBpo=
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6zc7C0WLThDtW38dnpY7_9Orl8RxoF722LCnV-eH0ruEHzAbbCD34nUUbTY97YlwtYx4&usqp=CAU",ATV Azad TV
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_OAdOxp6Lh0/maxresdefault.jpg",DALGA.TV Azerbaycan 
 https://r6---sn-pjx-nwvs.googlevideo.com/videoplayback?expire=1623057052&ei=HHK9YOGzBePWj-8P5t2iiAg&ip=201.201.215.135&id=ca61dff3e85b41ec&itag=22&source=youtube&requiressl=yes&mh=66&mm=31&mn=sn-pjx-nwvs&ms=au&mv=m&mvi=4&pl=24&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=193.631&lmt=1622870019596730&mt=1623027884&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&signature=AOq0QJ8wRQIhAO3LpjfEP0S7Hwd_WajiKqoWSnl63s0OriewngckhErzAiBnalhN1Fk-tUdcQL_86OI3OU-rZw_58FAOHCRkF6xChA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgY-_Chhx0DQX1tOth4BpifEb8tPvokB5k00mvDM_tsvwCIQD5BrPYDOUzUbImlpwuLdhisPPF8xYe9x3g-aTX1phSYg==&cpn=LH8t2FRgpaVlJsef&ir=1&rr=12
-#EXTINF:-1 tvg-logo="http://img.gazetevatan.com/vatanmediafile/Haber598x362/2017/08/16/star-tv-yayin-akisinda-bugun-neler-var-16-agust-3024964.Jpeg", STAR 
-https://59c7ea6bec1c6.streamlock.net/live/startv.stream/chunklist_w1020855770.m3u8?hash=f9ff63f9143cf979267086d038c5175b
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1864285285/EUROSTAR_buyuk_400x400.png", EURO STAR
 http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1628000.m3u8?st=so48sEy4dWdGPg6TthbV7A&e=1623111275
 #EXTINF:-1 tvg-logo="https://www.bedavatv.com/wp-content/uploads/show-turk.png",SHOW.TV
 https://joker.tvizlehd.com/showtv-286422.ts?tkn=KXTvSpwjJfGzQ4AXsLAIFg&tms=1623038474&hst=www.canliradyotv.com&ip=201.201.215.130
 #EXTINF:-1 tvg-logo="https://www.bedavatv.com/wp-content/uploads/show-turk.png",SHOW.TV
 https://www.youtube.com/watch?v=rtMDAEQgyl8
-#EXTINF:-1 tvg-logo="http://basin.evgor.com.tr/wp-content/uploads/2013/10/beyaztv.jpg", BAYAZ.TV HD
+#EXTINF:-1 tvg-logo="http://basin.evgor.com.tr/wp-content/uploads/2013/10/beyaztv.jpg",BAYAZ.TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC - STS
 http://31.128.159.41:8080/sts/tracks-v1a1/mono.m3u8
