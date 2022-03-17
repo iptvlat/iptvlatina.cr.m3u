@@ -2522,7 +2522,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kBT1zFJxxQE/XllkdzgQe-I/AAAAAAAAJ2U/-rKsBfrDIiM-jRop8Fx0yhUEm0V253n3gCK4BGAYYCw/s400/Romania%2Biptv.png", ROMANIA.TV
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU",ZEECINEMA HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_2mvaaaG9egQwH8oBxMlpeqdsbck3HE1lNm4dG617AIivIgVmRoYO02H8L3rB2gv99VI&usqp=CAU",Zee Action HD
 
@@ -2543,9 +2543,9 @@ https://edge1.tvdirect13.com/live/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/UCRANIA.png",IPTV UCRANIA
 http://10.128.368.180.10
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-03_dGyx2FVY/YjMNcZrKWqI/AAAAAAAAAXQ/BYSOjKt-B_UYvjPzuzdvFg2g8bAux1u-QCLQBGAYYCw/s239-c/THT%2BHD%2B%25282%2529.png",THT HD
+#EXTINF:-1 tvg-logo="https://mediacast.tv/wp-content/uploads/2019/08/NTN-tv.png",THT HD
 https://edge1.iptv.macc.com.ua/img/ntn_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv-only.org/uploads/posts/2016-09/1474193708_ntn.png",THT HD
+#EXTINF:-1 tvg-logo="https://mediacast.tv/wp-content/uploads/2019/08/NTN-tv.png",THT HD
 http://lb1.macc.com.ua/img/ntn_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWGUzl-yNfgIOChIr6Fi5kTlRNb1poGEV4w&usqp=CAU",CANALES TV CHINA 
