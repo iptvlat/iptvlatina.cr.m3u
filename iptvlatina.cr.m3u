@@ -396,7 +396,6 @@ https://tv91.hostingnuclear.com:19360/interchiquimula/interchiquimula.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzUR7WIiOIsD7E3qS30sTr6-US2LBWcVD4A&usqp=CAU",TELE DOCE 12 HD
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 HD
-#EXTVLCOPT:http-user-agent=20100101
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/528
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 
 https://gt-chapintv-canal3-live.ned.media/vid_480p.m3u8
@@ -574,7 +573,6 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/635.m3u8
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/997
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU",UNIMAS HD
-#EXTVLCOPT:http-user-agent=20100101
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/678
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU",UNIMAS HD
 http://latinosiptv.online:#EXTVLCOPT:http-user-agent=20100101
@@ -599,7 +597,6 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/58.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6tMHr3iDTaQ/YBNnpRSLLVI/AAAAAAAAawc/P18fo8Qv-MgWoEo2DPkMtAiPIuEb212awCPcBGAsYHg/s71/golden-edge.",G EDGE FUL.HD
 http://tvplayer.ga:8080/live/peruapps/tvonline/158.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU",PREMIER GOLDEN HD
-#EXTVLCOPT:http-user-agent=20100101
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/609
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU",PREMIER GOLDEN HD
 #EXTVLCOPT:http-user-agent=20100101
@@ -636,10 +633,8 @@ http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/844.m3u8
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/20899
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
-#EXTVLCOPT:http-user-agent=20100101
 http://tvplayer.ga:8080/live/peruapps/tvonline/213.ts
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
-#EXTVLCOPT:http-user-agent=20100101
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/568
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AAhlKqL2O1I/YNtydmHYvMI/AAAAAAAAcs4/DCZDsWL6_lUPKw1iU4A76XK2PZ_BSpQIQCPcBGAsYHg/s71/el-chavo-del-8.PNG",EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
