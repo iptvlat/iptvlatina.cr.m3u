@@ -2537,7 +2537,7 @@ https://edge1.iptv.macc.com.ua/img/ntn_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv-only.org/uploads/posts/2016-09/1474193708_ntn.png",THT HD
 http://lb1.macc.com.ua/img/ntn_2/index.m3u8
 
-#EXTINF:-1 tvglogo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F5e1876f67ebeed3253d59b210ade4af52e9d7313d88a61aa63fd06fdcbb238e5.jpg",CANALES CHINA TV
+#EXTINF:-1 tvglogo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWGUzl-yNfgIOChIr6Fi5kTlRNb1poGEV4w&usqp=CAU",CANALES TV CHINA 
 http://100.145.2010.125.130
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Cgtn_cn_espanol.png/revision/latest?cb=20170127161944",CGTN ESPAÑOL HD
 https://livees.cgtn.com/1000e/prog_index.m3u8
