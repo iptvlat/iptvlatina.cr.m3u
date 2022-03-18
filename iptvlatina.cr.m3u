@@ -38,7 +38,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqEFni_6VrKJSDzlc6_Q99ku23i
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x1Oa5TjlGWSaeA-aeXHvA47lOomIWdGuq1YKb_ZBCUooe4W92h-QTTvmv3spnVZ_ZNmaER9uFPA=s900-c-k-c0x00ffffff-no-rj",STV CANAL 5 SAN VITO TELEVISION HD
 http://stmv1.srvif.com/sanvito/sanvito/chunklist_w902196568.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/afiI8Zm7HZZSRJnbMrcDXnREskszX8ZxKkreOugKPJYTaQQhWVJfqEaLcFpBqyPXYO9Xc0dtzvKfaXH_2g=s239-c",CANAL 6 HD
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54PyICQnxz_ZoeaqVk1I-FY)/dm/3/x29e3wg/d/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/afiI8Zm7HZZSRJnbMrcDXnREskszX8ZxKkreOugKPJYTaQQhWVJfqEaLcFpBqyPXYO9Xc0dtzvKfaXH_2g=s239-c",CANAL 6 HD
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
@@ -206,7 +206,7 @@ http://nicatv.rylco.com:8075/live/0001/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg",CANAL 2
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 HD
-https://stream-01.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj2h7geNF9ZaCF_96tnTO0Tc)/dm/3/x7rwv8c/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj2GmGYAUkDZCBIDyl0CTwAY)/dm/3/x7rwv8c/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 
 http://nicatv.rylco.com:8075/live/0002/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwThqeXi-q_NZQWHmBJf6OF2w6CfaMTudsfIsOGYw31uQtfteVSg2cxjUVZypoYA-aB0&usqp=CAU",CANAL 6 HD
