@@ -271,6 +271,8 @@ http://web24.live:8080/testline/testline/54456
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/22846
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publish/media_600.m3u8?aid=5fea0f3673148d5d52cf6a76&uid=Cvd23I0sJTXcDYaiLDTC9qXT97GURWZa&sid=qY8pF28BGraZgTY3szEWNNIwUW2MdDMa&pid=s4wHjB0fNCs4a9qy8McAkghiZLHSWVUi&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&dnt=true&es=us-b5-p-e-kj2.cdn.mdstrm.com&ote=1629391131337&ot=7uZ_yVoVl9RW98p9osRZ8g&proto=https&pz=us
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/979
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png",TCS+ 
@@ -2188,8 +2190,6 @@ http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg",TYC SPORTS PLAY
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_mvoRVjZBdzQ/TSKeixyJFoI/AAAAAAAAEJU/QeVSq0m4MM0/s71/tycsports.PNG",TyC Sports HD
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/274.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_mvoRVjZBdzQ/TSKeixyJFoI/AAAAAAAAEJU/QeVSq0m4MM0/s71/tycsports.PNG",TyC Sports HD
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN HD
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/292.m3u8
@@ -2389,8 +2389,6 @@ http://iptvcanales.gq/canales/tvfree/369/playlist.m3u8
 http://91.126.141.12:1935/live/discoverymax/.m3u8
 #EXTINF:-1 tvg-logo="https://roams.es/wordpress/wp-content/uploads/2019/03/vodafone-canal-dark.jpg",DARK HD
 http://discusfish.xyz:25461/ManuviDISC1504ex/15042021/197810
-#EXTINF:-1 tvg-logo="https://roams.es/wordpress/wp-content/uploads/2019/03/vodafone-canal-dark.jpg",DARK HD
-
 #EXTINF:-1 tvg-logo="https://contenidostv.es/media/k2/items/cache/052250dc50138371fd04f19c188f0143_Generic.jpg",XTRM HD
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e3ebc8108129653.Y3JvcCwxMjA2LDk0MywwLDg.jpg",Canal Hollywood HD
@@ -2508,7 +2506,7 @@ https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3
 http://31.128.159.41:8080/sts/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC STS
 http://94.230.240.12:8080/sts/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png", SAT 1
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png",SAT 1
 https://ecanlitv1.etvserver.com/live_sd/desat1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/341/889/gratis-png-bandera-de-turquia-bandera-nacional-banderas-del-imperio-otomano-bandera.png",República Turca 
@@ -2524,7 +2522,7 @@ http://iptv.prosto.tv:7000/ch56/video.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-star-6827.jpg",OCKO STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kBT1zFJxxQE/XllkdzgQe-I/AAAAAAAAJ2U/-rKsBfrDIiM-jRop8Fx0yhUEm0V253n3gCK4BGAYYCw/s400/Romania%2Biptv.png", ROMANIA.TV
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kBT1zFJxxQE/XllkdzgQe-I/AAAAAAAAJ2U/-rKsBfrDIiM-jRop8Fx0yhUEm0V253n3gCK4BGAYYCw/s400/Romania%2Biptv.png",ROMANIA.TV
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU",ZEECINEMA HD
 
