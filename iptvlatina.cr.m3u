@@ -172,10 +172,12 @@ https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
 #EXTINF:-1 tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg",CANAL 88 STEREO 
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1791.png",TIGO SPORT HD
-http://web24.live:8080/testline/testline/41899
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png",TIGO SPORT HD
-http://latinolite.xyz:8080/cinehome/cine21/90463
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2110
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1791.png",TIGO SPORT HD
+#EXTVLCOPT:http-user-agent=20100101
+http://web24.live:8080/testline/testline/41899
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png",TIGO SPORT HD
 https://cp.serviaudio.com:1936/8014/8014/chunklist_w898054704.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/38fda73816f4d852003948f06e0bb46f.jpg",TSD SPORT CR
