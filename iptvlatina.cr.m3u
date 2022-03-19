@@ -152,8 +152,6 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 https://rtmp.info/anexiontv/envivo/chunklist_w1030107377.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-36.png",CANAL 36 HD
 http://servicioamerica.com:1935/8356/8356/chunklist_w136680302.m3u8 
-#EXTINF:-1 tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/Logo-Nuevo-400.jpg",CANAL 38
-https://rtmp.info/canal38/envivo/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",SAN JOSE TV CANAL 48 HD
 https://rtmp.info/sanjosetv/envivo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-cJ9n90RmLa5zS1ip2K9qrqP1fz8qof3rohg=s900-c-k-c0xffffffff-no-rj-mo",TELE FIDES CANAL 40
@@ -542,7 +540,7 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/248px-Milenio_Television.png",Milenio Television
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_200x200.jpg" group-title="Entretenimiento",FORO TV
-http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/180px-Logo_a%2B_%28canal%29.svg.png",A+
 https://stream.kystream.com/h9ydbwnjcoe/p7UAKSv6AZ_med/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO",Canal 4
@@ -582,6 +580,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/997
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU",UNIMAS HD
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/678
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU",UNIMAS HD
+#EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:#EXTVLCOPT:http-user-agent=20100101
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/14.m3u8
@@ -618,7 +617,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/538
 http://web24.live:8080/testline/testline/38042
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
 #EXTVLCOPT:http-user-agent=20100101
-http://23.148.145.49:9001/televall2022/541_.m3u8?token=OHYPsQruxTmVuh4Pxtucmg&expires=1647616345
+http://23.148.145.49:9001/televall2022/541_.m3u8?token=QmwYhOR94QoXFRyfACluTg&expires=1647662158
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/145.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL HD
@@ -642,6 +641,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/20899
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
 http://tvplayer.ga:8080/live/peruapps/tvonline/213.ts
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
+#EXTVLCOPT:http-user-agent=20100101
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/568
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AAhlKqL2O1I/YNtydmHYvMI/AAAAAAAAcs4/DCZDsWL6_lUPKw1iU4A76XK2PZ_BSpQIQCPcBGAsYHg/s71/el-chavo-del-8.PNG",EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
