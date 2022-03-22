@@ -463,7 +463,7 @@ https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/ind
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
-https://tna5.bozztv.com/LiveCH006/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://telecable.es/bundles/app/images/channels/caracol_200x200.png", Canal Caracol HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/caracol-hd2-en-vivo-1.png",CARACOL 2
@@ -620,8 +620,10 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/538
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-txad7h6SuBE/VuTS5os3IrI/AAAAAAAAb68/oXmDebkJQgwnHIo4YbVNG1T_D4n-XG5WwCCo/s71-Ic42/axn.PNG",AXN HD
 http://web24.live:8080/testline/testline/38042
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
+http://ui.mrzutv.net:8080/spiderman/spiderman/41532
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpftN0oIeWs/Yhs1wq__lwI/AAAAAAAAATA/btrhOBE9QEIqIfSdzUu8w54ZhPBknurQACLQBGAYYCw/s239-c/MULTIPREMIER%2BLATIN.png",MULTIPREMIER HD
 #EXTVLCOPT:http-user-agent=20100101
-http://23.148.145.49:9001/televall2022/725_.m3u8?token=07zfXl8J4Qkf6TV0N6evLA&expires=1647920644
+http://ui.mrzutv.net:8080/spiderman/spiderman/16700
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/145.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71",SONY CHANNEL HD
@@ -645,7 +647,6 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/20899
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
 http://tvplayer.ga:8080/live/peruapps/tvonline/213.ts
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
-#EXTVLCOPT:http-user-agent=20100101
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/568
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AAhlKqL2O1I/YNtydmHYvMI/AAAAAAAAcs4/DCZDsWL6_lUPKw1iU4A76XK2PZ_BSpQIQCPcBGAsYHg/s71/el-chavo-del-8.PNG",EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
