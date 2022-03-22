@@ -1172,7 +1172,7 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoko6yv5FJKBjtpk9XlTAIk4uc05a4gpa-TXq968_DdEiJCOGt_N8KZIf5V1rjwxySRcE&usqp=CAU",TELENOVISA CANAL 43 HD
 http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w1350303160.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsH4IPaAuDfnLnwa57oLUIj4iXlhufqu1hUlVHN_Nhy-JawsDsDCdC-PtNqOsG-3O8UI&usqp=CAU",DAN.TV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7H4ZZVpypexXqbp7Devw9Jo8H1FMPIv4eA&usqp=CAU",ITV PATAGONIA HD 
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/la-ruta-91-tv.jpg",LA RUTA 91 TV
