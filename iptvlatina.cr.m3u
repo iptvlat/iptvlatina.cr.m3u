@@ -892,6 +892,8 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://arqa.com/wp-content/uploads/2015/06/national-geographic-channel-logo-530x298.jpg",NATTIONAL GEOGRAPHIC
 http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="ARGENTINA", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="ENTRETENIMIENTO",DW Entretenimiento
@@ -1659,6 +1661,8 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fe6ae09b087d724c5c5a5b5524dab2b1f8768cc475966d7ae3896931e7a3114d6.jpg"group-title="ARGENTINA", CATAVISION
 https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO", TU UNIVERSO TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2uxQRoD6uM-v-DyqsPhsuyj13DprmoqldrOCVu2tvk0JtNPmI0Db5b80KMX6PP-tbHtw&usqp=CAU",ZP.TV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmNhbmFsdHJlc2xhc2hlcmFzYXBwLnBybGxjcm50c3N0dl9zY3JlZW5fMF8xNTQxNDU2MTk3XzAxNw/screen-0.jpg?fakeurl=1&type=.jpg", canal3 los Heros paralelo 46tv
@@ -1716,7 +1720,7 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1484239605/of_400x400.jpg",CANALES TV CINE
 https://www.digitalsky.com.kh/uploads/videos/OneTV-Sabay_19_05_2018_2.mp4
-#EXTINF:-1 tvg-logo="https://vtv.by/wp-content/uploads/2018/06/telekanalnew.jpg",Беларусь 4 Витебск» 
+#EXTINF:-1 tvg-logo="https://vb.by/wp-content/uploads/2020/05/396_1-102.jpg",Беларусь 4 Витебск» 
 http://dmitry-tv.ddns.net:60/hls/blrus/CH_BELARUS4HD720_VIT.m3u8
 #EXTINF:-1 tvg-logo="https://tvinfo.uz/uploads/1587416490.jpg",Кинопремьера HD
 http://185.74.7.220:8080/kinopremyera/index.m3u8
