@@ -153,6 +153,8 @@ https://rtmp.info/canal38/envivo/chunks.m3u8
 https://rtmp.info/sanjosetv/envivo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-cJ9n90RmLa5zS1ip2K9qrqP1fz8qof3rohg=s900-c-k-c0xffffffff-no-rj-mo",TELE FIDES CANAL 40
 http://190.0.226.17:/Telefides/livestream/chunklist_w2086801578.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png",EXTRA.TV 42 HD
+https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4yLi8tURN8SwetFXBauL6g0)/dm/3/x83sd3v/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png",EXTRA.TV 42
 http://latinosiptv.online:8090/notocar/xmauc84bx1/21625
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png",EXTRA.TV 42
@@ -220,6 +222,9 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1892098061.m3u8
 http://nicatv.rylco.com:8075/live/0004/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image1295564463.jpg",CANAL 9 
 https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/Canal10-Nicaragua-Logo.jpg",CANAL 10 HD
+#EXTGRP:unsorted
+http://190.83.119.67:8000/play/a0sx/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/Canal10-Nicaragua-Logo.jpg",CANAL 10 HD
 https://cootv.cootel.com.ni:443/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm2ZYMFAUHTdq_BjIfNchqFkNhPo5eqjZm26zyahtBlWLjXDAZ",CANAL 11 
@@ -407,6 +412,9 @@ https://tv91.hostingnuclear.com:19360/interchiquimula/interchiquimula.m3u8
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 HD
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2379
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 
+#EXTGRP:unsorted
+http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 
 #EXTVLCOPT:http-user-agent=20100101
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/VjjvfghRhnugfqggYykohpfsccAdh9hfc0hfvQgvhtjjyDF/GhbhffQgjbczgtfYh09hgvfagGhbuygQthvjhYvjjggbagbj/528
