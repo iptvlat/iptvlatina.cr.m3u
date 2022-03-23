@@ -2,7 +2,7 @@
 #http://iptvlatinacr.com/
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",22.03.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",23.03.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -18,7 +18,6 @@ http://1:41, 24/6/2018] EVY ANGEL CR: [0:51, 25/6/2018] EVY ANGEL CR: STREAM MPE
 https://www.youtube.com/watch?v=YTYn6iLVPx4
 #EXTINF:-1 tvg-logo="https://bonosdeapuesta-media.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/05/25143857/roja-directa-com.png",SEÑAL EN.VIVO 
 https://iptvextremecr.com/2021.Live/angel-Cr2022/"sugalde/raw/"250584.htrgd/25-0584.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080",TELE UNO HD 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_2.png",CANAL 2 HD
@@ -1746,8 +1745,8 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg",Channel.V HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-cine-5.jpg",CINES.5 HD
-http://win1.yayin.com.tr/cine5/cine5/iptvdelisi.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-cine-5.jpg",CINE 5 HD
+https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7e/a6/47/7ea6474f11454db36655ce7ae38bef41.jpg",ACCION CINEMA
 http://planettvweb.com:8091/isaias2020/isaias2020/20341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9D%D0%A1%D0%A2_%282006-2011%29.jpg",HCT HD
@@ -2503,13 +2502,15 @@ https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWD5__K7NVNFalypIMdLkAFACJlVKW9HkzSQ&usqp=CAU",AZEBALYAN.IPTV
 https://iprvlatinacr.clib/145.174.184
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCn9EhugFeGz3W5EhcD9UseMWI5O2EFm71A3umxTNv1mjYHcyyeAE-6_wvWKYtiCJGms&usqp=CAU",BAYAZ.TV HD
-https://stream-01.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzOgYHcGg9y4pgglMu_o1XDM)/dm/3/x4kopfq/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzM1-RZkv8vTL8gtwaCXZrEw)/dm/3/x4kopfq/d/live-4.m3u8
 #EXTINF:-1 tvg-logo="http://basin.evgor.com.tr/wp-content/uploads/2013/10/beyaztv.jpg",BAYAZ.TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-logo="http://basin.evgor.com.tr/wp-content/uploads/2013/10/beyaztv.jpg",BAYAZ.TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a2-tv-697.png",A2 TAKSI HD
-https://trkvz-live.ercdn.net/a2tv/a2tv_480p.m3u8?st=px6z0BGKTx0TLMIQvdp80Q&e=1647538301&SessionID=kc3rf4eqoysgi51ki4pfgw5q&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=50450b66-f39e-4dd8-867b-4d2e15726a5f
+https://trkvz-live.ercdn.net/a2tv/a2tv_480p.m3u8?st=vp_Ev4tYVqb0XjjVEMVVvQ&e=1648057217&SessionID=kypjr3qy3khschwvy1s4hrrb&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=c0fbbd0d-b4cb-4e5b-b516-9993b9e506c3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a2-tv-697.png",A2 TAKSI 
+https://live.canlitv.center/a2tv.m3u8?anahtar=C05Ybj9sr8m1DmnK1vQe6A&sure=1648036341&ip=201.191.198.31
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-a2-tv-697.png",A2 TAKSI 
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple19/v4/b8/16/3b/b8163bae-0f0a-0b6a-5747-2c0ba38541ee/source/512x512bb.jpg",TVR.1
@@ -2524,8 +2525,9 @@ http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_OAdOxp6Lh0/maxresdefault.jpg",DALGA.TV Azerbaycan 
 https://r6---sn-pjx-nwvs.googlevideo.com/videoplayback?expire=1623057052&ei=HHK9YOGzBePWj-8P5t2iiAg&ip=201.201.215.135&id=ca61dff3e85b41ec&itag=22&source=youtube&requiressl=yes&mh=66&mm=31&mn=sn-pjx-nwvs&ms=au&mv=m&mvi=4&pl=24&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=193.631&lmt=1622870019596730&mt=1623027884&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&signature=AOq0QJ8wRQIhAO3LpjfEP0S7Hwd_WajiKqoWSnl63s0OriewngckhErzAiBnalhN1Fk-tUdcQL_86OI3OU-rZw_58FAOHCRkF6xChA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgY-_Chhx0DQX1tOth4BpifEb8tPvokB5k00mvDM_tsvwCIQD5BrPYDOUzUbImlpwuLdhisPPF8xYe9x3g-aTX1phSYg==&cpn=LH8t2FRgpaVlJsef&ir=1&rr=12
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1864285285/EUROSTAR_buyuk_400x400.png", EURO STAR
-https://stream-04.sv4.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrX7pQIJWH2w4GiI8eZ3AYuU)/dm/3/x729whv/s/live-3.m3u8
+https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
 #EXTINF:-1 tvg-logo="https://www.bedavatv.com/wp-content/uploads/show-turk.png",SHOW.TV
+https://live2.canlitv.center/showw.m3u8?anahtar=WrA5Mn8PxxW7bn9fLgwg6A&sure=1648037546&ip=201.191.198.31
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC - STS
 http://31.128.159.41:8080/sts/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC STS
