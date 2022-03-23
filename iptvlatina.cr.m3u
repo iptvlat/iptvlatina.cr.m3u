@@ -253,6 +253,9 @@ https://video.wixstatic.com/video/210de2_badd11be3d3d410e85be3ba308bb9306/1080p/
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/iptvcrlatina/home/Telemetro+canal+13+por+Televisi%C3%B3n+Vjrigo@lex+Productions.png",TELEMETRO HD
 #EXTVLCOPT:http-user-agent=20100101
+http://190.83.119.67:8000/play/a0q5/index.m3u8
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/iptvcrlatina/home/Telemetro+canal+13+por+Televisi%C3%B3n+Vjrigo@lex+Productions.png",TELEMETRO HD
+#EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/488
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dfa1f6bf-3760-4b79-8f4e-2fcf956444c6-profile_image-300x300.png",BTV HD
 https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w2008982938.m3u8
