@@ -284,6 +284,9 @@ https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publis
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/979
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png",TCS+ CANAL 35 HD
+#EXTVLCOPT:http-user-agent=20100101
+http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png",TCS+ 
 #EXTVLCOPT:http-user-agent=20100101
 http://web24.live:8080/testline/testline/54464
