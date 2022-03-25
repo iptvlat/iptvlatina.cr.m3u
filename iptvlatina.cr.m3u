@@ -384,6 +384,8 @@ http://190.11.224.14:8134/liveevent.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/k3q8hF4Y9tzpTgwu26R
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2020/07/logo-tvc.jpeg",TVC TELEVICENTRO 
 https://www.dailymotion.com/cdn/live/video/x7xs2wx.m3u8?sec=Q1SDWS6gnXr0e4vL1Yp0IBtLB5ZADiT-_XgvP_0oxF6G3sa7sqUxJ0awDXdf8Sn56l_I1FKF_jA-Lnza1LPSuw&dmTs=159947&dmV1st=C1410E3B4177D4E947EE63847CA482A6&progressive=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAUG2ICoX2ULjPHeCUSS8xWzhcqBp-rGsl5xJqKhuA2RYQK3YK",TV CENTRO 22+HD.2
+https://cloud2.streaminglivehd.com:1936/8004/8004/chunklist_w598837145.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.cdnandroid.com/item_images/1057256/imagen-tv-guatemala-0thumb.jpg",TV GUATEMALA
 http://127.0.0.1
@@ -1206,8 +1208,6 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w943399796.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950878950149914624/1UJUmn-2.jpg",TVS CANAL 22 DE TODOS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vF_0faysZEY/Yjz1Z8C02kI/AAAAAAAAAXg/TiTQ4ix0cgoUsAoMXJLs6wQ5FKY23iKdACLQBGAYYCw/s239-c/TV%2BCENTRO%2B27.jpg",TV CETRO HD
-https://cloud2.streaminglivehd.com:1936/8004/8004/chunklist_w1615898155.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/K2ZBQj6sRuXuggMRJoYKGguLgZv3kHiJUuQ3UGvPPcR--a5aBHZwPpAhQmUu1Ic2pCcEzXf_cpD0QsK2kQ=s239-c",R&E TELEVISION 
 https://cdn2.streamgato.us/ryetelevision/ryetelevision/chunklist_w273536026.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTY3qwLouJrHW0Vt6s7ltzQnwYMfQo03LBX_A&usqp=CAU", BHTV HD
