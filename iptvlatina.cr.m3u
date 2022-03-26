@@ -1149,6 +1149,8 @@ https://servilive.com:3176/live/cineclublive.m3u8
 https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg",MEGA.TV AREQUIPA
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nZFZ8C8VFnA/Yj6aTBUQMtI/AAAAAAAAAXs/vXC8YsEowZcGk8y-bkDZW88brKmDxe5JQCLQBGAYYCw/s239-c/CANAL%2BCTC%2BPERU%2B.jpg",CTC CUSCO
+http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1E7_zio9_B58F_et7Re38CVm_PqhHlxb7eKaDMjT1fBBcFThMd9Ktl0NN3P0w_c6vsbU&usqp=CAU",TV COOSMOS
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1278620925.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPAVUsz4MOS9zX22zTwvpfKZpNHaFQGDkI6qeZtWo6UeOST1b6hRRL40_3uqxteOz2tE&usqp=CAU",TV COOSMOS
