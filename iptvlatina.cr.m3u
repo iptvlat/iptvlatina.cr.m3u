@@ -1281,7 +1281,7 @@ https://vdo2.streamgato.us:3337/live/zuutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/tv-norte.png",TV NORTE HD
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
-https://playback2.akamaized.net/streams/18988261_7725211_lsizit1cjg51at19vxg_1/exp=1648365816~acl=%2f*~data=hdntl~hmac=129c7fbfa5452027398a42eba0648adbdd24fbefafb0bfab29ec8b225cb1b29c/segments/18988261_7725211_lsizit1cjg51at19vxg_1@2128000p/media-u47ex4io0_6657.ts?z=p?playlist.m3u8
+https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230131963.secure.m3u8?dw=80&hdnea=st=1648334710~exp=1648336510~acl=/i/18988261_7725211_lsizit1cjg51at19vxg_1@688391/*~hmac=81784dd52112db2f15f03c07cf87a2aa95a1281c47f596c7cf1256984b3fd636&token=623f98a2_3d70e29e7c31e631c19c043414955b6c531fd8af_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
 https://livestream.com/accounts/18988261/events/7725211/player?width=640&height=360&autoPlay=true&mute=false_playlist.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png", CANAL 6 DAJABÓN HD
