@@ -1401,7 +1401,9 @@ https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.digitaloceanspaces.com/tenant/5f45346f42e1225e3d9f827f/settings/logos/5851729c-252f-46c0-a90c-1507c305169e.png",TVR Canal 11 Curicó
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBEXNGL-2SyiG0IEm-fSCu5LgrWXU07pI0ueyNIkLRb-y7Za2_JkRLuXg5E4lgh7k0R8&usqp=CAU",CONTIVISION
-https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream3/chunks.m3u8?nimblesessionid=119496501&WebM3UCL
+http://evo.eltelon.com:1935/live/contivision/chunklist_w446947151.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBEXNGL-2SyiG0IEm-fSCu5LgrWXU07pI0ueyNIkLRb-y7Za2_JkRLuXg5E4lgh7k0R8&usqp=CAU",CONTIVISION
+https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.utv.cl/uvt_log.jpg",UTV TELEVISION HD
 https://v2.tustreaming.cl/utv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.itvpatagonia.com/_next/image?url=https%3A%2F%2Fs3-mspro.nyc3.digitaloceanspaces.com%2Ftenant%2F5f47d37f4e479a339b11a878%2Fsettings%2Flogos%2F39a6a35d-ba42-40df-964e-056caab185ad.png&w=128&q=75",ITV Patagonia HD
@@ -1679,6 +1681,8 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png",CANAL 32 SPTV SAN PEDRO
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGVS-lgqcPo75RQFc4j9qFz0xHMfSkQFOl6RfmTJguOAB96j9YrvdQNQxcdk7qUU9jMs&usqp=CAU",CANAL 11 DE LA COSTA 
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2021/02/Pluto-TV-France.jpg",CANALES PLUTO.TV
 https://iprvlatinacr.clib/145.174.184
@@ -1801,6 +1805,8 @@ https://inliveserver.com:1936/10504/10504/playlist.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/chunklist_w653183388.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uakbOr1d7X_ceLfsCmxMILfqOHAn1qpXcA&usqp=CAU",CANAL DE LA COSTA CTV
 https://stmv2.zcastbr.com/canalcostatv2/canalcostatv2/chunklist_w2068344881.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2KEl6BNJ4TSbTafrr5XDCLRCeGLFmdlJDGVIqPU_C9onOYR3&usqp=CAU",CANAL 7 DE LA COSSTA
+https://livefocamundo.com:8081/cdlcyerko/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2KEl6BNJ4TSbTafrr5XDCLRCeGLFmdlJDGVIqPU_C9onOYR3&usqp=CAU",CANAL 7 DE LA COSSTA
 https://livefocamundo.com:8081/8178/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z",ANTENA TV
