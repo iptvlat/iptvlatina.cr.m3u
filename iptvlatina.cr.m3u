@@ -38,12 +38,12 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
 #EXTVLCOPT:http-user-agent=20100101
-http://190.83.119.67:8000/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
-#EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/566
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 SD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
+#EXTVLCOPT:http-user-agent=20100101
+http://190.83.119.67:8000/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU",CANAL 8 HD
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU",CANAL 8 HD
