@@ -550,6 +550,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1560.png",GALAVISION TV HD
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/56.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1560.png",GALAVISION TV HD
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/35701
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3BNTfOkp4W4/Ye5TEhFkz1I/AAAAAAAAAGw/3Xf8COKGL6Y9uTCC48zjKF3W8DuRNXUWgCLQBGAYYCw/s239-c/PASION.png",PASION HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/755.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS HD
