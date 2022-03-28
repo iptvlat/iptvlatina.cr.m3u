@@ -1496,9 +1496,11 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/canal-uno-logo.jpg?mtime=20190825180113&focal=none",Canal Uno
 https://vps-c97214f4.vps.ovh.net/hls/tv1.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ltOMXn58YxQ/WlaMBOhZCSI/AAAAAAAAFMY/r8GchkXOODM9doU8p3PdeAvhxwY70d08wCLcBGAs/s1600/MAXTV%2BONLINE.jpg", MAX.YV ONLINE
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ltOMXn58YxQ/WlaMBOhZCSI/AAAAAAAAFMY/r8GchkXOODM9doU8p3PdeAvhxwY70d08wCLcBGAs/s1600/MAXTV%2BONLINE.jpg",MAX.TV ONLINE
 https://streamingwowza.com:1936/maxtvonline/smil:maxtvonline.smil/chunklist_w825402122_b2108000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020morado.png",Educa TC HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC HD
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl42sP8j23ytnMUnqK19Vld8)/dm/3/x7wijay/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC 
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/455
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC 
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
