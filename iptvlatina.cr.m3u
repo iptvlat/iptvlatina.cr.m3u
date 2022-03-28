@@ -836,16 +836,16 @@ https://endemol-reeltruthcrime-1-us.roku.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgi28D6c9plWeTR_HVv7u7IyKCGso-pEWm6HrCeGhkzaxAitKB_mb_8hpLhDOy0lfy5lvuA-H6HrIEMhKDqeM0ZUZZqTZnWZ6jt-CZUYcPUbf540S7z63zZJZDCZ5LR3cwHa1UGCHFkAqobni9N2y4rPf5JovWvnyj0mUTefo7ITkmOsain2SlSDxK6Pg=s16000",UNIVERSAL PREMIUM +
 https://vod-progressive.akamaized.net/exp=1644303431~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4332%2F25%2F646663419%2F2966103269.mp4~hmac=080c7053e22825ac50c9bdc511a84f26c6ebe034e50ec8e29a8b1413b1e42031/vimeo-prod-skyfire-std-us/01/4332/25/646663419/2966103269.mp4
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_PREMIERE.png.ec2deb44f4b6020f6b11233389b1c7fd.png",UNIVERSAL PREMIUM HD
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/492.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png",UNIVERSAL CINEMA HD
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/680.m3u8
-#EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels/u-crime.png",UNIVERSAL CRIME HD
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/49.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-ubg7K1GobjD1dqrmUTRRE_NGeebuBrI-S8ZEKbS_fMAxVPfJ5xS4KaRMMpyQe9BxvM&usqp=CAU",UNIVERSAL COMEDY HD
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/48.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAc8MqbXDJeV8_eLjO07n3NRTYgbrBDsgUi4S06z8IYfHehCVCgso7RaJvZ29Ob228Fw&usqp=CAU",UNIVERSAL REALITY HD
-http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/46.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="Entretenimiento",Univeral Premiere
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/901.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_cinema.png" group-title="Entretenimiento",Univeral Cinema
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/902.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="Entretenimiento",Univeral Comedy
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/903.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Entretenimiento",Univeral Reality
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/905.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Entretenimiento",Univeral Crime
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/904.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXEs_SEkxKiU8CBRKVPJBL80Hadl0kq_UXxzIIXbxkkVgbjwD0kz_Tw4RzYcKxyj3dZ4&usqp=CAU",HBO HD
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/654.m3u8
@@ -1774,7 +1774,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE.TV
 https://strapi.api-tvcine.com/uploads/bf8cc3317f89413189dfac3003fef4e1.mp4
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4248dbc3-33c8-4ef8-889a-eda1422ba9b2-profile_image-70x70.png",COMO ANTES TV
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFAhKJ3t2yFWUG8aJn52MC7hQSVPG-cfXJbtROhPqxkasc-QpTz0LCaRg9MzyxcNO90e1Cgp0B2Q4xrGr5Y8k2DVVRU5g6RwKQl5CSroAnWP9_Tsgg8D0RKLM-ewEJMqA8zZ72j60Pum8gp3zQSFmS_1HxQQK3sDn9k6Bq3zR9bAA4G93_WnpwNlZIK45SARPozjKVgZx_JxNPkGNSzRQRcFkZj3M322XQlAcwzQ8xn_dYi6fBCZxOc-eFyRtwUd9cI7GNbTDHXoPvtVdXhus7Xv1U92s9NqXt9ZOGG-H7Aqga3erc3Cpb42BVJsxQ9p_NSn8MTwu7QnZA2U-pZRQh_JYRFa1Uy5dPCSLiKyTMFG0WuB3brtdQ_27-z3kcv2BQCd7w8RcEZU0OZZ_4Pusmjyo808DWFx8FpZAlHWETRnZnzI0FngKLwJCF1k0ClsY0s2NmM13tjYni60JnTShVPGxDypSjPqtzlra37yzSq560a1ELLGsNyFQZFOoGYJDIgSf5zYPDE5lxrKhqRn2YJzMeHJRW_irIJGMEiwpcyDqFVIiNmcl3w3gF7UsZqYtVm-ZDFRAHuMgLSM6_9Hsy6Vi6e1j5GVY7bxKu0p5cGPa2H5KjXyq8WvW6zTEfIKKvOCQuBx6hQRqefbGTEvBf52vBUjLrVWetkMoVR0B6F3tIvCuKlu-BRLsDghc5zesf0wyJeBeKT7EqBZpsn9LmsHfeO_wdBuSkdfjpAaIEXefbR_mkf-GVvHOht4DmqDhyEbTb_S5Ys0RAPRzWYYgVyAqXwwrk_GkhmrLFUYYYj2IqwGD1tSM881Q-xHUDmvQFb_NIU9mLmooQfKQpksrOFDatmXNxLNKB8X3ITtJwsCNlLJKunP6mWNHEsugD5pfJGgyEaSePA1Fx7lbMJ4EgASoJdXMtZWFzdC0yMKoD.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqEFkb9oxtB8fqu2ioIZDmYiVT9bSUQ1VSR9fjvSeZp53WcXDwORDdKMnjgRssXLogVxKUNsEG83a9T2K32xmEtG-h0B4cO8pH7mQb3lbU8swgGJCN4oz0G8dEJttrkcOnzG_4tWvgXADvAPjEh_GnXp6rczKdZpc4SmT-3RU_ZJ_ZlJ6K1DDEsnO60HK5LPYVvlk7McANt3MHz5eEDq40G8c9wGDPXmnjiadjspSBKMNR9gmCapBNMAM7jSuI7mw-o39lBdrXdzTRpNE-7EP4q-l1k-ymmafsTaxsRnGsmFXkCXyp4qJwKBbAP0M5Vfta2demZyypa4ZiO6Zi9XlitNYjQJ4mUN2xRlOmF4-exCb-apOueiFY5riDvhyFtlldM3NfnzYvqlf0IQGAd4giovsTS-fBbhAo1e7loezVWHScf_YROrCDyIiK4Wxl8A4X_xNkBp02K0PsnChmcSn_-F54DUFExIpUlh_tqHxMhiEw1tBxSZUrm_y79nFCwk2_n9hr9vpq1c-165DWpqKNDNirQbGRnx4MMdpTBMZ0VrjXxm48p2z3xkizju_v86s3mix_RB2T0BgJErSq9hbxmwQYbQnFPz8kOvz9d-naWhGZkOy4R2-h6-G4rzJF9A0WfUx6YNitMVHzdgSoCRRyd_L1BjuB8TZ2oQJg7xGVheJUGrDZmdR2WpinyWBO19-VHoJxnPFsqtWD9yRn3UMc3cvZhRMcKwIRxesmucJnR5U4GVqs-uRzWXDHe-nWAsZ8j1eXeOOqMUCtdZz17qf_NOm4LzWVDBpUq3Uda3wboIN_CjnPcuInGn__yqt1674Dwf_lM4xF3UHs_H1FgR3uoI_nL_2B5NFzvj20qXS0H-fqcFPKKObEnLDawTXV9iZ8OUlBoMZHdxTfg2o_VRrz9sIAEqCXVzLWVhc3QtMjCrAw.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a2/a0/57/a2a057c1930bfebadfe25ae135fd2993.jpg",MY TIME HD
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image11649781372.jpg",Imagen TV Canal 5 Rioja
