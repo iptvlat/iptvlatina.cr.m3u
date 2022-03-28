@@ -371,7 +371,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/581
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w917441862.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hn-si-tv-3291.jpg",SITV
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w25056969.m3u8
-#EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/c1fae56f81ad8ca5b2d9d62983716a50_XL.jpg?t=20160526_150026",TV GLOBAL 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_globo-tv_m.png",TV.GLOBO HD
 https://panel.dattalive.com/8122/8122/chunklist_w1440249222.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_globo-tv_m.png",TV.GLOBO HD
 https://panel.dattalive.com/8122/8122/chunklist_w1655709644.m3u8
@@ -1753,6 +1753,8 @@ https://strapi.api-tvcine.com/uploads/bf8cc3317f89413189dfac3003fef4e1.mp4
 https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CqAF7YrlFsZ-wJ6Gmy8beSclD6JhbfQkcVLRRLgENgKlKt-_8Qo4nqbj0qazIxQTOjQAu9yCcAuNAQpLyu67xwvWHzykuYFT4cwukZZ05t7TTvbAsob7eKW4QDlsWki6tciImGoK6C2zsu0TtUjj-PoaHzi87BHw1AdbYY2ylAkUPWC4ZgvV1DnUtK52Y9fYRK46Pf6c1pl1YNGeBc01AL3T9_rictqnhy1zGu7f5Cj34hQxvjki5BGEPt51iLYTqijDmGNKDpzSRPFp5b1-zemPUutd0vQLHGNTDiF_JXATrmcFLb-3OQKVncxl5cwL41Oh83ruh2NvhxwmR_hVPszyd3Xs1uVXmQiIAIjFvalrL5Xq6d7HpdGIsDz4rg4xCW79wTp8c3Se30by4ntsaTPNZhff0znRUHA1_tJ1G-8b3kD012xerMGeR2C4M4nJdB2OXcRmEyymSHZr0C1gvf_sDwgVzVRDLAyIggl3CqJc0eQRAhg8d_hnzXwGrp7UqfmoGlZlKBqW4lfbmxSbN_fDFJNT-3v2jHme_PuCc31muxh9Xczb1DH-1fObkLRvX_cRywcZIorXWJrGTaNlR9vXwLDm6BNl56vcTsSaj9Eqhl1vReFj5XpSrwYSclnSjXVRnUK8B0T37ZEnWjtPK8RThWOyIyZdqjRT4AkInndnl3CyqEtfPBUjZmlLm7Y8gADo_iT_uFLdVcV34x--m1QljedEwfcPjZjHrgbnZyD8iiZiqMRmlx-gAA_XbvWm3T6HwI5JKfXKwBoOMg1IECIbs-JLTdoegBu3fZ7Pn6T_QF32nNg_IiyGidO9u0YnSXZ_e5xmky4G36adLi92TSnuKCyLYe1AGf7RoOsqgGeFsDyRS_YgsiOUljGBZDNyGCeJGgxxG1dldk0_J47dJRkgASoJdXMtZWFzdC0yMKoD.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a2/a0/57/a2a057c1930bfebadfe25ae135fd2993.jpg",MY TIME HD
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xfhsopID_hQ/YkE1JELIygI/AAAAAAAAAY4/GFttyAaWI8Q4YP2yaAJjts_3sw9La16hACLQBGAYYCw/s239-c/CAA%2BDIGITAL%2B%2BUNIKATV%2BPARA%2BTODA%2BLA%2BFAMILIA%2BHD%2B%25282%2529.png",UNIKA.TV
+https://video.misistemareseller.com/unikatv/unikatv/chunklist_w1162608064.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image11649781372.jpg",Imagen TV Canal 5 Rioja
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA",CANA TV
@@ -2665,9 +2667,9 @@ http://dimapro.cz:8080/00:1A:79:17:00:9E/ziajdjjfdifjd64646/38173
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iY46e8xBcdHCvXB7ArINqoPJzhY00tu5Slhl-OeNms8pxa4_Lta8sG0OJ8OjUd8wZA",LIBANO TV
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg", MTV Murr Television HD
-https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1647812014~dirs=1~hash=035bbe4d257c17dffa40e/mtvlive.smil/murrtelevision_chunks.m3u8
+https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1648448607~dirs=1~hash=05405609f0fe8012b8b82/mtvlive.smil/murrtelevision_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QTWUFKkJ35E/YjLs-wg-vrI/AAAAAAAAAWw/4x5tYDdslRYy-AxgdyUo9Tou1ZzGM3anQCLQBGAYYCw/s239-c/ONE%2B1%2BMTV%2BLEBANON.jpg",MTV ONE
-https://cllive.itworkscdn.net/onetvlive/token=nva=1647812211~dirs=1~hash=05f6890618bcc22b4e703/onetv.smil/onetv_source_chunks.m3u8
+https://cllive.itworkscdn.net/onetvlive/token=nva=1648448699~dirs=1~hash=02ac3fabddf1be6303d62/onetv.smil/onetv_source_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cm-mytv-channel-3442.jpg",Mytv Channel
 https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpnHVw_GNWSvwxavFXWNDjLM)/dm/3/x81xnou/d/live-0.m3u8
 
