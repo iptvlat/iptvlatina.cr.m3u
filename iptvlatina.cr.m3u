@@ -463,6 +463,8 @@ https://tv.portalexpress.es:3399/hybrid/play.m3u8
 https://server.miptv.live:3964/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8d3qEIQTtMvjlM_gyd55AW2Cwa2cvdFuUvIV9JQU7mhaXTR36uIqEhE3c5Q7q8fho6c&usqp=CAU",MAS TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1242-320x180-000000.jpg",TELE CARIBE
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA HD
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/22611
