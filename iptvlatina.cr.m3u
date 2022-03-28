@@ -884,6 +884,9 @@ http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSy
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME HD
 http://190.83.119.67:8000/play/a0uh/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19462
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD
 http://etvhome.com:25461/Arturo/Arturo1/13676
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
@@ -1358,7 +1361,6 @@ https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
 https://vdo1.streamgato.us:3833/live/lasuperdiscotecatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_4.png",TELEMICRO 5 
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QEQH0Dk1rS4/VfQs4WgFsHI/AAAAAAAD1H4/tlpI_65TV78/s1600/tele%2B.jpg",TELECENTRO CANAL 13
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QEQH0Dk1rS4/VfQs4WgFsHI/AAAAAAAD1H4/tlpI_65TV78/s1600/tele%2B.jpg",TELECENTRO CANAL 13
 http://54.39.16.47:25461/live/624560617/624560617/21426.m3u8
