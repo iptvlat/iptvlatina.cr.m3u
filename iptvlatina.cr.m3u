@@ -843,15 +843,13 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/48.m3u8
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/46.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXEs_SEkxKiU8CBRKVPJBL80Hadl0kq_UXxzIIXbxkkVgbjwD0kz_Tw4RzYcKxyj3dZ4&usqp=CAU",HBO HD
-#EXTVLCOPT:http-user-agent=20100101
-http://latinosiptv.online:8090/notocar/xmauc84bx1/19459
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/654.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXEs_SEkxKiU8CBRKVPJBL80Hadl0kq_UXxzIIXbxkkVgbjwD0kz_Tw4RzYcKxyj3dZ4&usqp=CAU",HBO SD
 http://etvhome.com:25461/Arturo/Arturo1/20158
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXEs_SEkxKiU8CBRKVPJBL80Hadl0kq_UXxzIIXbxkkVgbjwD0kz_Tw4RzYcKxyj3dZ4&usqp=CAU",HBO HD
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YUEbpKFmy5A/YhRbnqa8kYI/AAAAAAAAAPw/y-sXRn1ZX1YQlE2nMexJub6VFfe_1j4dACLQBGAYYCw/s239-c/Screenshot_20220221_202525.jpg",HBO 2 FUL-HD
-#EXTVLCOPT:http-user-agent=20100101
-http://latinosiptv.online:8090/notocar/xmauc84bx1/35856
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/732.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YUEbpKFmy5A/YhRbnqa8kYI/AAAAAAAAAPw/y-sXRn1ZX1YQlE2nMexJub6VFfe_1j4dACLQBGAYYCw/s239-c/Screenshot_20220221_202525.jpg",HBO 2 HD
 http://etvhome.com:25461/Arturo/Arturo1/13349
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YUEbpKFmy5A/YhRbnqa8kYI/AAAAAAAAAPw/y-sXRn1ZX1YQlE2nMexJub6VFfe_1j4dACLQBGAYYCw/s239-c/Screenshot_20220221_202525.jpg",HBO 2 FUL-HD
@@ -874,6 +872,8 @@ https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png",HBO + HD
 #EXTVLCOPT:http-user-agent=20100101
 http://190.83.119.67:8000/play/a0uf/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME 4K
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/841.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME 4K
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSytgjgiyrfUvgfhCZ/HycjtdAgbhfuedubgOouvo59jhvkhogf0vgjOggzfdhrYvvdvbgqX/615
