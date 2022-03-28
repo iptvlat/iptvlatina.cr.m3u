@@ -38,12 +38,12 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
 #EXTVLCOPT:http-user-agent=20100101
+http://190.83.119.67:8000/play/a0rz/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
+#EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/566
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 SD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
-#EXTVLCOPT:http-user-agent=20100101
-http://190.83.119.67:8000/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU",CANAL 8 HD
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU",CANAL 8 HD
@@ -1058,8 +1058,6 @@ http://mega8k.xyz:8080/javierRomero658/GOZQZU3fJN/92
 http://127.0.0.100
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/150px-LogoTeledoce2019Azul.png",TELE RED
 http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/52826.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QIBHtq_FeiI/YBNnpcm2PGI/AAAAAAAAawc/E0xSqQ6Hm5A1As0_tV7684OGUxQI-bprgCPcBGAsYHg/s71/canal-10-uruguay.PNG", CANAL 10 HD
-http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/52816.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png",CANAL 4 HD
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2651
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107997180311281665/c72fyy_F_400x400.png",CANAL 4 HD
@@ -1071,16 +1069,28 @@ http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/52810.m3u8
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/xvyz3XDeAzu5btaJG6PPUBfY7I0jZZdclSiTBNNq.jpeg",RU.TV
 
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/MagRGS7bO4A8WnHW7hiWhbYXAIWfoTmrrZu5eHMm.jpeg",CANAL 7 DEL ESTE
+#EXTVLCOPT:http-user-agent=20100101
 http://ui.mrzutv.net:8080/spiderman/spiderman/66348
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora 
 
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/FhGQ4GSgaXwV1emZgNIf63lvtXFtrUpxrRLVJrTi.jpeg",Canal 8 Rivera 
+#EXTVLCOPT:http-user-agent=20100101
 http://ui.mrzutv.net:8080/spiderman/spiderman/66369
 #EXTINF:-1 tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-cropped-LOGO-9-HD-carta.png",Canal 9 Telerocha HD 
+#EXTVLCOPT:http-user-agent=20100101
 http://ui.mrzutv.net:8080/spiderman/spiderman/66370
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QIBHtq_FeiI/YBNnpcm2PGI/AAAAAAAAawc/E0xSqQ6Hm5A1As0_tV7684OGUxQI-bprgCPcBGAsYHg/s71/canal-10-uruguay.PNG", CANAL 10 HD
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/1300
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QIBHtq_FeiI/YBNnpcm2PGI/AAAAAAAAawc/E0xSqQ6Hm5A1As0_tV7684OGUxQI-bprgCPcBGAsYHg/s71/canal-10-uruguay.PNG", CANAL 10 HD
+http://latinoamericatv.vip:8080/live/Restream264b/Mmmmmtgb/52816.m3u8
 #EXTINF:-1 tvg-logo="https://canal11.uy/wp-content/uploads/2020/04/logo-rojo-.png",Canal 11 HD 
 
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/lqkJi9ejdzpcrmD2I2Xtm0zxwc7jGuPhgZvk2bA2.jpeg",Canal 12 Melo
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/21772
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/lqkJi9ejdzpcrmD2I2Xtm0zxwc7jGuPhgZvk2bA2.jpeg",Canal 12 Melo
+#EXTVLCOPT:http-user-agent=20100101
 http://ui.mrzutv.net:8080/spiderman/spiderman/66372
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UR | VTV PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title=",VTV PLUS HD
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/708.m3u8
@@ -1095,6 +1105,8 @@ http://127.0.0.1
 http://201.217.3.212/TV/intercable/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/logoroga.com/wp-content/uploads/2017/10/snt-hd.png?fit=1000%2C1000&ssl=1",SNT HD
 https://py-snt-snt-app-e86tf4-live-0-cdn-0.ned.media/snt/smil:snt.smil/chunklist_b850000.m3u8
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg",SUR.TV HD
+http://latinosiptv.online:8090/notocar/xmauc84bx1/31941
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg",TELEVISION DEL SUR HD
 https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=530000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png",MI.TV 
