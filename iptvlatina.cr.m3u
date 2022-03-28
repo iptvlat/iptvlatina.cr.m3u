@@ -2,7 +2,7 @@
 #http://iptvlatinacr.com/
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",27.03.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",28.03.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -350,7 +350,7 @@ http://www.lengua.com/anthems/Honduras.mp3
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSCX4W_lgCmG7AulCkc2DAaWDREd4ZIq7pL1PCQ=s900-c-k-c0x00ffffff-no-rj",TELEVISION COMAYAGUA CANAL 40
 http://st2.worldkast.com/8058/8058/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://lh3.googleusercontent.com/-FWfcV7X3YmE/YjLgmFFDPII/AAAAAAAAAWk/ciegfQBycyIpxYQHgRrmrw5QMdUIWARTACLQBGAYYCw/s239-c/VTV%2BHD%2BHN.jpg",VTV HD
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4NTE0NzA3LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuNzMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuNzMiXX0sInNpZ25hdHVyZSI6ImRiNTRjNzdiMTQ4NTExNjVkNWQ5ZjhiNmRmN2Q1NjgxYjcwZDlkMGYifQ%3D%3D
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b350000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4NTI4MTg0LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuOTkiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuOTkiXX0sInNpZ25hdHVyZSI6IjZkYjg2YmFhYWQyODdlNmViZjY3MDhjODMzNWNmZTA4MDM1NGU5ZGIifQ%3D%3D
 #EXTINF:-0 tvg-logo="https://lh3.googleusercontent.com/-FWfcV7X3YmE/YjLgmFFDPII/AAAAAAAAAWk/ciegfQBycyIpxYQHgRrmrw5QMdUIWARTACLQBGAYYCw/s239-c/VTV%2BHD%2BHN.jpg",VTV HD
 #EXTGRP:unsorted
 http://web24.live:8080/testline/testline/41455
@@ -546,6 +546,8 @@ http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSy
 http://latinosiptv.online:8090/notocar/xmauc84bx1/996
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj",QUIERO TV HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj",QUIERO TV HD
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOhpenaPEYyRBzIs-q8S-2iM)/dm/3/x8452uw/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj",QUIERO TV
 https://quierotvlive.tk/httplive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1560.png",GALAVISION TV HD
@@ -718,7 +720,7 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AAhlKqL2O1I/YNtydmHYvMI/AAAAAAAAcs4/DCZDsWL6_lUPKw1iU4A76XK2PZ_BSpQIQCPcBGAsYHg/s71/el-chavo-del-8.PNG",EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w289843507.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg",morbido HD 
-
+http://23.148.145.49:9001/televall2022/725_.m3u8?token=HujCjAYi09ZLa1jBI0Qf3g&expires=1648452989
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg",morbido HD 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT9 
 
