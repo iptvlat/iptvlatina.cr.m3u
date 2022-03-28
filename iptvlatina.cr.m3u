@@ -299,7 +299,8 @@ http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png",TCS+ CANAL 35
 http://clubtv.link/21m3/dd19/lista2.php?c=a0hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png",TCS+ CANAL 35
-http://web24.live:8080/testline/testline/54464
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2648
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sdjejuVGAm8/YgwdXi107FI/AAAAAAAAAJ0/lhEApJJLF2ko5Elt1uH9SPQKKBbCSFP2ACLQBGAYYCw/s239-c/TCS.png",TCS HD
 https://secure-video.tcsgo.com/tcshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sdjejuVGAm8/YgwdXi107FI/AAAAAAAAAJ0/lhEApJJLF2ko5Elt1uH9SPQKKBbCSFP2ACLQBGAYYCw/s239-c/TCS.png",TCS HD
@@ -1371,14 +1372,15 @@ http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSy
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.lasuperdiscoteca.com/wp-content/uploads/2020/11/logo-trans-2-1.png?fit=512%2C512&ssl=1",LA SUPER DISCOTECA.TV
 https://vdo1.streamgato.us:3833/live/lasuperdiscotecatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_4.png",TELEMICRO 5 
+#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_4.png",TELEMICRO 5 HD
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QEQH0Dk1rS4/VfQs4WgFsHI/AAAAAAAD1H4/tlpI_65TV78/s1600/tele%2B.jpg",TELECENTRO CANAL 13 HD
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2637
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QEQH0Dk1rS4/VfQs4WgFsHI/AAAAAAAD1H4/tlpI_65TV78/s1600/tele%2B.jpg",TELECENTRO CANAL 13
 http://54.39.16.47:25461/live/624560617/624560617/21426.m3u8
-#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_1.png",DIGITAL 15 
+#EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_1.png",DIGITAL 15 HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpcFvKseYWR2oMd1OfyDXslSoseXZX4WLB7sM_StKDPYrgJIIOvN6gZjIWktK4XrBBPj1eKAYZBuYU5Y4_bjSIjLGfpzqCL8bCqZN7_y1enUxwC4104Hi2QF3vhHfLuf-P__qFpmcO8Dh9UoLkWHEDKbJonUuiStGtaDOiwChzKPiCAQayajlt1V-FykRuIi9o723p3dYffN0tL-Zi301ht8N5yDGxpFIqWVIDYc75xYDR5qunjVRCXypK_7zFwfDDjCii0y37PCg9kNpM9nnISHdU-D5u-JwN29AaGKjBhCcLLc6mLjkDx5F3WOpAuOOwJJ5rQWhEfx4rhyNRuRFCRNchLAVuNAQ8tblWbbsld_gKkLzmVCR7moS35hXHWxK6rL70eZLqTCNhg9XfFdxhtAZb_LJYicXkk9Wm7xwlqRmNsEHvWmsLaQqIuQxMtP737vjJTWtRysR1vBVkCc2U-GReM8FWeNPwvWRBb2SR-Eyzbr8ZE42xSI3ULXbzxO5bJDvgIpVT2uVN2Sa73F9IJMoP7lvdpV6C2opLRuQbmypnsp7YdAiuyu_V-fAO2rl9FDArlgy3RwR3_l5WGEb71PmldLTzxPPiNP4PQb11CgegOY6XxbgTE4jI_jOZuV9JUpukv7jnwFcPLOSY7xoI6AQWINysib6kuqFgGlCSj4u6G1rr7u4D1cXbjxfzmMga4DzI1dn6sCBkLrvs5s-E9AfQo1twS_I0sO4zc55lxsWPTZXGgg5V9-FKehBqdYcjNIBl1ZTWYQ5-XubTdRnGwCD-vyCNicUmmaymDCjb6PF2Py6WeTI8Z7Aug1fShtlFPD1ArundFbujxFOkhM82HwsgB6V0EmtsjrWle3mmgim6hqsdSdRdJ8GgxwA2m3vki1cA4E0BQgASoJZXUtd2VzdC0yMKwD.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Imfdu7EIPEKO8em81Z7axvgCCORz7DREbFrprfPAU9j2EnMdtyRWcu2-CeT3pKf2u04=s180",Venezuela TV
 http://www.lengua.com/anthems/Venezuela.mp3
 #EXTINF:-1 tvg-logo="https://apktada.com/storage/images/com/somosdeleste/com.somosdeleste_1.png",TV SOMOS TELEVISION DEL ESTE HD
