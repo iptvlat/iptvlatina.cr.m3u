@@ -2446,7 +2446,7 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZXP7luKnB2atWBF9dbb-r4ceCj2sOxFQ0y4NqpZ2jwLOcuWq9&usqp=CAU",MLB TV
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_2/MLBN_FAUX_LINEAR_STREAM_2_MLBN_Linear_Stream_Friday_20200612_1591985931119/1800K/1800_slide.m3u8
 
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/tv/TDT/spain/tv/Direct/tv.TDT.spain.tv.Direct_1.png",TV ESPAÑA
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/tv/TDT/spain/tv/Direct/tv.TDT.spain.tv.Direct_1.png",CANALES TV ESPAÑ0LES
 https://iprvlatinacr.clib/145.174.184
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJziMDQR06dzhXvTtxLF8mqKs7rO8GmzLuFbZA=s100-c-k-c0xffffffff-no-rj-mo",CANAL 54 LATINO
 http://190.3.169.119:8080/latina/latina/chunklist_w1341457423.m3u8
@@ -2528,7 +2528,8 @@ http://iptvcanales.gq/canales/tvfree/334/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/960/0*vxPEMP_Ww3WiTOrK.jpg",NOVA.TV HD ESP 
 http://iptvcanales.gq/canales/tvfree/334/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg",CALLE 13 HD
-
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://latinosiptv.online:8090/notocar/xmauc84bx1/1129
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION HD
 http://iptvcanales.gq/canales/tvfree/337/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1280px-Movistar_Cine_Espa%C3%B1ol.svg.png", CINE Ñ 
