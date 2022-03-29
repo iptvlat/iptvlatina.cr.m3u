@@ -1697,7 +1697,7 @@ https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
 https://vcp.myplaytv.com/canal10cba/ngrp:canal10cba_all/chunklist_w507702324_b1128000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vs1Kv68bT3c/YBMVU4LAujI/AAAAAAAAatI/esK2WfspJPYFSvPPRkX4UlCyt_cgu0dRwCPcBGAsYHg/s71/canal-encuentro.PNG",Encuentro HD
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--HT_0HnZcx8/YBMVU1tHbRI/AAAAAAAAatI/jr_xwaD54zMkgnqUEl7N9VGX0EdShNlugCPcBGAsYHg/s71/telefe.PNG",TELEFE HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--HT_0HnZcx8/YBMVU1tHbRI/AAAAAAAAatI/jr_xwaD54zM kgnqUEl7N9VGX0EdShNlugCPcBGAsYHg/s71/telefe.PNG",TELEFE HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -1709,8 +1709,8 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-uRO7cQF9i4g/XCKOsAGqYZI/AAAAAAAAB1U/icLyv19C1g0ksCUbC2GqnSqrbHzsdTbJACLcBGAs/w1200-h630-p-k-no-nu/cl3-argentina.jpg",CL3 Cablevisión
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png",CANAL 32 SPTV SAN PEDRO
-https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png",SPTV CANAL 32 SAN PEDRO
+https://srv6.zcast.com.br/sptv/sptv/chunklist_w1005037917.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGVS-lgqcPo75RQFc4j9qFz0xHMfSkQFOl6RfmTJguOAB96j9YrvdQNQxcdk7qUU9jMs&usqp=CAU",CANAL 11 DE LA COSTA 
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
@@ -1740,7 +1740,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",CINE TERROR PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/W4bSTNSs/CINE-FAMILIA.png" group-title="CINE Y SERIES", CINE FAMILIA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",CINE FAMILY PLUTO.TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true  
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",CINE FAMILY PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -1843,8 +1843,6 @@ https://livefocamundo.com:8081/8178/index.m3u8?PlaylistM3UCL
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z",ANTENA TV
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1087911591490797568/dglTFLzh.jpg",TVO TOCOPILLA
-http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267875708044533765/j2ITZD9N.jpg",UNO HD
 http://media.profesionalhosting.com:1935/8441/8441/chunklist_w692838936.m3u8
 #EXTINF:-1 tvg-logo="https://b15.com.mx/static/b15/static/images/logo_GrupoB15_color_alpha.png",CANAL 15 ZACATECAS
@@ -1983,7 +1981,7 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/693.m3u8
 #EXTINF:-1 tvg-logo="https://hellnotes.com/wp-content/uploads/2014/05/terror-tv-logo.jpg",HORROR TV
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZA9rZRwsCjRzoh1ckCpq5U996tqlWbwjRzg&usqp=CAU",CINE TERROR
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/693.m3u8
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/704.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f0a62aae-09ad-4d82-9ed1-06e48a8b310e-profile_image-70x70.png",JJ PARCHE.TV HD
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/92a32429-0dad-49ce-98ca-bd85aa8aafbc-profile_image-70x70.png",TERROR MARIA HD
