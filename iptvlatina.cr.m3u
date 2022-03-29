@@ -37,7 +37,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/afiI8Zm7HZZSRJnbMrcDXnREskszX8ZxKkreOugKPJYTaQQhWVJfqEaLcFpBqyPXYO9Xc0dtzvKfaXH_2g=s239-c",CANAL 6 HD
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
-#EXTVLCOPT:http-user-agent=20100101
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 http://190.83.119.67:8000/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vk-DZBD9v2Xx8Qjuz_9Df-oKaOOYyIsgemO7A0de4isrXt9cfyELnz6Q065IpYcDQUdyoyYK65tXWE6C=s239-c",CANAL 7 HD
 #EXTVLCOPT:http-user-agent=20100101
