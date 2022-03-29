@@ -1262,6 +1262,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 https://ss5.domint.net:3002/stv_str/sensaciontv/chunklist_w1676695802.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/megavision_canal_43_santiago.jpg",MEGAVISION
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1135556674.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png",Chinola TV
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/uni_tv.jpg",UNI.TV
 https://inliveserver.com:1936/11558/11558/chunklist_w522036758.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sbQXs_00gqc/YIbzU-PfMQI/AAAAAAAAAlM/z4ew1PTGMjUYJCWoaUySrcvd1o4pLMJ-wCLcBGAsYHQ/s640/JEJEJEJE.png",NPTV
@@ -1697,7 +1699,7 @@ https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
 https://vcp.myplaytv.com/canal10cba/ngrp:canal10cba_all/chunklist_w507702324_b1128000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vs1Kv68bT3c/YBMVU4LAujI/AAAAAAAAatI/esK2WfspJPYFSvPPRkX4UlCyt_cgu0dRwCPcBGAsYHg/s71/canal-encuentro.PNG",Encuentro HD
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--HT_0HnZcx8/YBMVU1tHbRI/AAAAAAAAatI/jr_xwaD54zM kgnqUEl7N9VGX0EdShNlugCPcBGAsYHg/s71/telefe.PNG",TELEFE HD
+#EXTINF:-1 tvg-logo="https://www.0800telefono.org/wp-content/uploads/2018/11/f800x450-414580_466026_0-800x450.jpg",TELEFE HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
