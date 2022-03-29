@@ -1781,7 +1781,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE.TV
 https://strapi.api-tvcine.com/uploads/bf8cc3317f89413189dfac3003fef4e1.mp4
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4248dbc3-33c8-4ef8-889a-eda1422ba9b2-profile_image-70x70.png",COMO ANTES TV
-
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqIFJzeMWFXSGGWza6Yqp4PEebHVgSHphtmEW-Mce-o8u2P55lcJFbsdIBLFF8BjYuQn1Tgi-38bL13kqUSVhAEZgYFhUwwFR1ASkRRJPAG4DbUABq2VsEH05G7Ios4mq4nioMC_Mtyedanr4t6Wh0vIdl0Qkh_a_CqQ9szbg6NYViv-r0-QdkJ5a6gtm1yNSwA8EbmMc0LUSL0k02Z_QYGTjbq0K9SxoBcrUJ4zGRJJ65yD8dRwfSlCJM2jtA9z_h436_QZZZxx2-8Yf31WZq2Ccg_2CQjhqd0rqQVXB65aD8pBPTv1h58Jp87zSR5RQ8BtP9Y4rSwnPTawlvMTCm6a2qFn7crbaVKcvt1T_rwBdv8W1H9Cv_YcevHr7abXAIqFRg77YQP2dyF0WroPs2o4pbs8qd7KD9-UTOmYGAX99EJnDJAQqRyciixMXxJQmidRzfNYr0TEXy-JY9wu_bpa1C0dvfSf3Dp28vbytgbwP6mURNU1MKaoArEqcQNCE26lZWq1rNaqMm6-8QQzWdn1mqObPxSke5f9aRkac4Ismjh_tlIqekaTjhgaOYPzggQqGulAkMq5wR4t0tAv0fiGMwAg1OHKvCtFwhoZ0HeFHk4v4I3ys1UZlbzkp5-9LuYc8xb9aGToKGwcTU1FEnyQ-SQ0CIU0WNj6FSwN-EU2B-F1_4pU9vNasBWpIuURZUikAYKKKNBh9BpBUSU6jR43n563L6QoByunMjXzXkQ0M8F9ye_IOFCoie5g1OHJNZO-VD60Def3t3TceDwBjxIMTFhtfRQeL_z-o4CZ__0BmF8PrXVD4svfZqV0bi7tugtq9rQAGkuxwIwdOnB66nDhR0KgqzvPzFRrww7cZcga2xGM6QwzhZsAT47cqe7qY2emkWwaDN6ggv0MKelgpd0mqCABKgl1cy1lYXN0LTIwqwM.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a2/a0/57/a2a057c1930bfebadfe25ae135fd2993.jpg",MY TIME HD
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image11649781372.jpg",Imagen TV Canal 5 Rioja
