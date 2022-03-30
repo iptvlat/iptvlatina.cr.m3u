@@ -387,7 +387,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras HD
 http://aztecalivehttps://hn-vtv-vtv-live.ned.media/vid_360p.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2NDAzODE4LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuMTcxIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk5LjE3MSJdfSwic2lnbmF0dXJlIjoiODdjMjkxNDc0Y2YxYTYxYTZkNWJlMTNhNDAxNmMxOGVjMDA3YjBjYiJ9-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615EGgIBdSL.png", STV Sobrenatural 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615EGgIBdSL.png",STV Sobrenatural 
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="Internationals",Canal 9 Honduras
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
