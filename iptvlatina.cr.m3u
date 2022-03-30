@@ -419,7 +419,7 @@ https://ott.streann.com/loadbalancer/services/public/channels/5d6821172cdced7698
 https://live.canalantigua.tv/CanalAntigua/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png",CANAL ANTIGUA
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png",SUPER CANAL 3 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b200000.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-O8tIcZwzteM/XA_yqIWnLjI/AAAAAAAAAyA/PvbI53JhvoYc2jYoW8jfO1iGBVpP_F5zwCPcBGAYYCw/s200/Televisiete-guatemala.jpg",TELEVISIETE 7 HD
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
