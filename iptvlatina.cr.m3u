@@ -102,8 +102,6 @@ https://stmv1.srvif.com/ronald5612/ronald5612/chunklist_w1541850670.m3u8
 http://k4.usastreams.com/tvoccidente/tvoccidente/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2020-11/tv-digital-chirripo-costa-rica.png",TV DIGITAL CHIRRIPO
 https://tiquiciatv.duckdns.org/hls/livetvdc.m3u8
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2020-11/tv-digital-chirripo-costa-rica.png",TV DIGITAL CHIRRIPO
-http://tertuliasconcafe.com:1935/tvdc/envivo_720p/chunklist_w1360920315.m3u8
 #EXTINF:-1 tvg-logo="https://www.unored247.com/bill/templates/smartlinehost/html/images/extrema_client_logo.png",EXTREMA TV HD
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://multizonastv.com/wp-content/uploads/elementor/thumbs/logo-1-pddmr4s4yp6um8r225qmuwej1etv3o17802e1h0l48.png",multizonastv HD
