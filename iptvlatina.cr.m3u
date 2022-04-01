@@ -1784,7 +1784,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE.TV
 https://strapi.api-tvcine.com/uploads/bf8cc3317f89413189dfac3003fef4e1.mp4
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4248dbc3-33c8-4ef8-889a-eda1422ba9b2-profile_image-70x70.png",COMO ANTES TV
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFyE_WCsncrW2FXpqjOPNPr_v9EJf-C8pbSnrO6LYIGEaBoCoOfy6V7Gej7pi7QzMnG9vys-XYaGInws-Fz8pcuh64HWMbPAh0ECkyL9dvtX7hyVUT1HkPvXFnq-Uv5fsmFIgMW1RzTgaSyMmExs9JEYcO3-Cjm0_yE8pefZVt3KKoCLJRTa2wfr1Uh2wSM8y4s9B_JHBEkwUO09Mvfs0TNFPs16hQNEIIoTlQHzVBfeb_DUHV3nVzeoS-lJaYFVCbXk0vO_9kRvoMIHpFwIo6yOI6YFZ2H8PtVQ_Evf67pStmto6DtJcBJUCxYWdjlxcuJmfkTgZ5qxMGsRjEOUgD4EkePFTMPRVtQDHhrUaudrAkFnAgkfuvZuPkT38-0igbCQV-CqELSHxBWqxNQ0qRm5335t4cwYYUrzy6b1RqHbwjX0RAEuAqqFfR5zqkZvMJPaMA9embW8vinUfzdgqinqnWZx-r92exF1-5QSm5wnZX3Yz_4ZwxiDfW6vVlCxiXmKvcpk1piaFYUoqOhtacC58P9Mog2amSdbWfOssTQZlDHMJXMcCXIvccS_EJMZ8KvxqPjzBpZklLOS-JiHMVoJ9loEldMVnxMZwLD61FUhb5rXl4r5yFOyrtzzSH4EAFwrIOsYUCf07DQ_KbkA0cfviW_C8taSImED_QJcpXmIAy6mzoph5FfR598k_V0RT2G7i0xsuUJx41bKNazCpf8mlRZ8nk7CqT8o6vjcsIIxmc_dANvKl9EkskWvg9qZtLYIgf9JzZ8KhDMNHL3Iimg36C8hDuShVHSp2zX3EoLXyYP1VezWXndWYNNf4h_oEPVR-5OjNrFSH9Jn7jOztgnCilwWQGF5dTYIRQ-rmvl_v_lY9wCkyjj5aczD6xz8jpGgzqm_ed4hc3eKowMeogASoJdXMtZWFzdC0yMK0D.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png" group-title="Quiché",Canal 100 tv Chinique
+http://iptv.streamhispanatv.net:25461/playgt/123456/85
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="Guatemala Capital",TVS Retro
+http://iptv.streamhispanatv.net:25461/playgt/123456/4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qpMabQRVYPM/YkabJHnM7QI/AAAAAAAAAZQ/_H0a0c_tiZ4dhjhLFbVBw34s7QW0G3F5gCLQBGAYYCw/s239-c/NimTv.jpg",NIMTV
+http://iptv.streamhispanatv.net:25461/playgt/123456/2
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_95bf7301ff9847eeafd13b08e3570b64~mv2.png",MULTIVISION CANAL 3
+https://multivision.digitalgt.com:442/hls/multivision/5_6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a2/a0/57/a2a057c1930bfebadfe25ae135fd2993.jpg",MY TIME HD
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image11649781372.jpg",Imagen TV Canal 5 Rioja
