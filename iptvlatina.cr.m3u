@@ -1785,6 +1785,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b
 https://strapi.api-tvcine.com/uploads/bf8cc3317f89413189dfac3003fef4e1.mp4
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4248dbc3-33c8-4ef8-889a-eda1422ba9b2-profile_image-70x70.png",COMO ANTES TV
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_f8c7ab91c46b4f5189f991bc9134b5d7~mv2.png" group-title="Sololá",Radio Sololá 88.7
+http://iptv.streamhispanatv.net:25461/playgt/123456/14
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_af8e141a8b0641ba8b1f6e818ed47357~mv2.png" group-title="Sololá",Canal 9 Tolimán
+http://iptv.streamhispanatv.net:25461/playgt/123456/18
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png" group-title="Totonicapán",Aurora Films
+http://iptv.streamhispanatv.net:25461/playgt/123456/108
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png" group-title="Santa Rosa",Canal 8
+http://iptv.streamhispanatv.net:25461/playgt/123456/93
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_69f083ef9b9b4772890e0a2fc9eddcfc~mv2.png" group-title="Huehuetenango",Tele Arte
+http://iptv.streamhispanatv.net:25461/playgt/123456/35
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_17c09e7dae974060a5cf7d0561412dc9~mv2.png" group-title="Quiché",Canal 100 tv Chinique
 http://iptv.streamhispanatv.net:25461/playgt/123456/85
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="Guatemala Capital",TVS Retro
