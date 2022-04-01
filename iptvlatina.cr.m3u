@@ -1317,8 +1317,6 @@ https://vdo2.streamgato.us:3337/live/zuutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/tv-norte.png",TV NORTE HD
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
-https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230266521.secure.m3u8?p//xyz_player.video_playlist-hls.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png", CANAL 6 DAJABÓN HD
 https://cdn4.hostlagarto.com:8081/static/canal6tv/chunks.m3u8
@@ -1995,7 +1993,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZA9rZRwsCjRzoh1ckCpq5U996tqlWbwjRzg&usqp=CAU",CINE TERROR
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/704.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f0a62aae-09ad-4d82-9ed1-06e48a8b310e-profile_image-70x70.png",JJ PARCHE.TV HD
-
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrMFeqJMowfmTm8pliFogYHX16Dlb9jW2eB7A78WnmMhwF5KC9tmFuKHRMmpfKfop8pjDJcD9-4XPFUdpaC_NVogrJuNTCHZAJ6c0gpTYjKFF-gzXAlU2jjNAexuJ8nCzyu72qCQDnY6wZcR1mmd9kM-6I4pPNS3t1MruJI9oXl92MtXKrhSaNApfBfWskLRIwtucPwvgmjrO_1NhZpvl0W9Eg2iE-um7iRU0wmRtpTYdQnSHyW-RBzX2T9xf0o8n5NUP4inQBSDPW4auMK1PYIiIg1xx3ox2K7TszC2Ei9--DnvnAAfMiIC0H-YqNPJg5OYosJzyR0zp0CM1qBn-UytfJTTekSdvNOURgWI5EOox60ypTKCXDcjmJ9eT2ANurnRYwuXTv6eBOTp20X5XFnttBD5i5cF7KUfs0tcBpP4EtPDKqwQ6sJD3NzxJ4KfbhbxMhSx25hH8-hY7pRLDCFvcClg1M3cx0r1L0iut8bCdWAIloKVpWq7OHuiyo5FMV6xXbVKG4xEOUzvnfpcnQIAuzM36sWWWAk6d9QtAH8wTOSgkWMYAxPCcGcT6r0XJ_8Xd1xtxifznx_DRd5znbk_Lui1mT6xn1v7K32TZ6PoPUHTy4ScRuW6OzagDHNAtoJ9mUhdjG3lLzN0Y1t5MdPVe0onCd9cEARVs2Lh3Lsik3EL3K-GBvotRn_Nk_DxcebTY-L-FkuKCdVCLbyM3zRRtwlXzLOe2E5YPrEHL45Hy7yxyXVjmVnEr4oOHHG6lnw_pIIjgRBwqR72Hx6E_NmcUQTOiR0Bifw-eSBWbhYogQb2qQaQpUskgnks6sVPPVouxvavHdJMQO4V_gwKNjgj2bts_LOb1N-wuopRebpnirKSXEcp24-x3bOJJdDQguCTqrMKL7aXclA1-uWEnLHbittplhoMNXkiWz26J7esCxUxIAEqCXVzLWVhc3QtMjCuAw.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/92a32429-0dad-49ce-98ca-bd85aa8aafbc-profile_image-70x70.png",TERROR MARIA HD
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqQFA0GXD3Au7tmrTzmsdO8oIOwMxieEfcJGNiqPpkOBw34oF0vuBEGq1_Ez7wtFn47bACANIQZk_Z_XeX5kL2fVl7JfA2BSlCB13svKy_ST7HbM9ffzxP8z0tBkKaKiJtA-TAPXYCyW_069qeAWJBqCyC5psfWbSJbm-HpUu3VslU3A-u9TbXoaAUELotmne6Lmid6mBnmtnkNsaFBAg3yb-fMpM3_QaYkhzlJRwCNexBHE7vyDoZeOA9C8hS36bnnECIuavf1Id3bzCkAGt4OOrYWWGnGOIhZ9vvwry9hpGwsyMyWhncYgfkJuNQFeR323BZY4kOdS7db9tdFruJXM1usM6E-TJUTtNcn3WXobHLQr77hIBfnyWtXFNOV2kO3xhrGWOIXQNHp5iMjGCC_HrfuGpQ09lGM0i1kOAiW2lPZ1TyZFg_-WHurplmmmB8VWUqmuz0_D4tSTkLHKBsYzxRsC7cjN6GkZdgEc3lyHxX0k2mnTKbrefOpOzGM6L0mygl-sln5YtOqk8yXKF_HDBz39ShpxRgzxgKihvOChyf0SFcUqiJEiMsTMCS3y_4-4jV_hi0HYAC9rW7MLho8rcTpDxzk2zLPz_oqjASyErW6PHnsEyLRIY88EJYbWNlhZlsj25qnoitnveZnFgjQOHULrHv6Gcjqk5YOj1aeCbEkBh7vxn5pLsBkBIYXGeYVZSirFsj1rYqnNL4NvaHOqQBwk4-o40shvQqDGkmBKm3k1FMLwR_FbOHpHjNSHbGPem44n8-Ht-asnqwUCo8OWbSNt3Hh368simHEyc3pHbGvxLWEk2QdFPtAX5fgQAb-TeJFMGNafwOl7Ud66xf5vHneXXvdrg0sJkneJS247ad-3PxrSAC9viSa_tptB7c6RMcu0YRoMHN3_TLH_ENku5YJyIAEqCWV1LXdlc3QtMjCvAw.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d2d645e9-a373-49e7-99a6-4b6fa08013d1-profile_image-300x300.png",KATY HD 
@@ -2415,7 +2413,7 @@ http://iptvcanales.gq/canales/tv/tntsports_hls/playlist.m3u8
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/100.m3u8
 #EXTINF:0 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/08/univision.jpg",Univision TDN 
 http://89.105.194.59:25461/live/ussKKF10/ussKKF10/50.m3u8
-#EXTINF:-1 tvg-logo="https://apprecs.org/gp/images/app-icons/300/0c/com.yourappland.tdtv.jpg",TD.TV HD
+#EXTINF:-1 tvg-logo="https://apprecs.org/gp/images/app-icons/300/0c/com.yourappland.tdtv.jpg",TDTV HD
 #EXTGRP:unsorted
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w1814115765_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDg6NDU6MDEgQU0maGFzaF92YWx1ZT10SEpieDlTeGNYV2xsZE9NQ3EvOGNnPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="DEPORTES",BEIN SPORTS HD
