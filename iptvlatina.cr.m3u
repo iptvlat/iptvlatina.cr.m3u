@@ -216,7 +216,7 @@ http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 HD
 http://clubtv.link/31fin/dd19/lista2.php?c=a0jf&f=.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 HD
-http://ui.mrzutv.net:8080/spiderman/spiderman/11904
+http://190.83.119.67:8000/play/a0tp/index.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",CANAL 4 
 http://nicatv.rylco.com:8075/live/0002/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwThqeXi-q_NZQWHmBJf6OF2w6CfaMTudsfIsOGYw31uQtfteVSg2cxjUVZypoYA-aB0&usqp=CAU",CANAL 6 HD
@@ -289,6 +289,8 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sYE6bXGU3Gn8y3a_-OWnFCVFAVio7sWamdkNo2PDfnReAT7gi2WrTG_pWg8WCRBH65s&usqp=CAU",EL SALVADOR
 http://127.0.0.100.checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg",TCS CANAL 2 HD
+http://190.83.119.67:8000/play/a0st/index.m3u8
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg",TCS CANAL 2
 http://web24.live:8080/testline/testline/54456
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-4-sv.jpg",CANAL 4 HD
@@ -367,8 +369,8 @@ http://web24.live:8080/testline/testline/41455
 https://hn-vtv-vtv-live.ned.media/live.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TV Mazatenango
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpYF5k3I7VbjPsT9oRZzWXISlsZXljwbRc6Bh-x_C1BVRZjvrVPac_eBf9ATITQj45JUFw5zkihAdy62PrTFeaNPhlBKuPyQ7mn17mZ-ehpYe2ZuRR0-TUik2FtqeSVMIzKmP7AptLkaTiVioRpPdfdzcR0AP-IN0CeFkOb-C1KD5QShDQkuiAL2cxrMhQwj144vUQRNHTndDL3QbyFryikOSYdEhsB7YK9GIRuMlokcP1-fBT36jz5Dm37i_JavOt-dl_J5H5sJnub3UPje-lrv51Zds2q7OIv3nDYxYJYJWlRaiHL4kKjwU15CkjFHNErfRUGXQHwxKRFEuQehyfpdoleFnFAMlwpVfermhVTuwnKpiiFPV_vFTGkjiKfewnOMK7J6lJhcsM-EhM_SwaR9w1XnT4no7RJYXi6XaEUeYTYAaYPOtIRInz_v-p9pUs0YLghnAK1uwQklPBjQiWcDtX9FEVlVg25y3g7LMNxFVXqkJAl8L5ouhAlsy8SCpYn5lkNjK-LYcaG55EW07Kp8-gKxrop73bcEL7V__QI3y1i9mLrLeGM6MhBZanYOycvFFdWHKzH_yScNiCNQIVEQupw5TxL4jssIcVl0WvYxFGPDBG_-C5D0wWZGj1MWvXzchPN26ZucVf3WchjfHJntIaNK7a97oX-JpPVMEkR2XlLU2yRG-A8ylqUFzIM7XBWmj7s3_gtzrGjxnePvvSpYHzQpdIr7GFi15Am4kT6XE4hnBdsuBkc98ogF1D7Cws5wWNPAsnSGJDMBOdCmUEcwycNyDeROCgRlFZSjwQY_6ZmCMiurFABVa_IyO44NWyTJej6Zmi6-jZ3VG-Aadg_PP0NdRszs64pit6y6YaznahZ5T9iaqbAaDMKLDv6XKpO6-O-xxCABKglldS13ZXN0LTIwsQM.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TV
-https://stream.oursnetworktv.com/latin/canal23Tv/chunklist_w637481463.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TV HD
+https://cdn.streamhispanatv.net:3399/live/canal23mazatelive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhijPKZhPAeOpV0plYczgzsl-QB1v4T3wfhFlAsRrJvE2lj81r4KjNviOw5NiNNDYuAw&usqp=CAU",LTV.HD
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w113526813.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS",TEN 10 hD
@@ -433,7 +435,7 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b200000
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL 11 HD
 #EXTVLCOPT:http-user-agent=20100101
-http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/586
+http://190.83.119.67:8000/play/a0rj/index.m3u8
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL 11 SD
 #EXTVLCOPT:http-user-agent=20100101
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_2500.m3u8?aid=60356e540f843032743f6852&uid=MurA6Ca0S1WLPsQdo5rxJrpElb1dzKlk&sid=rIsnZSFYzYlLroLsyt8g8wxsoPYb6l7W&pid=0lv9jP5vpYDPJFhQDdjX0im3KUtLlGbS&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1648869179353&ot=UbqzBTgmLAYkYDVqgOvJsw&proto=https&pz=us?p//xyz_player.video_playlist-hls.m3u8
@@ -443,11 +445,11 @@ http://clubtv.link/21m3/dd19/lista2.php?c=a0gt&f=.m3u8
 https://tv91.hostingnuclear.com:19360/interchiquimula/interchiquimula.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzUR7WIiOIsD7E3qS30sTr6-US2LBWcVD4A&usqp=CAU",TELE DOCE 12 HD
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 HD
-http://latinosiptv.online:8090/notocar/xmauc84bx1/2379
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 
 #EXTGRP:unsorted
 http://190.83.119.67:8000/play/a0ri/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 HD
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2379
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 HD
 http://clubtv.link/21m3/dd19/lista2.php?c=a0gs&f=.m3u8
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/i/tv/canal-13-esquipulas.png",CANAL 13 HD
@@ -512,8 +514,6 @@ http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
-http://ui.mrzutv.net:8080/spiderman/spiderman/66307
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSytgjgiyrfUvgfhCZ/HycjtdAgbhfuedubgOouvo59jhvkhogf0vgjOggzfdhrYvvdvbgqX/560
@@ -658,7 +658,8 @@ http://latinosiptv.online:#EXTVLCOPT:http-user-agent=20100101
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/14.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 #EXTVLCOPT:http-user-agent=20100101
-#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME FULL.HD
+
+#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/152.m3u8
 #EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME HD
 #EXTGRP:unsorted
@@ -771,7 +772,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/19362
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/479.m3u8
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL HD
 #EXTVLCOPT:http-user-agent=20100101
-http://web24.live:8080/testline/testline/38096
+http://190.83.119.67:8000/play/a0uc/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mW5TZAuVPR8/YglX5NeGhII/AAAAAAAAAI0/v8aPzxidyAIsutCB7kvSyzmlLD21cbgVwCLoCGAYYCw/s239-c/profile%2Bpicture",AMC FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/183.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mW5TZAuVPR8/YglX5NeGhII/AAAAAAAAAI0/v8aPzxidyAIsutCB7kvSyzmlLD21cbgVwCLoCGAYYCw/s239-c/profile%2Bpicture",AMC FULL.HD
@@ -780,9 +781,10 @@ http://190.83.119.67:8000/play/a0qr/index.m3u8
 http://user.tvcluboficial.com/tv/free_ABRI_Lan/m8q.m3u?remota
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cvEIEvY0yJE/YglYJFNUQ-I/AAAAAAAAAI8/pKNeMxj30fAqwcpU9hxl5zkG6rr6w4WhgCLQBGAYYCw/s239-c/Captura%2Bde%2Bpantalla%2B%252861%2529.png",A&E HD 
 #EXTVLCOPT:http-user-agent=20100101
-http://latinosiptv.online:8090/notocar/xmauc84bx1/19359
+http://190.83.119.67:8000/play/a0t8/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cvEIEvY0yJE/YglYJFNUQ-I/AAAAAAAAAI8/pKNeMxj30fAqwcpU9hxl5zkG6rr6w4WhgCLQBGAYYCw/s239-c/Captura%2Bde%2Bpantalla%2B%252861%2529.png",A&E HD 
-https://edge2.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+#EXTVLCOPT:http-user-agent=20100101
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19359
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G8SNoo8hj38/Yhs0jtmb0bI/AAAAAAAAAS0/EFEiGEDtYSMrnUpPjxAMPkj5mNWqiLqwACLQBGAYYCw/s239-c/TCM%2BLATN.png",TCM HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/85.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G8SNoo8hj38/Yhs0jtmb0bI/AAAAAAAAAS0/EFEiGEDtYSMrnUpPjxAMPkj5mNWqiLqwACLQBGAYYCw/s239-c/TCM%2BLATN.png",TCM HD
@@ -831,7 +833,7 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/19315
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/200.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",PARAMOUNT CHANNEL HD
 #EXTVLCOPT:http-user-agent=20100101
-http://latinosiptv.online:8090/notocar/xmauc84bx1/19382
+http://190.83.119.67:8000/play/a0pl/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-q9pW1tbdRZY/Ye5TJwwKElI/AAAAAAAAAG0/UT8Vc9ClLjg1NfDGmRuoHUfLdbuDR7EfgCLQBGAYYCw/s239-c/SUNDACE.TV.png",SUNDACE.TV
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/922
