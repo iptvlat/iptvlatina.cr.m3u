@@ -458,6 +458,8 @@ https://cache-ssl.celtra.io/api/videoStream/f08aeb661441d8c832ce45fe45e62cb6d93f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU",Senal Colombia HD
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TKYqJbc6ruYsMkTWiqJM6ViYml31lo8DZpQGEa-xWuGzFn0v39MaIsQjN-fYLQiR0_0&usqp=CAU",Canal Uno HD
+https://vsd108.mycdn.me/hls/2244279208539.m3u8/sig/n2TnxumUm6c/expires/1648974047410/srcIp/201.191.254.77/clientType/1/srcAg/CHROME_ANDROID/mid/3308448652891/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TKYqJbc6ruYsMkTWiqJM6ViYml31lo8DZpQGEa-xWuGzFn0v39MaIsQjN-fYLQiR0_0&usqp=CAU",Canal Uno HD
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/20842
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg", CANAL.2 HD
@@ -496,7 +498,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRODh0wc6rMCpNyXjFJ5yddEZnPxFmVxsAsKM7hCgV2tiD11xF2&usqp=CAU",MULTICANAL HD
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/multicanaltvcali.com/wp-content/uploads/2018/07/logo400.png?w=400&ssl=1",MULTICANAL HD
-https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist_w324792579.m3u8
+https://cloud2.streaminglivehd.com:1936/8010/8010/chunkist_w324792579.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/60/37/2d/60372d59-d8a3-daea-7223-8f3caf29be51/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",TELEMON
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/60/37/2d/60372d59-d8a3-daea-7223-8f3caf29be51/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",TELEMON
@@ -508,7 +510,8 @@ https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/ind
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD
-https://vsd108.mycdn.me/hls/2244279208539.m3u8/sig/n2TnxumUm6c/expires/1648974047410/srcIp/201.191.254.77/clientType/1/srcAg/CHROME_ANDROID/mid/3308448652891/video.m3u8?p
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
 http://ui.mrzutv.net:8080/spiderman/spiderman/66307
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
