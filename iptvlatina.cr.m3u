@@ -794,7 +794,7 @@ http://190.83.119.67:8000/play/a0sh/index.m3u8
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/171.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TBS_2015_%28Pink%29.svg/revision/latest/scale-to-width-down/250?cb=20200914191845",TBS HD
 #EXTVLCOPT:http-user-agent=20100101
-http://latinosiptv.online:8090/notocar/xmauc84bx1/923
+http://190.83.119.67:8000/play/a0qj/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9yCmJju6nBg/Ye36EI_Qo6I/AAAAAAAAAGE/iozU3kkUvSot7RupOwjM6lQtDOMnDE-HQCLQBGAYYCw/s239-c/TNT.jpg",TNT FULL.HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/500.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9yCmJju6nBg/Ye36EI_Qo6I/AAAAAAAAAGE/iozU3kkUvSot7RupOwjM6lQtDOMnDE-HQCLQBGAYYCw/s239-c/TNT.jpg",TNT FULL.HD
@@ -823,12 +823,12 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/84.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/CMcnNJXtP6-HBauZdDnNDvXsMzXMAu8H1fOZpnqOumjTqQxxa4nBccopFs_Jqf7snKaF4WbUmFHtshuu21I=w70-h71",WARNER HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/102.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/CMcnNJXtP6-HBauZdDnNDvXsMzXMAu8H1fOZpnqOumjTqQxxa4nBccopFs_Jqf7snKaF4WbUmFHtshuu21I=w70-h71",WARNER HD
-http://etvhome.com:25461/Arturo/Arturo1/127034
+http://190.83.119.67:8000/play/a0t6/index.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/151.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 #EXTVLCOPT:http-user-agent=20100101
-http://latinosiptv.online:8090/notocar/xmauc84bx1/19315
+http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",PARAMOUNT CHANNEL HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/200.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",PARAMOUNT CHANNEL HD
@@ -1884,6 +1884,8 @@ http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:li
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="ARGENTINA",PLANETA TV HD
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4wxSZfuLB0k/YkknsQdv2BI/AAAAAAAAAZg/zUq2FbGQRYEfbZj_xpCiyKYaPnOjZzWyACLQBGAYYCw/s239-c/CINE%2BVALLELL.png",CINE VAULT
+https://gsn-cinevault-80s-1-us.samsung.wurl.tv/1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1484239605/of_400x400.jpg",CANALES TV CINE
 https://www.digitalsky.com.kh/uploads/videos/OneTV-Sabay_19_05_2018_2.mp4
