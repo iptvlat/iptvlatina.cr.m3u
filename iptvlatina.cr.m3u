@@ -29,7 +29,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b9pQsApzqhM/YhR9S1FFuDI/AAAAAAAAARE/PhCpvkorOY4pwkt8JkDxEmvbehdLsbNJwCLQBGAYYCw/s239-c/IMG_20220221_235126_edit_8765889247906.png",TV SUR RADIO CANAL 5 HD
 https://vsd123.mycdn.me/hls/560141306398.m3u8/sig/JRT6UX1oOKg/expires/1647664911285/srcIp/201.191.198.34/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER CABLE.TV HD
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFi4UVrRYyceW_6U7soRTfVJ15yRP0-Au-i1gjOVSGWAbf1bqexjH-bpym2saIF7zhQw_PqquyWGnni-kb3lKdvG6o4mnb64Hl9kcYVTzxspik2GNFO6d4jxr6PaX4hEFtrgVyNKjBv0eDvb8T5670a59jR5UUUFmgUzs67BXyuElnMkUKZAWv5lsLj7aQZdjftJD-i_ha1I5shRWXALAqhowTNRaF3b-KgkhCsU8keTtL9BlWpU0-J8jbJpTFUvwUtBcour8TXPJWSk4kE6GbyM5xyehFRWXjUpQdV63FhddbAhg27tUyuTAjSr6DEdZSwgCw2fqlWrcbQgw2nF2hk9e9pQzNlN2FKmnzzKfKQubv0qZw-03prPnngG1vgxihKpURn_ORlJbbY3PXserHlV1k2W1fOKISgbOcnAGiKNhL-jtVGyteAnKvaPpytI9kpp_BgDhDA92CP9UgCEWW7eRd7rkXCe3f_p8YxcnWv3iu2n7pLZ2Dl-EKAhdEV6zO8PfgqCX6VibhdJtMbJ6edGLkhtYsOuNzzF6uxJwg0r7nmkzH5TNMw2O9xLiV5dqxcrUuZLWhrMgbrax94H1Eyqm15HfIi_mQp_h5vTELxnTRJ2dRCpUhXYVAaHkO3J7XWq8SshA3r2LmH2nyBdFz2Ku9Z_yeL8z5z-XKKHq1kYGgHN2Pqh4-Pww1Vo7omZrACKVdrR6GLk5LajcH4M61pCgHGLGPGFpFLiMqI-KuIumQlsJ9PGapdAAd09i6Rb9XCmU5s0YpFGeonP7iBzSjGAvPvzqz9Pw5dFMy_BA_NLIiDFSUBVNQj-7Qq4rcuQlpOvW0IhCIZKXcnDoBmF0DqUVU70h3wvvjFg8eMaHv03S5Mc3wlFKydiJNw9z8mpgZGgzR2bT9xoLYgXoFrMggASoJZXUtd2VzdC0yMLED.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x1Oa5TjlGWSaeA-aeXHvA47lOomIWdGuq1YKb_ZBCUooe4W92h-QTTvmv3spnVZ_ZNmaER9uFPA=s900-c-k-c0x00ffffff-no-rj",STV CANAL 5 SAN VITO TELEVISION HD
 http://stmv1.srvif.com/sanvito/sanvito/chunklist_w902196568.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/afiI8Zm7HZZSRJnbMrcDXnREskszX8ZxKkreOugKPJYTaQQhWVJfqEaLcFpBqyPXYO9Xc0dtzvKfaXH_2g=s239-c",CANAL 6 HD
@@ -1322,7 +1322,7 @@ https://vdo2.streamgato.us:3337/live/zuutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/tv-norte.png",TV NORTE HD
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
-https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230338532.secure.m3u8
+https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230366074.secure.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png", CANAL 6 DAJABÓN HD
 https://cdn4.hostlagarto.com:8081/static/canal6tv/chunks.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
