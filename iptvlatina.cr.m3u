@@ -361,8 +361,7 @@ http://www.lengua.com/anthems/Honduras.mp3
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSCX4W_lgCmG7AulCkc2DAaWDREd4ZIq7pL1PCQ=s900-c-k-c0x00ffffff-no-rj",TELEVISION COMAYAGUA CANAL 40
 http://st2.worldkast.com/8058/8058/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://lh3.googleusercontent.com/-FWfcV7X3YmE/YjLgmFFDPII/AAAAAAAAAWk/ciegfQBycyIpxYQHgRrmrw5QMdUIWARTACLQBGAYYCw/s239-c/VTV%2BHD%2BHN.jpg",VTV HD
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ5MDE3NDU2LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTA3Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjEwNyJdfSwic2lnbmF0dXJlIjoiM2M3NTQ2OTFlMGE2YzNiNWRkNGFiNWUzM2E4ZDgzYjU2MTBjNmI4ZiJ9
-/sig/3SjhiRn32gQ/expires/1648976582875/srcIp/201.191.254.77/clientType/1/srcAg/CHROME_ANDROID/mid/3827125984774/video.m3u8?p
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ5MDE3NDU2LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTA3Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjEwNyJdfSwic2lnbmF0dXJlIjoiM2M3NTQ2OTFlMGE2YzNiNWRkNGFiNWUzM2E4ZDgzYjU2MTBjNmI4ZiJ9/sig/3SjhiRn32gQ/expires/1648976582875/srcIp/201.191.254.77/clientType/1/srcAg/CHROME_ANDROID/mid/3827125984774/video.m3u8?p
 #EXTINF:-0 tvg-logo="https://lh3.googleusercontent.com/-FWfcV7X3YmE/YjLgmFFDPII/AAAAAAAAAWk/ciegfQBycyIpxYQHgRrmrw5QMdUIWARTACLQBGAYYCw/s239-c/VTV%2BHD%2BHN.jpg",VTV HD
 #EXTGRP:unsorted
 http://web24.live:8080/testline/testline/41455
@@ -672,7 +671,7 @@ http://190.83.119.67:8000/play/a0sg/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I-xHH7bNjS0/YBNnpeyb8qI/AAAAAAAAawc/9P4F4hfMfB4oBJHQTVl0VMiXDlQtciH2gCPcBGAsYHg/s71/golden.PNG",GOLDEN HD
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zdgZWj5yiMk/YBNvjSlIzJI/AAAAAAAAaw0/K9hZONhu81QKcMlFd7zChAa-XLoCsu-NACPcBGAsYHg/s71/golden-plus.PNG",G PLUS + HD
-http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8
+https://vsd69.mycdn.me/hls/2192908880455.m3u8/sig/I57GC4cLnac/expires/1649029807681/srcIp/201.191.254.107/clientType/1/srcAg/CHROME_ANDROID/mid/5277553860167/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zdgZWj5yiMk/YBNvjSlIzJI/AAAAAAAAaw0/K9hZONhu81QKcMlFd7zChAa-XLoCsu-NACPcBGAsYHg/s71/golden-plus.PNG",G PLUS 
 http://etvhome.com:25461/Arturo/Arturo1/13348
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6tMHr3iDTaQ/YBNnpRSLLVI/AAAAAAAAawc/P18fo8Qv-MgWoEo2DPkMtAiPIuEb212awCPcBGAsYHg/s71/golden-edge.",G EDGE HD
