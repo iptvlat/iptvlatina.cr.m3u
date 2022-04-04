@@ -515,7 +515,6 @@ http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://vsd89.mycdn.me/hls/2244280519259.m3u8/sig/pQ_lE2zhhv0/expires/1649135563663/srcIp/201.191.254.5/clientType/0/srcAg/CHROME_ANDROID/mid/3308449963611/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://telecable.es/bundles/app/images/channels/caracol_200x200.png",Canal Caracol HD
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
