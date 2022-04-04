@@ -1,6 +1,6 @@
 #EXTM3U
 #http://iptvlatinacr.com/
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/10/16/5959432.jpg",IPTV LATINA.CR CHANNEL
+#EXTINF:-1 tvg-logo="http://iptvlatinacr.medianewsonline.com/img/iptv.png",IPTV LATINA CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
 #EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",O4.04.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
@@ -29,7 +29,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b9pQsApzqhM/YhR9S1FFuDI/AAAAAAAAARE/PhCpvkorOY4pwkt8JkDxEmvbehdLsbNJwCLQBGAYYCw/s239-c/IMG_20220221_235126_edit_8765889247906.png",TV SUR RADIO CANAL 5 HD
 https://vsd123.mycdn.me/hls/560141306398.m3u8/sig/JRT6UX1oOKg/expires/1647664911285/srcIp/201.191.198.34/clientType/1/srcAg/CHROME/mid/1906333261342/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/eab6a7e0-b19a-45ae-ad37-b6ddc0a8c6ba-profile_image-70x70.png",SUPER CABLE.TV HD
-
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cp8F8YdnNnsgTupfrE_NB_zZl1-sMqGSgt5gvPx-pmwTFmHtbNyfbigkAlenLlkRmaKuo1AgGBDOPURGsY_XNMfE-wbcer7ZGfJ_396Ya9qq-oWTc20WFwMfDoOM-xjk02g4PAZswT_Nt0g9JKEq3GtDikb3NJ2wfrOxlG-Qv4oGpA76RYYS-Zxznsre9hQoYLTSY7VUxg-MhiQoOyF-sjbcoy4xwDY8SnliabxT90zACAHPWFpOfT0DfCiPUZbsMUQAFGuvdZo_UPxgniOWeZhiTSNV_qC3UpNw4fnFsrQx2OFQYO5eaY9LxNIzIVqjk4jKLao2RGKqUCIaPPbeSa3K1qc_cERqFD711tZhnUR9gyie_KDH4kXi_9aICNqYZzbkcMGLst7aSyBzjhqwSldfpsUYofZSQANjoHpenlclRIAuWWdUauNuVRApRiZTeKBuV-HWY3kLdb7UfsYGPzhp0mLPc3gDHwA2wY3p4NOMZegXRdzcsj3_RAOjQlJl1EUdXa0fowWPLHWdwf07acuhurhnGFO-aZ-y-MzCbbleKFrijCLhvAWjRTT1jNmjdjmT72k9vzIVz-FQZLbphBK80jioT3zUrETRW1gU2uFLsZwCyCkBW2of1X7frnc8OhZk55IocXoRlSDCyOPSZXGZ6QPJC2zf3vr8TZxMpk48NEYYwmFjzX_DXlTVN-AVltN8DfmQGn45X_O_J569f80J5MI6eP1GXd3D5Zh3ZL__qi9ivuRv-B5T8oHBDdpreG9WSiaD3DHOWBSvKyfC-n0BFXkG2GSBseaSAgcTdnLBQZZrYM2gD_L-bWfS5qjJInU_UZWosiMaCONkMVg0QbhFhCk9GLS3X09Hd3cfPwtml-iLUZFAr_fDtMvQO9JkJKAaDKV2oKDBhpXnh1zAbCABKglldS13ZXN0LTIwswM.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x1Oa5TjlGWSaeA-aeXHvA47lOomIWdGuq1YKb_ZBCUooe4W92h-QTTvmv3spnVZ_ZNmaER9uFPA=s900-c-k-c0x00ffffff-no-rj",STV CANAL 5 SAN VITO TELEVISION HD
 http://stmv1.srvif.com/sanvito/sanvito/chunklist_w902196568.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/afiI8Zm7HZZSRJnbMrcDXnREskszX8ZxKkreOugKPJYTaQQhWVJfqEaLcFpBqyPXYO9Xc0dtzvKfaXH_2g=s239-c",CANAL 6 HD
@@ -966,6 +966,8 @@ http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/67.m3u8
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/61.m3u8
 #EXTINF:-1 tvg-logo="https://images.tigocloud.net/j1bxozgharz5/sv2TGlIXiCagUhVVFwBtDrh3/3f87250f2524b966ae7f019b03880dd6/ic-canal-hgtv.png?q=70",HGTV HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/23.m3u8
+#EXTINF:-1 tvg-logo="https://elgourmet.s3.amazonaws.com/programa/programa_INFOMER.jpg",EL GURMET
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA tv HD
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA Space Station 2
@@ -1308,7 +1310,7 @@ https://vdo2.streamgato.us:3337/live/zuutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/tv-norte.png",TV NORTE HD
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
-https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230366074.secure.m3u8
+https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230390975.secure.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png", CANAL 6 DAJABÓN HD
 https://cdn4.hostlagarto.com:8081/static/canal6tv/chunks.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
