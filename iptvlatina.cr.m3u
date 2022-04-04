@@ -460,7 +460,7 @@ https://cache-ssl.celtra.io/api/videoStream/f08aeb661441d8c832ce45fe45e62cb6d93f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU",Senal Colombia HD
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TKYqJbc6ruYsMkTWiqJM6ViYml31lo8DZpQGEa-xWuGzFn0v39MaIsQjN-fYLQiR0_0&usqp=CAU",Canal Uno HD
-https://vsd108.mycdn.me/hls/2244279208539.m3u8/sig/n2TnxumUm6c/expires/1648974047410/srcIp/201.191.254.77/clientType/1/srcAg/CHROME_ANDROID/mid/3308448652891/video.m3u8?p
+https://vsd108.mycdn.me/hls/2244279208539.m3u8/sig/tKfcQ4eASKk/expires/1649134143294/srcIp/201.191.254.5/clientType/1/srcAg/CHROME_ANDROID/mid/3308448652891/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TKYqJbc6ruYsMkTWiqJM6ViYml31lo8DZpQGEa-xWuGzFn0v39MaIsQjN-fYLQiR0_0&usqp=CAU",Canal Uno HD
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/20842
@@ -626,7 +626,7 @@ http://190.83.119.67:8000/play/a0qg/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Az-Corazon-logo.png",Az Corazon HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/166.m3u8
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png",AZ MUNDO ES MIO HD
-https://vsd70.mycdn.me/hls/2218305915398.m3u8/sig/3SjhiRn32gQ/expires/1648976582875/srcIp/201.191.254.77/clientType/1/srcAg/CHROME_ANDROID/mid/3827125984774/video.m3u8?p
+https://vsd139.mycdn.me/hls/2218305915398.m3u8/sig/_oN0CYqOvqE/expires/1649130194819/srcIp/201.191.254.5/clientType/1/srcAg/CHROME_ANDROID/mid/3827125984774/video.m3u8?p
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png",AZ MUNDO ES MIO HD
 #EXTVLCOPT:http-user-agent=20100101
 http://190.83.119.67:8000/play/a0t4/index.m3u8 
@@ -889,25 +889,17 @@ https://s.vdo.ai/vhs/1.m3u8
 http://190.83.119.67:8000/play/a0uf/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME 4K
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/814.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME 4K
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSytgjgiyrfUvgfhCZ/HycjtdAgbhfuedubgOouvo59jhvkhogf0vgjOggzfdhrYvvdvbgqX/615
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME HD
 http://190.83.119.67:8000/play/a0uh/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 http://latinosiptv.online:8090/notocar/xmauc84bx1/19462
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD
-http://etvhome.com:25461/Arturo/Arturo1/13676
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSytgjgiyrfUvgfhCZ/HycjtdAgbhfuedubgOouvo59jhvkhogf0vgjOggzfdhrYvvdvbgqX/617
-http://23.237.132.90:8081/PREMIUM/HBO_MUNDI_TWO/playlist.#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP FUL.HD
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP FUL.HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSytgjgiyrfUvgfhCZ/HycjtdAgbhfuedubgOouvo59jhvkhogf0vgjOggzfdhrYvvdvbgqX/616
+http://latinosiptv.online:8090/notocar/xmauc84bx1/19242
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP HD
-http://172.107.198.38:25461/Arturo/Arturo1/28903?token=H0ddUEMMGltHAQFSVwdWUVECDldWAAYGWwRfUAMGBA5XBFYGCFUKUgRGGxUXFUYHVVpmC1NBDAZaClYGHEFGSwEXalhURgJDV1wHA11TFk4WQ1APUkEMBVQHUwwFVQUAU0kXQVkAGltHVgYCVVYWThZSQRZSEVhVDmwCUEYKUF1GX1tEXAgUQwoKaFMBDFUMUBUDQAdBGhYLQBYXCg1GVAhJF1NZEEoAEQEVDUZTBFsEFRVAVAxDWhZBHxcKQXBqRkkXVEgQXQ8WDVhZRlsWFkcVFUBeEGlGB0ASR1UCXl0WRw8TAEYUQwgFT2gHDloMUVRNC1gNRRZYEVUXHEFeVwoMQV5CO0gIAUYNFVVQAVANFUQ=
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP HD
 http://23.237.132.90:8081/PREMIUM/HBO_POP_TWO/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/q5WQtk8hkk7_AWGprMRo_CjVl3JLckJu8pzPmMz70-Od6Yg_-40U3rwbYJjTML03mrTQOmlx7OOvLVXHJCw=w70-h71",HBO SIGNATURE HD
