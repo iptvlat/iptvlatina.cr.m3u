@@ -851,18 +851,18 @@ https://endemol-reeltruthcrime-1-us.roku.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgi28D6c9plWeTR_HVv7u7IyKCGso-pEWm6HrCeGhkzaxAitKB_mb_8hpLhDOy0lfy5lvuA-H6HrIEMhKDqeM0ZUZZqTZnWZ6jt-CZUYcPUbf540S7z63zZJZDCZ5LR3cwHa1UGCHFkAqobni9N2y4rPf5JovWvnyj0mUTefo7ITkmOsain2SlSDxK6Pg=s16000",UNIVERSAL PREMIUM +
 https://vod-progressive.akamaized.net/exp=1644303431~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4332%2F25%2F646663419%2F2966103269.mp4~hmac=080c7053e22825ac50c9bdc511a84f26c6ebe034e50ec8e29a8b1413b1e42031/vimeo-prod-skyfire-std-us/01/4332/25/646663419/2966103269.mp4
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="Entretenimiento",Univeral Premiere
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/901.m3u8
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/901.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_cinema.png" group-title="Entretenimiento",Univeral Cinema
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/902.m3u8
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/902.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="Entretenimiento",Univeral Comedy
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/903.m3u8
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/903.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Entretenimiento",Univeral Reality
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/905.m3u8
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/905.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Entretenimiento",Univeral Crime
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/904.m3u8
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/904.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXEs_SEkxKiU8CBRKVPJBL80Hadl0kq_UXxzIIXbxkkVgbjwD0kz_Tw4RzYcKxyj3dZ4&usqp=CAU",HBO HD
-http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/654.m3u8
+http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/654.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXEs_SEkxKiU8CBRKVPJBL80Hadl0kq_UXxzIIXbxkkVgbjwD0kz_Tw4RzYcKxyj3dZ4&usqp=CAU",HBO SD
 http://190.83.119.67:8000/play/a0pr/index.m3u8 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YUEbpKFmy5A/YhRbnqa8kYI/AAAAAAAAAPw/y-sXRn1ZX1YQlE2nMexJub6VFfe_1j4dACLQBGAYYCw/s239-c/Screenshot_20220221_202525.jpg",HBO 2 HD
@@ -1472,7 +1472,7 @@ http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpokXNnKwNhroVXgdUAadTFXN27CEkCaJ_FdZ1ARX_Z7KzdTRVbNaZLYDM1dhFiNvdl0&usqp=CAU",FMTV FRECUENCIA MUSICAL
 https://stream-us-east-1.getpublica.com/cl/3c9edb80-90db-4926-80e4-ba34f49ae678/1280x720_1454539_0_false.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMjDUNypk7L48zz7e0KS2dtdKOR_DdYcqoawEumackypXYlfutlRZtGV5DYxrAenE8bY&usqp=CAU",FMTV MOVIES #2
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/plhttps://mediastreamm.com:3449/live/mlecaroslive.m3u8aylist.m3u8?PlaylistM3UCL
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/plhttps://mediastreamm.com:3449/live/mlecaroslive.m3u8aylist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWae2gXI2bmF76XThJPYzOcjWaFPRg-O47_tTKRXbGb1hPFgPXPN-1PnowbpOqJOBVjfo&usqp=CAU",FMTV SUPER CINE #3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMRydpnOjYhunC5rd3h8StG3E01aZjfhB57VVQUd8vbFKlcYG5zZbRvwsNz0NZB15JXY&usqp=CAU",FMTV SUPER CLASIC HD
