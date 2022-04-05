@@ -1280,7 +1280,7 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7H4ZZVpypexXqbp7Devw9Jo8H1FMPIv4eA&usqp=CAU",ITV PATAGONIA HD 
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/la-ruta-91-tv.jpg",LA RUTA 91 TV
-https://cloud2.streaminglivehd.com:1936/fiebre/fiebre/chunklist_w542644965.m3u8
+https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/crom-tv-el-canal-del-siglo.png",CROM TV canal-del-siglo
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQm28YEyDDYOvUFYJYtelZnk5_K1qLC4ctw&usqp=CAU",GUAYMATE.TV
@@ -1347,7 +1347,7 @@ https://panel.streamingtv-mediacp.online:1936/8170/8170/chunklist_w547238305.m3u
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/do-ame-47-tv-1188.jpg?fbclid=IwAR1r-g3rV6p267JpjOxS7T-kt_or8H2T-ebvAtOyQlFqig7k8WTntWPYI7g#",CANAL AME 47 HD
 http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png", XTREMO TV CANAL 22 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png",XTREMO TV CANAL 22 HD
 https://vdo1.streamgato.us:3478/live/xtremochannellive.m3u8
 #EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png",READY TV CANAL 6 HD 
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
@@ -1420,9 +1420,9 @@ https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group4/M01/66/5A/ghoGAFyDGeGAQHDdAAA-FUoMcGc256.png",LTV Canal
 https://medios.sirtel.cl/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816676363075809281/46BvFpRc_400x400.jpg",CANAL 21 TELEVISION
-https://tls.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+https://tls.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/43y4egsergesrgwes.png",C.11 TV AYSEN 
-https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8?PlaylistM3UCL
+https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.digitaloceanspaces.com/tenant/5f45346f42e1225e3d9f827f/settings/logos/5851729c-252f-46c0-a90c-1507c305169e.png",TVR Canal 11 Curicó
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBEXNGL-2SyiG0IEm-fSCu5LgrWXU07pI0ueyNIkLRb-y7Za2_JkRLuXg5E4lgh7k0R8&usqp=CAU",CONTIVISION
