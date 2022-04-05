@@ -1422,7 +1422,7 @@ https://medios.sirtel.cl/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816676363075809281/46BvFpRc_400x400.jpg",CANAL 21 TELEVISION
 https://tls.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/43y4egsergesrgwes.png",C.11 TV AYSEN 
-https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8
+https://v2.tustreaming.cl/canal11aysen/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.digitaloceanspaces.com/tenant/5f45346f42e1225e3d9f827f/settings/logos/5851729c-252f-46c0-a90c-1507c305169e.png",TVR Canal 11 Curicó
 https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBEXNGL-2SyiG0IEm-fSCu5LgrWXU07pI0ueyNIkLRb-y7Za2_JkRLuXg5E4lgh7k0R8&usqp=CAU",CONTIVISION
