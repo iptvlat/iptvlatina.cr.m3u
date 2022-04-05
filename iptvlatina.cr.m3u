@@ -2,7 +2,7 @@
 #http://iptvlatinacr.com/
 #EXTINF:-1 tvg-logo="http://iptvlatinacr.medianewsonline.com/img/iptv.png",IPTV LATINA CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",O4.04.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",O5.04.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -1410,7 +1410,7 @@ https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream1
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU",TV+MÁS CHILE 
 https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w420735941.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a2yVA8RwFQI/YBNnpfTnNeI/AAAAAAAAawc/bm1wV0fMvf4HVtQO9fl7aOItN7nhwv0hwCPcBGAsYHg/s71/tvn.PNG",TVN HD
-http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8?PlaylistM3UCL
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a2yVA8RwFQI/YBNnpfTnNeI/AAAAAAAAawc/bm1wV0fMvf4HVtQO9fl7aOItN7nhwv0hwCPcBGAsYHg/s71/tvn.PNG",TVN 
 http://89.105.194.59:25461/live/clsp100$/clsp100$/158.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sOXixjIB3Nw/YBNnpTvemAI/AAAAAAAAawc/tYWTRueaZHYttAQdsp2NwESG2vZHS02uwCPcBGAsYHg/s71/mega-chile.PNG",MEGA HD
@@ -1474,7 +1474,9 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV POP 
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLixwwv011b2TPtZd5Za_WkgYXkl-ynNBrJ7GEhxwgCmg2MK44SZTgKQac90lUdDwXKW8&usqp=CAU",TVR
-https://unlimited1-cl.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?_=1
+https://redirector.dps.live/hls/tvr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLixwwv011b2TPtZd5Za_WkgYXkl-ynNBrJ7GEhxwgCmg2MK44SZTgKQac90lUdDwXKW8&usqp=CAU",TVR
+https://unlimited1-cl.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d1cf85869f9155b5839539a5dea311ea.png",RTV Región Televisión Ñuble 
 https://live.tvcontrolcp.com:1936/guzman/guzman/chunklist_w1380894878.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Oq7huantoRI/YKvGS5rJYMI/AAAAAAAAcek/8lku1DBmqmgafDV5LxHAbYugfurIppJRQCPcBGAsYHg/s71/la-red-chile.PNG",LA RED HD
