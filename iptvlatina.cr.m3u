@@ -432,7 +432,7 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b120000
 http://190.83.119.67:8000/play/a0rj/index.m3u8
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL 11 SD
 #EXTVLCOPT:http-user-agent=20100101
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_2500.m3u8?aid=60356e540f843032743f6852&uid=MurA6Ca0S1WLPsQdo5rxJrpElb1dzKlk&sid=rIsnZSFYzYlLroLsyt8g8wxsoPYb6l7W&pid=0lv9jP5vpYDPJFhQDdjX0im3KUtLlGbS&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1648869179353&ot=UbqzBTgmLAYkYDVqgOvJsw&proto=https&pz=us?p//xyz_player.video_playlist-hls.m3u8
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2378?aid=60356e540f843032743f6852&uid=MurA6Ca0S1WLPsQdo5rxJrpElb1dzKlk&sid=rIsnZSFYzYlLroLsyt8g8wxsoPYb6l7W&pid=0lv9jP5vpYDPJFhQDdjX0im3KUtLlGbS&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1648869179353&ot=UbqzBTgmLAYkYDVqgOvJsw&proto=https&pz=us?p//xyz_player.video_playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL 11 HD
 http://clubtv.link/31fin/dd19/lista2.php?c=a0gt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-03xwlOzaQVU/YjJUe433J4I/AAAAAAAAAWA/7PA4eQVN5U0NLsa-kONUzgKIhcod6hH8wCLQBGAYYCw/s239-c/GUAT.TV%2BDIGITAL%2BCANAL%2B13.jpg",CANAL 47 TV DIGITAL
@@ -445,7 +445,7 @@ http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 HD
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2379
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png",TRECE VISION 13 HD
-http://clubtv.link/21m3/dd19/lista2.php?c=a0gs&f=.m3u8
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2379?playlist_include_framerate=true&allow_source=true&player_type=pulsar&player_backend=mediaplayer&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canal2noticias%22%2C%22channel_id%22%3A455936177%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22lCS5OGz6F5vWrzZIricFJ7SDQy5MoDA7%22%2C%22expires%22%3A1649212170%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.191.254.92%22%2C%22version%22%3A2%7D&sig=4c015325d27dae7fd52b98eadb72b91a5d92563b&cdm=wv&player_version=1.9.0_hls=xyz_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/i/tv/canal-13-esquipulas.png",CANAL 13 HD
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
@@ -454,7 +454,7 @@ https://cache-ssl.celtra.io/api/videoStream/f08aeb661441d8c832ce45fe45e62cb6d93f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU",Senal Colombia HD
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TKYqJbc6ruYsMkTWiqJM6ViYml31lo8DZpQGEa-xWuGzFn0v39MaIsQjN-fYLQiR0_0&usqp=CAU",Canal Uno HD
-https://vsd108.mycdn.me/hls/2244279208539.m3u8/sig/tKfcQ4eASKk/expires/1649134143294/srcIp/201.191.254.5/clientType/1/srcAg/CHROME_ANDROID/mid/3308448652891/video.m3u8?p
+https://vsd82.mycdn.me/hls/2244280519259.m3u8/sig/ver5xbHjIlA/expires/1649296913154/srcIp/201.191.254.124/clientType/0/srcAg/CHROME_ANDROID/mid/3308449963611/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4TKYqJbc6ruYsMkTWiqJM6ViYml31lo8DZpQGEa-xWuGzFn0v39MaIsQjN-fYLQiR0_0&usqp=CAU",Canal Uno HD
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/20842
