@@ -2,7 +2,7 @@
 #http://iptvlatinacr.com/
 #EXTINF:-1 tvg-logo="https://avatars.githubusercontent.com/u/100732866?s=40&v=4",IPTV LATINA CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",O5.04.2022
+#EXTINF:-1 tvg-logo="https://i.stack.imgur.com/DGRWH.png",65.04.2022
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
 #EXTINF:-1 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4
@@ -506,12 +506,12 @@ https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/ind
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
-https://vsd89.mycdn.me/hls/2244280519259.m3u8/sig/pQ_lE2zhhv0/expires/1649135563663/srcIp/201.191.254.5/clientType/0/srcAg/CHROME_ANDROID/mid/3308449963611/video.m3u8?p
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
+http://latinosiptv.online:8090/notocar/xmauc84bx1/2084
 #EXTINF:-1 tvg-logo="https://telecable.es/bundles/app/images/channels/caracol_200x200.png",Canal Caracol HD
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
 #EXTINF:-1 tvg-logo="https://www.chatytvgratishd.me/wp-content/uploads/2020/05/caracol-hd2-en-vivo-1.png",CARACOL 2
 http://dream4k.co:2082/mminass770399/alvrdbib3s/91503
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/KC6ys0y.jpeg",RCN NOVELAS HD
@@ -1105,6 +1105,10 @@ http://qqtv.nl:8080/norma/12345/87105
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJPjWgA.png",INTERCABLE CANAL 10 HD PARAGUAY
 http://201.217.3.212/TV/intercable/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Sur Tv" tvg-logo="https://static.wixstatic.com/media/7acae1_43c83483b98d4caf997a9aa66858694c~mv2.png",Sur Tv
+http://iptv.streamhispanatv.net:25461/playgt/123456/92
+#EXTINF:-1 tvg-id="" tvg-name="Sur Tv" tvg-logo="https://static.wixstatic.com/media/7acae1_43c83483b98d4caf997a9aa66858694c~mv2.png",Sur Tv
+https://cdn.streamhispanatv.net:3050/live/surtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/logoroga.com/wp-content/uploads/2017/10/snt-hd.png?fit=1000%2C1000&ssl=1",SNT HD
 https://py-snt-snt-app-e86tf4-live-0-cdn-0.ned.media/snt/smil:snt.smil/chunklist_b850000.m3u8
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg",SUR.TV HD
