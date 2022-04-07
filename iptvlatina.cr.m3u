@@ -551,7 +551,7 @@ http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OxUQ4f-b_y_Gb1rOxD7IP21hR97mzuWgzZ0F7WXIwgkmNIxbmLh9Ao4FUATrrQJYg-0U5g9HJEZxfBEC5A=s239-c",IMAGEN TELEVISION HD
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSytgjgiyrfUvgfhCZ/HycjtdAgbhfuedubgOouvo59jhvkhogf0vgjOggzfdhrYvvdvbgqX/623
+http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
 #EXTVLCOPT:http-user-agent=20100101
 http://latinosiptv.online:8090/notocar/xmauc84bx1/996
@@ -643,9 +643,8 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/997
 http://latinosiptv.online:8090/notocar/xmauc84bx1/20911
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU",UNIMAS HD
 #EXTVLCOPT:http-user-agent=20100101
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/HuvkyfWdhyfh70vghjffcZvhfkgocrd0hfvhgxfSytgjgiyrfUvgfhCZ/HycjtdAgbhfuedubgOouvo59jhvkhogf0vgjOggzfdhrYvvdvbgqX/678
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU",UNIMAS HD
-#EXTVLCOPT:http-user-agent=20100101
+http://38.18.238.42:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU",UNIMAS 
 http://latinosiptv.online:#EXTVLCOPT:http-user-agent=20100101
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://user.tvcluboficial.com/stream/free_ABRI_Lan/m8q/14.m3u8
@@ -2011,6 +2010,8 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqEFseo1oXCmdx3DvR3f1bnv883
 https://128.130.01.125ZONAFILMS
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png",TERROR ZONAFILMS HD
 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/892771bc-ec35-462d-9c86-8eea2079842b-profile_image-70x70.png",ZONAFILMS.HD
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cp4Fd1DBnrYVQjWIYU4LK_EPtiDagiEo32iAvsxw19-buldiSfjclviEJHaFwkuFbv782rKKOs_GVnD4An0s3y5wjj9iieGpBn4CcFljkrFVYf2F7lHiIhRAC4in7f5WM3oEiE6FRGEJ70pOcXc5lUjIevkqvPOSPRXPt1OvDchz1K440Z_GxL5FdqI7ZZqYWV9rHM0nDYli7FFVt2EqGszia-Tyw_RMvDtjLRRxZrmujbYNW-sZQxWxUPpCMelvtFp9EoQGuKG3g9mekO2K3M7dxQECWsRn_4cuMsMaiz84JiFFxuavAbSrRgH8gkLhyp5VPqTWI8K_UHOYd8OpH3ygZozEZuDsKyLXMZh0sTn2Ma-JditEuoMA7Ny_PCG9BjDXdIIocZIqfcqTgrw8qJN7tst_TcUrbXJhWboWLw_-1OPCA8Xi5dU3C0EM3Rhl2m1aVyDzJqqJYFHZDvWzITOGUdGHig6ZfMfYNWZOnZZrf0VjRlbTWg2gfysB7AtqCYtI4t6wMGwKUKPYpS9V_y-H9sSSjRBqUkXkr-QtjWy_0EeqrXhekGUhb3sXdtKlAHW8K7Dz35e2cTNr9Tm-HHOadw5ACQUe00N9RmTryforbA8ubU4_hpuxThKV_TP9aWBX0Uz3q4iAy2OC06b3Bkd_BP__p-qrUDjRukkZrJAxofIolxhUWu03XDmb6jI3VPc0vmVneOauCa54oinQ6FZJanw152Z-BP0Ar-wNCTA9M7yDaV-mvvxQf-ZBn2IC3MVkm-YxdE2IMa6LB3LgO1GB1L1KEKaWsdGUybQyrgEzn1AQxoIpLEmtLD2ogForU4AMFr2NhtXu1grYlKBNRd0XKNi4-Xmak7uP3EBbT4vv_Qo2PeMxB7lem_LGCME08RoMHBR24ewQwt1GBtkOIAEqCXVzLXdlc3QtMjC1Aw.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-70x70.png",zonafilms.TV HD
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpwFT7iJfHgX03fYiAPyZUn1CRyLDEuIpHZnyZFKGULp3fiUbtRo59VsfbRrbl8MlUQ0eqZYIv8ZEm4G1nsmK5IBuRPNFV1lqWW7JZqB_VCBn_vAr82kwhMdNzwWJ81bxTLfmIFc_JuWCglTPFcKVn1cN5sDG8suI3F_WGUgkqqx69twiyezL1NDYUyrvNRjIW-DvDb6pVzhQqHTYfKF01yeg7WnERbYb88pLSDH9COoI1YACchTySwFLaK_P1d2pseirHNaue4S1UnwLIp_YlxUUfsQgDFEOYosFu6f6HtM9FDYCMS4MxbIXcBPd9sFIPaKdPw2rwY-SdKO-oxmPnY-KLFAJlXeiaamS40BeqaCsvEKZLU8lzsAe78jLc8WHT330Sr8nBJNU7WXb59-RvConLFSITAg_SlDmWX4mdY3521xgdMS1LEVgcF60NMlF-JLYrMvREWl2fMfdUTH0TskXTeFOyNo7NQGPa04WLzGJjVkW8cjffey3p9IOL1iA6pHuwYFrMDdbeADMUhYVfiZnyuDqdmrUziqwyGwt2alu3xfagxxpOVgTsyQ8FZTi5jnFba6du6A8y8n6mQloWndPV684YqDsFTRzLrTDoJfOuF6JO4jNqJ1W5UV51r0GEV6Ssvv4GYMlgRJuESK7R7kVOWFJtUhBOlpkeryJv3n6JQfoEgqTvVFGyf0NzYjql4J8W04iGmJy84Hy9NJmh_P2SezXM0o_JhR1bSsMabXIRHbOGx10uFd7oPIqGAR7yTsTiM2VZjF3NqJv02P7WEmnkpNoMekhlwEAAAYDgC26thWKw3zqJkM0gk2dhS_jrvwwawkO3sKXz_s0FukojMQPAhPhKe7clNgiZ3-JlbH2vzhiievwEPidWLfJHYaDLnRipduAij-uWYQaiABKgl1cy1lYXN0LTIwtAM.m3u8
 
