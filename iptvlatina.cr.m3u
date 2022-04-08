@@ -505,8 +505,6 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD 
 http://tvplayer.ga:8080/live/peruapps/tvonline/188.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1054474912205889538/V0uOoP5w.jpg",CITY TV HD
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2084
@@ -579,7 +577,7 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1500707244_DV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png",TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/exp=1601173026~acl=%2f*~data=hdntl~hmac=3658816c3f12bdb76f382cda2473018b3991bfeed4d4f8bc578437340eb193f5/media/27177136_8970901_lsitpsrwj3wsl3hxe9r_1@1628000p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6k2qG_V08oux3Cwkt9AypR8cZaRZRIBqt3qJ14kOFd0cX8D_w63yrgcCRKKfYUlHn5s&usqp=CAU",HTV HD
-http://user.tvcluboficial.com/stream/free_ANGEL_Ugalde/Duu/66.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://mytv.club:8080/unknown/unknown123/27389
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png",TELEHIT MUSICA HD
@@ -663,8 +661,6 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 https://vsd69.mycdn.me/hls/2192908880455.m3u8/sig/I57GC4cLnac/expires/1649029807681/srcIp/201.191.254.107/clientType/1/srcAg/CHROME_ANDROID/mid/5277553860167/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zdgZWj5yiMk/YBNvjSlIzJI/AAAAAAAAaw0/K9hZONhu81QKcMlFd7zChAa-XLoCsu-NACPcBGAsYHg/s71/golden-plus.PNG",G PLUS 
 http://etvhome.com:25461/Arturo/Arturo1/13348
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6tMHr3iDTaQ/YBNnpRSLLVI/AAAAAAAAawc/P18fo8Qv-MgWoEo2DPkMtAiPIuEb212awCPcBGAsYHg/s71/golden-edge.",G EDGE HD
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6tMHr3iDTaQ/YBNnpRSLLVI/AAAAAAAAawc/P18fo8Qv-MgWoEo2DPkMtAiPIuEb212awCPcBGAsYHg/s71/golden-edge.",G EDGE HD
 http://tvplayer.ga:8080/live/peruapps/tvonline/158.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6tMHr3iDTaQ/YBNnpRSLLVI/AAAAAAAAawc/P18fo8Qv-MgWoEo2DPkMtAiPIuEb212awCPcBGAsYHg/s71/golden-edge.",G EDGE HD
