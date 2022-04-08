@@ -486,7 +486,7 @@ http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/382
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cmbcolombia.tv/vistas/paginas/images/logo.png",CMB TELEVISION HD
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpAF7dT0WRItId78Qq-WIC2egrQyd7kg8zl8yf-AazTq1Dha9ucKkK34agNYImrtBn01GvvreodlTFO9feyVa7MHaHibkEAYbsuV-cg9lEOUEo-uiBsCye8rLl4Iv9Jhro5nQZyx4YqpMVP1USg2xWa9_YYsOMABlsavpRRyLmReqSfv2ZIjMckHm1BApf51IQZZ5CZTRmcxv0GicCPeJZNy773cjZBBqR-q3b3H2Iweu47hFGT116Q-yUhWwlGLyfnAdwAR0MSObzlGt3zLV672W50V7sgSVdRuIAH3zlZsxMJJDRQDlstMvSb3B7ZdX2XcGP7SOvaIFt0-0-IhhLhdCcIU1P02tKQgKw7kIW_x-sJTMF7NF3S-xplyMoVRrQrrgn_tZnCgHj2x0xjwWXZUh-ty_4QqjoBRRS7zESCq1u86HRo7Ye3rM2J6JiZLTQVgWsWhfJJ_OLEXX9VIERaBjzCbC8_Ilt7nkPEpKFyLD96dIcQTtEFaz2bxSzuUaOxi18zI1AXbkuSS7nKoor1-phbFqGRSzU0KKbMUu6gZVT_nB2ZI4Egqo7RMtgs2g2lAnfPO_-lm-uCnTtw4e9ntAzgu1_Cy3sz3eY2vwE91krxTOxuOP34QuA15ij_4nTurep2_8OQd29TE9jflcdRZc-GJT-Q2m41HmDWIv42XJzNWw3M6njzCXjJy01MXejE5ypA_m7TZL36aX7ioSV6Qbu2NTtLQinFuIj7InBJNmqhTYJLdUh2VXFlJ2Zv3RamC0AMalXNzt7s-VKrjpmvXErec0fUZF4YdSLMOeaI2G91HCYJ2xt38wfwsVXIpnhzkVoG9npkRy2gkObbohNfYNFNfEhCa7h-IhgVJ2p4NLF8aDCIrvxdM9HYXEaDYfCABKglldS13ZXN0LTIwtAM.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpIFtTrJCya7aa9sDU5ff8CtltTf5HlaAyyT48kr217Jqxg7PNaRO08pXWpb9wNQgH0vNy3SoPBxmOaZP1SgtX-eLnzG8_Z077k3g-66yZxM1EWy35EkSUrQNWGwTBYuk7jWVvqcPxxl1o0pCLbWPBN1OVLKaTLmyXEh_18vsf9AkF-sE7bBrOMmM8T2IX4TO6G3R05vjXYqE-UG8peXV2IBOyCeYPGHkTY5wHHTVfLiKwuB-dfe4UPqTOKQ4bAFJ5po_n5ARFpTZCcLfflkf8BixKyO0PC12aHqfTR_7o3-VNLXfSgd_wBQO8ioldoeuqlE--mw_vx0Ze2iMHPYyCTNOhw3IYTx_i9xvvdsMHv7xZBlKeV1DeCmEkKZKDCjTCEgAII_KtiurZifewFMkQ5np5O-BV74_4eLpGO_x9KQEBngsVIpPazhwZl6NQ52XyFYgAXJGefbzTqtcHtUYQ84X8h-TQv6B7sqCwBDvSQLVGYtUZoFjspn2UcKn2k62nWlAZO-bSoDHQo-y6xYm4q3vPer9w8QNRHCkrjOlQ9dqI7EWCVCq4ta02DrMCJoxYHikv1TD8uzW4jtQZdt50mp_JiJh2EaNoEQBCGbt_t57XdQiT4eLWfiC2Znpp2-9dpzI0RKO9JKH8mdeE-9HDJ0-XvQAOmmIVgJbIFCRk7LG8Aowg4r60odrCr0vq2IghcLk-Ei9tsZGZXcR57xSQmaRSRfFY17AZAmHT20W4NPSyrZK0PDxTBE57A5wiGA4XbWAEDJDAr5QCJxBdMattJfHrEzgbaaJ6_YryAyW_QiR8DHuPm59G_gN3TFlTo1yaCtoEzJjXCs3ZdCJ_Qka2md6X5PMVQq5usaRajj_mPcTvEiNxoMajzcCWfAGvSs67j7IAEqCWV1LXdlc3QtMjC3Aw.m3u8
 #EXTINF:-1 tvg-logo="https://www.cmbcolombia.tv/vistas/paginas/images/logo.png",CMB TELEVISION 
 https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_KJBldCbMP-sSkFlD_ElKJm_M4BbOx1C10qWnxw=s900-c-k-c0x00ffffff-no-rj",Canal Visión Dorada HD
@@ -519,7 +519,7 @@ http://45.179.140.242:8000/play/a0jf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgqVvJ5.png" group-title="TV COLOMBIA",CANAL CNC
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/chunklist_w292383878.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/M7YKh7nuwvf1Gb3j8HcW0pk_8HzQMLKwFbi4ANz8PDalFzGxxolYSNz91DGKBrL4zX8",NOTICIAS Cracol HD
-http://https://movil.ejeserver.com/live/verteve.m3u8mdstrm.com/live-stream-playlis",t_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+http://https://movil.ejeserver.com/live/verteve.m3u8mdstrm.com/live-stream-playlis",t_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://maxmediasa.co/wp-content/uploads/2021/05/logo-cantinazo-tv-maxmedia.png", Cantinazo TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",RCN HD
@@ -1301,7 +1301,7 @@ https://vdo2.streamgato.us:3337/live/zuutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/small/tv-norte.png",TV NORTE HD
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WrjVcQCSIo/YhRbnSX14EI/AAAAAAAAAPs/eHZ0w5NlvJYrSCYByprEZkIws7iqP5CmwCLQBGAYYCw/s239-c/Screenshot_20220221_033950_edit_20051433896886.jpg",TELE BAHIA HD
-https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230427057.secure.m3u8#https://livestream.com/accounts/18988261/events/7725211/?p//xyz_player.video_playlist-hls.m3u8?https://playback2.akamaized.net/streams/18988261_7725211_lsi42lsvdrxz65woezf_1/master.m3u8
+https://player-api.new.livestream.com/accounts/18988261/events/7725211/broadcasts/230450084.secure.m3u8?#https://livestream.com/accounts/18988261/events/7725211/230450084.secure.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png", CANAL 6 DAJABÓN HD
 https://cdn4.hostlagarto.com:8081/static/canal6tv/chunks.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
