@@ -986,8 +986,8 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1655863.jpg",SPAIN:BOING HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/12/cartoonito.png",CARTONITO HD
-
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg",CARTONITO HD
+http://190.83.119.67:8000/play/a0qa/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RvVSAGJ0OXo/VFxBspPgZmI/AAAAAAAAbXk/Y9jZNiAu9WA/s71/boomerang.PNG",BOOMERANG
 #EXTVLCOPT:http-user-agent=20100101
 http://node.smartersapp.net:2082/USCORP2385/PSCORP7474/273
