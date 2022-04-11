@@ -1835,6 +1835,8 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=8e9368de8c6d0e35dac9110
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WWzogOew0Xw/maxresdefault.jpg",RER TRUTH CRIME
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/512.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-X61Sv_JiuAE/YlPI3IVefEI/AAAAAAAAAZ8/D4_NibiRU_shVwgTle61B6fs_1qS3XGKwCLQBGAYYCw/s239-c/GUATV.jpg",GUATV
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.lacasadeel.net/wp-content/uploads/2021/07/mcm_red.jpg",MARVIL CINEMATIC 
 http://user.tvcluboficial.com/stream/nov/nov/697.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/BSB_Galaxy_small_logo.jpg",GALAXY TV
