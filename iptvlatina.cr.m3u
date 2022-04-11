@@ -452,6 +452,8 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg",Canal 9
 Sololá
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vUzmGKespnKq6EKq246qx1HBoFUBrNXXCV1i-Ci4Nz94s19lQBCpNIfmLj08gTDstemU",EX.TV
+https://cdn.streamhispanatv.net:3508/live/extvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xKJQUi4SNqzXMo7J2kFwM32L00NkM4yTfTjDR13HkRhx-1tWsCVGYUojmPoseIybAEM",CANALES IPTV COLOMBIA
 https://cache-ssl.celtra.io/api/videoStream/f08aeb661441d8c832ce45fe45e62cb6d93f9b37fa8ab82cc94185a05f24a607/x264_inline480p/video.mp4?transform=VideoStream
