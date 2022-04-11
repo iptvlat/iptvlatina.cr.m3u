@@ -578,6 +578,8 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/35701
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3BNTfOkp4W4/Ye5TEhFkz1I/AAAAAAAAAGw/3Xf8COKGL6Y9uTCC48zjKF3W8DuRNXUWgCLQBGAYYCw/s239-c/PASION.png",PASION HD
 #EXTGRP:unsorted
 http://latinosiptv.online:8090/notocar/xmauc84bx1/20878
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3BNTfOkp4W4/Ye5TEhFkz1I/AAAAAAAAAGw/3Xf8COKGL6Y9uTCC48zjKF3W8DuRNXUWgCLQBGAYYCw/s239-c/PASION.png",PASION HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS HD
 #EXTGRP:unsorted
 http://latinosiptv.online:8090/notocar/xmauc84bx1/32535
@@ -1643,7 +1645,7 @@ http://clubtv.link/31fin/dd19/lista2.php?c=a0gl&f=.m3u8
 #EXTINF:-1 tvg-logo="https://elamplificador.net/wp-content/uploads/2020/01/EE-Press-Releases-1030x366.jpg",EUROPA EUROPA HD
 http://190.83.119.67:8000/play/a0rb/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="DEPORTES",EURO CHANNEL HD
-http://clubtv.link/31fin/dd19/lista2.php?c=a0hi&f=.m3u8
+https://edge9-hr.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="DEPORTES",EURO CHANNEL HD
 http://190.83.119.67:8000/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hvYVcTYRluI/YhH9uJE7KdI/AAAAAAAAALA/Wngik9HFLiQjg_1iwTANojOreXZvy0sFQCLQBGAYYCw/s239-c/Captura%2Bde%2Bpantalla%2B%252887%2529.png",CANAL 42.1 TDA CORDOBATV HD
@@ -1664,6 +1666,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/anjzq4NsyOW2mhSLpBg7kXlIcp3wyVCryNy_h8l9jB30ZND_Xi0P1iva4l2P-rlrDLOA6Wve0WXCtOs-xQ=s239-c",Glitz HD
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2347
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/anjzq4NsyOW2mhSLpBg7kXlIcp3wyVCryNy_h8l9jB30ZND_Xi0P1iva4l2P-rlrDLOA6Wve0WXCtOs-xQ=s239-c",Glitz HD
+https://edge2-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtN-w5XJrVncab4NeOXd5qQL-N7ZPiRZllBj_cqdzsHB9_D_fryab9O12LURA14JkmA8U&usqp=CAU",UNI TEVE
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OWudQbZicMw/YBMVU5PDJeI/AAAAAAAAatI/Pyjr9nwQgactxiImMHvJdghekNPtQG_OQCPcBGAsYHg/s71/canal-13.PNG",CANAL TRECE 13 HD
